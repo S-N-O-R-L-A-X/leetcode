@@ -3,7 +3,7 @@ interface DailyTableProps {
   year?: number;
   month?: number;
 }
-
+/*
 function wrapPromise(promise: Promise<any>) {
   let status = "pending", res: any;
   const suspender = promise.then((resolve) => {
@@ -31,18 +31,19 @@ function wrapPromise(promise: Promise<any>) {
 function getData(year: number) {
   return wrapPromise(import(`./assets/${year}.json`));
 }
-
+*/
+import data2023 from "./assets/2023.json";
 export default function DailyTable(props: DailyTableProps) {
   const { year = 2023, month = 0 } = props;
-  const data = getData(year).read();
+  // const data = getData(year).read();
+  let data = null;
+  switch (year) {
+    case 2023: data = data2023; break;
+    default: break;
+  }
   return (
-    <Suspense fallback={<p>loading</p>}>
-      {data.daily.length > 0 &&
-        <ul>
-          {data.daily.month[0].map((v: any, k: any) => <li key={k}>{v}</li>)}
-        </ul>
-      }
-
-    </Suspense>
+    <ul>
+      {data ? data.daily.month[0].map((v: any, k: any) => <li key={k}>{v["题号"]}</li>) : <p>no statistics</p>}
+    </ul>
   )
 }
