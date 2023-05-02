@@ -1,4 +1,6 @@
+import { useReactTable } from '@tanstack/react-table';
 import { Suspense } from 'react';
+
 interface DailyTableProps {
   year?: number;
   month?: number;
@@ -32,11 +34,15 @@ function getData(year: number) {
   return wrapPromise(import(`./assets/${year}.json`));
 }
 */
+
+
 import data2023 from "./assets/2023.json";
 export default function DailyTable(props: DailyTableProps) {
   const { year = 2023, month = 0 } = props;
   // const data = getData(year).read();
   let data = null;
+  // const options = {};
+  // const table = useReactTable(options);
   switch (year) {
     case 2023: data = data2023; break;
     default: break;
