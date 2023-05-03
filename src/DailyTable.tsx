@@ -1,5 +1,4 @@
 import { Table } from 'antd';
-import { Suspense, useMemo } from 'react';
 
 interface DailyTableProps {
   year?: number | null;
