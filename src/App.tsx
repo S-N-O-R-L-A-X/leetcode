@@ -1,6 +1,7 @@
 import { InputNumber } from 'antd';
 import { useState } from 'react';
 import './App.css'
+import DailyGraph from './DailyGraph';
 import DailyTable from './DailyTable'
 function App() {
   const now_month = new Date().getMonth() + 1;
@@ -23,6 +24,7 @@ function App() {
       <InputNumber className="input-number" size="small" min={1} max={12} defaultValue={now_month} onChange={changeMonth}></InputNumber>
       <span className="input-text">月</span>
       <DailyTable year={year} month={month} />
+      <DailyGraph />
     </div>
   )
 }

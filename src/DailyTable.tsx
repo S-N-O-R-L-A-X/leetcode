@@ -1,9 +1,6 @@
 import { Table, Tag } from 'antd';
 
-interface DailyTableProps {
-  year?: number | null;
-  month?: number | null;
-}
+import { DailyProps } from "./constants";
 /*
 function wrapPromise(promise: Promise<any>) {
   let status = "pending", res: any;
@@ -47,7 +44,7 @@ type Question = {
 }
 
 import data2023 from "./assets/2023.json";
-export default function DailyTable(props: DailyTableProps) {
+export default function DailyTable(props: DailyProps) {
   const { year = 2023, month = 1 } = props;
   // const data = getData(year).read();
   let data = null;
