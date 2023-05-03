@@ -107,11 +107,7 @@ export default function DailyTable(props: DailyTableProps) {
 
   return (
     <>
-      <Table dataSource={data?.daily.month[month]} columns={columns}></Table>
-      <ul>
-        {data ? data.daily.month[0].map((v: any, k: any) => <li key={k}>{v["题号"]}</li>) : <p>no statistics</p>}
-      </ul>
-
+      <Table dataSource={data?.daily.month[month]} columns={columns} pagination={{ pageSize: 31 }}></Table>
     </>
   )
 }
