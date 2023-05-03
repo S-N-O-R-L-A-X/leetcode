@@ -1,4 +1,4 @@
-import { Table } from 'antd';
+import { Table, Tag } from 'antd';
 
 interface DailyTableProps {
   year?: number | null;
@@ -75,7 +75,11 @@ export default function DailyTable(props: DailyTableProps) {
     {
       title: "难度",
       dataIndex: "difficulty",
-      key: "difficulty"
+      key: "difficulty",
+      render: (difficulty: string) => (
+        <>
+          {difficulty === "困难" ? <Tag color="red">困难</Tag> : difficulty === "中等" ? <Tag color="yellow">中等</Tag> : <Tag color="green">简单</Tag>}
+        </>)
     },
     {
       title: "rating",
