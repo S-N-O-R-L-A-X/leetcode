@@ -650,7 +650,9 @@
             "difficulty": "简单",
             "rating": "1270",
             "situation": "自己做出",
-            "method": "哈希"
+            "method": "哈希",
+            "learn": "",
+            "unknown": ""
           }
         ]
       ],
@@ -992,7 +994,9 @@
           "difficulty": "简单",
           "rating": "1203",
           "situation": "自己做出",
-          "method": "哈希/三指针"
+          "method": "哈希/三指针",
+          "learn": "",
+          "unknown": ""
         }
       ],
       [
@@ -1322,7 +1326,9 @@
           "difficulty": "中等",
           "rating": "1421",
           "situation": "自己做出",
-          "method": "贪心"
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ],
       []
