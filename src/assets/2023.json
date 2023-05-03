@@ -1329,7 +1329,41 @@
           "unknown": ""
         }
       ],
-      []
+      [
+        {
+          "date": "2023/5/1",
+          "no": "1376",
+          "name": "通知所有员工所需的时间",
+          "difficulty": "中等",
+          "rating": "1561",
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/2",
+          "no": "970",
+          "name": "强整数",
+          "difficulty": "中等",
+          "rating": "1338",
+          "situation": "自己做出",
+          "method": "枚举",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/3",
+          "no": "1003",
+          "name": "检查替换后的词是否有效",
+          "difficulty": "中等",
+          "rating": "1426",
+          "situation": "自己做出",
+          "method": "栈",
+          "learn": "",
+          "unknown": ""
+        }
+      ]
     ]
   }
 }
