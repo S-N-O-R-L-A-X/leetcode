@@ -49,7 +49,7 @@ type Question = {
 
 import data2023 from "./assets/2023.json";
 export default function DailyTable(props: DailyTableProps) {
-  const { year = 2023, month = 0 } = props;
+  const { year = 2023, month = 1 } = props;
   // const data = getData(year).read();
   let data = null;
   switch (year) {
@@ -105,9 +105,11 @@ export default function DailyTable(props: DailyTableProps) {
     }
   ];
 
+  console.log(data?.daily.month[month - 1])
+
   return (
     <>
-      <Table dataSource={data?.daily.month[month]} columns={columns} pagination={{ pageSize: 31 }}></Table>
+      <Table dataSource={data?.daily.month[month - 1]} columns={columns} pagination={{ pageSize: 31 }}></Table>
     </>
   )
 }

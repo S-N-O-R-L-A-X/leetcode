@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className="App">
-      <DailyTable year={2023} />
+      <DailyTable year={2023} month={2} />
     </div>
   )
 }
