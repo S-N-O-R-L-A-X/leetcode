@@ -2,8 +2,8 @@ import { Table } from 'antd';
 import { Suspense, useMemo } from 'react';
 
 interface DailyTableProps {
-  year?: number;
-  month?: number;
+  year?: number | null;
+  month?: number | null;
 }
 /*
 function wrapPromise(promise: Promise<any>) {
@@ -105,11 +105,9 @@ export default function DailyTable(props: DailyTableProps) {
     }
   ];
 
-  console.log(data?.daily.month[month - 1])
-
   return (
     <>
-      <Table dataSource={data?.daily.month[month - 1]} columns={columns} pagination={{ pageSize: 31 }}></Table>
+      <Table dataSource={data?.daily.month[month! - 1]} columns={columns} pagination={{ pageSize: 31 }}></Table>
     </>
   )
 }
