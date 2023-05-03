@@ -60,39 +60,48 @@ export default function DailyTable(props: DailyTableProps) {
   const columns = [
     {
       title: '日期',
-      dataIndex: 'name',
-      key: 'name',
+      dataIndex: 'date',
+      key: 'date',
     },
     {
       title: '题号',
-      dataIndex: 'age',
-      key: 'age',
+      dataIndex: 'no',
+      key: 'no',
     },
     {
       title: '题目名称',
-      dataIndex: 'address',
-      key: 'address',
+      dataIndex: 'name',
+      key: "name",
     },
     {
       title: "难度",
+      dataIndex: "difficulty",
+      key: "difficulty"
     },
     {
-      title: "rating"
+      title: "rating",
+      dataIndex: "rating",
+      key: "rating"
     },
     {
-      title: "做题情况"
+      title: "做题情况",
+      dataIndex: "situation",
+      key: "situation"
     },
     {
-      title: "算法和数据结构"
-
+      title: "算法和数据结构",
+      dataIndex: "method",
+      key: "method"
     },
     {
-      title: "学到的内容"
-
+      title: "学到的内容",
+      dataIndex: "learn",
+      key: "learn"
     },
     {
-      title: "没看懂的内容"
-
+      title: "没看懂的内容",
+      dataIndex: "unknown",
+      key: "unknown"
     }
   ];
 
