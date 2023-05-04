@@ -19,12 +19,13 @@ function App() {
 
   return (
     <div className="App">
-      <InputNumber className="input-number" size="small" min={2021} max={2023} defaultValue={now_year} onChange={changeYear}></InputNumber>
-      <span className="input-text">年</span>
-      <InputNumber className="input-number" size="small" min={1} max={12} defaultValue={now_month} onChange={changeMonth}></InputNumber>
-      <span className="input-text">月</span>
+      <fieldset>
+        <InputNumber className="input-number" size="small" min={2021} max={2023} defaultValue={now_year} onChange={changeYear}></InputNumber>
+        <span className="input-text">年</span>
+        <InputNumber className="input-number" size="small" min={1} max={12} defaultValue={now_month} onChange={changeMonth}></InputNumber>
+        <span className="input-text">月</span>
+      </fieldset>
       <DailyTable year={year} month={month} />
-      {/* <DailyGraph /> */}
       <DailyGraph year={year} month={month} />
     </div>
   )
