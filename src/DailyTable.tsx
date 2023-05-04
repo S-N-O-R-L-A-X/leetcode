@@ -62,6 +62,22 @@ export default function DailyTable(props: DailyProps) {
       title: "难度",
       dataIndex: "difficulty",
       key: "difficulty",
+      filters: [
+        {
+          text: "简单",
+          value: "简单",
+        },
+        {
+          text: "中等",
+          value: "中等",
+        },
+        {
+          text: "困难",
+          value: "困难",
+        },
+      ],
+      onFilter: (value: any, record: any) => record.difficulty.indexOf(value) === 0,
+
       render: (difficulty: string) => (
         <>
           {difficulty === "困难" ? <Tag color="red">困难</Tag> : difficulty === "中等" ? <Tag color="yellow">中等</Tag> : <Tag color="green">简单</Tag>}
