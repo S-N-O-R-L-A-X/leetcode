@@ -88,7 +88,26 @@ export default function DailyTable(props: DailyProps) {
     {
       title: "做题情况",
       dataIndex: "situation",
-      key: "situation"
+      key: "situation",
+      filters: [
+        {
+          text: "自己做出",
+          value: "自己做出",
+        },
+        {
+          text: "看思路写出",
+          value: "看思路写出",
+        },
+        {
+          text: "看懂答案",
+          value: "看懂答案",
+        },
+        {
+          text: "没看懂答案",
+          value: "没看懂答案",
+        },
+      ],
+      onFilter: (value: any, record: any) => record.situation.indexOf(value) === 0,
     },
     {
       title: "算法和数据结构",
