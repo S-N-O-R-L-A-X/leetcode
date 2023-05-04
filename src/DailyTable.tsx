@@ -96,6 +96,10 @@ export default function DailyTable(props: DailyProps) {
         },
       ],
       onFilter: (value: any, record: any) => record.situation.indexOf(value) === 0,
+      render: (situation: string) => (
+        <>
+          {situation === "自己做出" ? <Tag color="green">自己做出 ✅</Tag> : situation === "看思路写出" ? <Tag color="yellow">看思路写出 ⚡</Tag> : situation === "看懂答案" ? <Tag color="blue">看懂答案 🆗</Tag> : <Tag color="red">没看懂答案 ❌</Tag>}
+        </>)
     },
     {
       title: "算法和数据结构",
