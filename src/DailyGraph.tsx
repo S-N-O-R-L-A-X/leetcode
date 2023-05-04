@@ -5,11 +5,11 @@ import { DailyProps } from './constants';
 import data2023 from "./assets/2023.json";
 
 export default function DailyGraph(props: DailyProps) {
-  const { year = 2023, month = 0 } = props;
+  const { year = 2023, month = 1 } = props;
   let data: Record<string, any>[] | null = null;
 
   switch (year) {
-    case 2023: data = data2023?.statistics.situations[month!]; break;
+    case 2023: data = data2023?.statistics.situations[month! - 1]; break;
     default: data = []; break;
   }
 
