@@ -2,26 +2,20 @@ import React, { useState, useEffect } from 'react';
 import { Pie } from '@ant-design/plots';
 import { DailyProps } from './constants';
 
+import data2023 from "./assets/2023.json";
+
 export default function DailyGraph(props: DailyProps) {
-  const { year, month } = props;
-  const data = [
-    {
-      type: '分类一',
-      value: 27,
-    },
-    {
-      type: '分类二',
-      value: 25,
-    },
-    {
-      type: '分类三',
-      value: 18,
-    },
-    {
-      type: '分类四',
-      value: 15,
-    },
-  ];
+  const { year = 2023, month = 0 } = props;
+
+  let data = null;
+  switch (year) {
+    case 2023: data = data2023; break;
+    default: break;
+  }
+
+  if (data?.statistics.situations[month!]) {
+    data = data?.statistics.situations[month!];
+  }
   const config = {
     forceFit: true,
     title: {

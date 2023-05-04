@@ -1365,5 +1365,28 @@
         }
       ]
     ]
+  },
+  "statistics": {
+    "situations": [
+      [
+        {
+          "type": "自己做出",
+          "value": 26
+        },
+        {
+          "type": "看思路写出",
+          "value": 0
+        },
+        {
+          "type": "看懂答案",
+          "value": 2
+        },
+        {
+          "type": "没看懂答案",
+          "value": 3
+        }
+      ]
+    ],
+    "difficulty": []
   }
 }
