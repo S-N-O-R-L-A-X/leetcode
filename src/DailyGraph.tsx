@@ -6,16 +6,13 @@ import data2023 from "./assets/2023.json";
 
 export default function DailyGraph(props: DailyProps) {
   const { year = 2023, month = 0 } = props;
+  let data: Record<string, any>[] | null = null;
 
-  let data = null;
   switch (year) {
-    case 2023: data = data2023; break;
-    default: break;
+    case 2023: data = data2023?.statistics.situations[month!]; break;
+    default: data = []; break;
   }
 
-  if (data?.statistics.situations[month!]) {
-    data = data?.statistics.situations[month!];
-  }
   const config = {
     forceFit: true,
     title: {
@@ -36,5 +33,5 @@ export default function DailyGraph(props: DailyProps) {
       type: 'inner',
     },
   };
-  return <Pie {...config} />;
+  return (data && data.length > 0) ? <Pie {...config} /> : <p>Sorry, no statistics here.</p>;
 };

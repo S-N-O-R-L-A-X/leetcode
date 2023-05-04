@@ -24,7 +24,8 @@ function App() {
       <InputNumber className="input-number" size="small" min={1} max={12} defaultValue={now_month} onChange={changeMonth}></InputNumber>
       <span className="input-text">月</span>
       <DailyTable year={year} month={month} />
-      <DailyGraph />
+      {/* <DailyGraph /> */}
+      <DailyGraph year={year} month={month} />
     </div>
   )
 }
