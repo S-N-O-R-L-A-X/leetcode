@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import { Pie } from '@ant-design/plots';
 import { DailyProps } from './constants';
 

@@ -81,7 +81,9 @@ export default function DailyTable(props: DailyProps) {
     {
       title: "rating",
       dataIndex: "rating",
-      key: "rating"
+      key: "rating",
+      defaultSortOrder: 'descend',
+      sorter: (a: any, b: any) => a.rating - b.rating,
     },
     {
       title: "做题情况",
