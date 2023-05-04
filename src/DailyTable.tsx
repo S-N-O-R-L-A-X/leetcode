@@ -31,18 +31,6 @@ function getData(year: number) {
 }
 */
 
-type Question = {
-  "日期": string;
-  "题号": number | string;
-  "题目名称": string;
-  "难度": "简单" | "中等" | "困难",
-  "rating": "1155",
-  "做题情况": "自己做出" | "看思路写出" | "CV后没看懂" | "CV后看懂",
-  "算法和数据结构": string | string[],
-  "学到的内容": string | string[],
-  "没看懂的内容": string | string[]
-}
-
 import data2023 from "./assets/2023.json";
 export default function DailyTable(props: DailyProps) {
   const { year = 2023, month = 1 } = props;
