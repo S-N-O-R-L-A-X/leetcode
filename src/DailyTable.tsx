@@ -58,6 +58,7 @@ export default function DailyTable(props: DailyProps) {
       title: '日期',
       dataIndex: 'date',
       key: 'date',
+      sorter: (a: any, b: any) => Number(a.date.split("/")[2]) - Number(b.date.split("/")[2]),
     },
     {
       title: '题号',
@@ -82,7 +83,6 @@ export default function DailyTable(props: DailyProps) {
       title: "rating",
       dataIndex: "rating",
       key: "rating",
-      defaultSortOrder: 'descend',
       sorter: (a: any, b: any) => a.rating - b.rating,
     },
     {
