@@ -1362,6 +1362,50 @@
           "method": "栈",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/5/4",
+          "no": "2106",
+          "name": "摘水果",
+          "difficulty": "困难",
+          "rating": 2062,
+          "situation": "自己做出",
+          "method": "滑动窗口/二分查找",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/5",
+          "no": "2432",
+          "name": "处理用时最长的那个任务的员工",
+          "difficulty": "简单",
+          "rating": 1266,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/6",
+          "no": "1419",
+          "name": "数青蛙",
+          "difficulty": "中等",
+          "rating": 1689,
+          "situation": "自己做出",
+          "method": "计数",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/7",
+          "no": "1010",
+          "name": "总持续时间可被60整除的歌曲",
+          "difficulty": "中等",
+          "rating": 1377,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
