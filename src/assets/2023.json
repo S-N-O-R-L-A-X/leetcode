@@ -1406,6 +1406,39 @@
           "method": "数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/5/8",
+          "no": "1263",
+          "name": "推箱子",
+          "difficulty": "困难",
+          "rating": 2297,
+          "situation": "没看懂答案",
+          "method": "bfs+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/9",
+          "no": "2437",
+          "name": "有效时间的数目",
+          "difficulty": "简单",
+          "rating": 1426,
+          "situation": "自己做出",
+          "method": "回溯/分类讨论",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/10",
+          "no": "1015",
+          "name": "可被K整除的最小整数",
+          "difficulty": "中等",
+          "rating": 1874,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
