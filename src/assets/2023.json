@@ -1439,6 +1439,50 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/5/11",
+          "no": "1016",
+          "name": "子串能表示从 1 到 N 数字的二进制串",
+          "difficulty": "中等",
+          "rating": 1779,
+          "situation": "看思路写出",
+          "method": "数学+滑动窗口+哈希 / 暴力",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/12",
+          "no": "1330",
+          "name": "翻转子数组得到最大的数组值",
+          "difficulty": "困难",
+          "rating": 2481,
+          "situation": "看懂答案",
+          "method": "数学+转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/13",
+          "no": "2441",
+          "name": "与对应负数同时存在的最大正整数",
+          "difficulty": "困难",
+          "rating": 1167,
+          "situation": "自己做出",
+          "method": "枚举/哈希/ 排序+双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/14",
+          "no": "1054",
+          "name": "距离相等的条形码",
+          "difficulty": "中等",
+          "rating": 1751,
+          "situation": "自己做出",
+          "method": "堆/计数",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
