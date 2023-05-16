@@ -1483,6 +1483,39 @@
           "method": "堆/计数",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/5/15",
+          "no": "1072",
+          "name": "按列翻转得到最大值等行数",
+          "difficulty": "中等",
+          "rating": 1797,
+          "situation": "自己做出",
+          "method": "转化+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/16",
+          "no": "1335",
+          "name": "工作计划的最低难度",
+          "difficulty": "困难",
+          "rating": 2034,
+          "situation": "自己做出",
+          "method": "记忆化搜索/dp/单调栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/17",
+          "no": "2446",
+          "name": "判断两个事件是否存在冲突",
+          "difficulty": "困难",
+          "rating": 1322,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
