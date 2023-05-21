@@ -1516,6 +1516,50 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/5/18",
+          "no": "1073",
+          "name": "负二进制数相加",
+          "difficulty": "中等",
+          "rating": 1806,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/19",
+          "no": "1079",
+          "name": "活字印刷",
+          "difficulty": "中等",
+          "rating": 1740,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/20",
+          "no": "1373",
+          "name": "二叉搜索子树的最大键值和",
+          "difficulty": "困难",
+          "rating": 1913,
+          "situation": "没看懂答案",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/21",
+          "no": "LCP 33",
+          "name": "蓄水",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "贪心+数学/优先级队列",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
@@ -1595,6 +1639,6 @@
         }
       ]
     ],
-    "difficulty": []
+    "difficulty": [ ]
   }
 }
