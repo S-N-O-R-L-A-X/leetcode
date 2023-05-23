@@ -3,6 +3,7 @@ import { useState } from 'react';
 import './App.css'
 import DailyGraph from './DailyGraph';
 import DailyTable from './DailyTable'
+import DifficultyGraph from './DifficultyGraph';
 function App() {
   const now_month = new Date().getMonth() + 1;
   const now_year = new Date().getFullYear();
@@ -27,6 +28,7 @@ function App() {
       </fieldset>
       <DailyTable year={year} month={month} />
       <DailyGraph year={year} month={month} />
+      <DifficultyGraph year={year} month={month} />
     </div>
   )
 }
