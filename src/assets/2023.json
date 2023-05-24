@@ -1560,6 +1560,39 @@
           "method": "贪心+数学/优先级队列",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/5/22",
+          "no": "1080",
+          "name": "根到叶路径上的不足节点",
+          "difficulty": "中等",
+          "rating": 1804,
+          "situation": "看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/23",
+          "no": "1090",
+          "name": "受标签影响的最大值",
+          "difficulty": "中等",
+          "rating": 1501,
+          "situation": "自己做出",
+          "method": "排序+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/24",
+          "no": "1377",
+          "name": "T秒后青蛙的位置",
+          "difficulty": "困难",
+          "rating": 1823,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
