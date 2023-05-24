@@ -1,5 +1,6 @@
-import { Button, InputNumber } from 'antd';
+import { Button, InputNumber, Switch } from 'antd';
 import { useState } from 'react';
+import AnnualReport from './AnnualReport';
 import './App.css'
 import DailyGraph from './DailyGraph';
 import DailyTable from './DailyTable'
@@ -11,6 +12,7 @@ function App() {
   const now_year = new Date().getFullYear();
   const [year, setYear] = useState<number | null>(now_year);
   const [month, setMonth] = useState<number | null>(now_month);
+  const [content, setContent] = useState<boolean>(true)
 
   const changeMonth = (value: number | null) => {
     setMonth(value);
@@ -19,6 +21,10 @@ function App() {
   const changeYear = (value: number | null) => {
     setYear(value);
   };
+
+  const handleChange = (checked: boolean) => {
+    setContent(checked);
+  }
 
   return (
     <div className="App">
@@ -29,17 +35,32 @@ function App() {
         <InputNumber className="input-number" size="small" min={1} max={12} defaultValue={now_month} onChange={changeMonth}></InputNumber>
         <span className="input-text">月</span>
         <br />
-        <Button>查看年度报告</Button>
+
+        <Switch checkedChildren="查看每月报告" unCheckedChildren="查看年度报告" defaultChecked onChange={handleChange} />
+
       </fieldset>
-      <DailyTable year={year} month={month} />
-      <div>
-        <div className="show-graph">
-          <DailyGraph year={year} month={month} />
-        </div>
-        <div className="show-graph">
-          <DifficultyGraph year={year} month={month} />
-        </div>
-      </div>
+      {
+        content ?
+          (
+            <>
+              <DailyTable year={year} month={month} />
+              <div>
+                <div className="show-graph">
+                  <DailyGraph year={year} month={month} />
+                </div>
+                <div className="show-graph">
+                  <DifficultyGraph year={year} month={month} />
+                </div>
+              </div>
+            </>
+          ) :
+          (
+            <>
+              <AnnualReport />
+            </>
+          )
+      }
+
     </div>
   )
 }
