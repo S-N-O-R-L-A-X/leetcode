@@ -52,6 +52,12 @@
   width: 4rem;
 }
 
+.show-graph {
+  display: inline-block;
+  width: 50%;
+}
+
+
 .github-corner {
   width: 4rem;
   border-bottom: 0;

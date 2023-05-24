@@ -35,8 +35,14 @@ function App() {
         <span className="input-text">月</span>
       </fieldset>
       <DailyTable year={year} month={month} />
-      <DailyGraph year={year} month={month} />
-      <DifficultyGraph year={year} month={month} />
+      <div>
+        <div className="show-graph">
+          <DailyGraph year={year} month={month} />
+        </div>
+        <div className="show-graph">
+          <DifficultyGraph year={year} month={month} />
+        </div>
+      </div>
     </div>
   )
 }
