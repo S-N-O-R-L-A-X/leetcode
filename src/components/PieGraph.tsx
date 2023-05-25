@@ -1,29 +1,7 @@
 import { Pie } from '@ant-design/plots';
-import { DailyProps } from './constants';
 
-import data2023 from "./assets/2023.json";
-
-export default function DifficultyGraph(props: DailyProps) {
-  const { year = 2023, month = 1 } = props;
-  let jsonData: any[] = [];
-  let data: Record<string, any>[] = [{ type: "困难", value: 0 }, { type: "中等", value: 0 }, { type: "简单", value: 0 }];
-
-  switch (year) {
-    case 2023: jsonData = data2023?.daily.month[month! - 1]; break;
-    default: jsonData = []; break;
-  }
-
-  jsonData?.forEach((v: any) => {
-    if (v.difficulty === "困难") {
-      data[0].value++;
-    }
-    else if (v.difficulty === "中等") {
-      data[1].value++;
-    }
-    else {
-      data[2].value++;
-    }
-  })
+export default function PieGraph(props: { data: any[] }) {
+  const { data } = props;
 
   const config = {
     forceFit: true,

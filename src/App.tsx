@@ -4,8 +4,9 @@ import AnnualReport from './AnnualReport';
 import './App.css'
 import DailyGraph from './DailyGraph';
 import DailyTable from './DailyTable'
-import DifficultyGraph from './DifficultyGraph';
+import DifficultyGraph from './components/PieGraph';
 import Header from './Header';
+import MonthlyReport from './MonthlyReport';
 
 function App() {
   const now_month = new Date().getMonth() + 1;
@@ -37,29 +38,8 @@ function App() {
         <br />
 
         <Switch checkedChildren="查看每月报告" unCheckedChildren="查看年度报告" defaultChecked onChange={handleChange} />
-
       </fieldset>
-      {
-        content ?
-          (
-            <>
-              <DailyTable year={year} month={month} />
-              <div>
-                <div className="show-graph">
-                  <DailyGraph year={year} month={month} />
-                </div>
-                <div className="show-graph">
-                  <DifficultyGraph year={year} month={month} />
-                </div>
-              </div>
-            </>
-          ) :
-          (
-            <>
-              <AnnualReport />
-            </>
-          )
-      }
+      {content ? <MonthlyReport year={year} month={month} /> : <AnnualReport year={year} />}
 
     </div>
   )
