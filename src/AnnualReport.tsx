@@ -1,10 +1,9 @@
 import React from 'react';
 import { DailyProps } from './constants';
-
-
 import data2023 from "./assets/2023.json";
 import DifficultyGraph from './components/PieGraph';
 import AnnualTable from './AnnualTable';
+import LineChart from './components/LineChart';
 
 export default function AnnualReport(props: DailyProps) {
   const { year = 2023 } = props;
@@ -15,7 +14,7 @@ export default function AnnualReport(props: DailyProps) {
     default: break;
   }
 
-  const month_difficulties = [];
+  const month_difficulties: any[] = [];
   const month_situations = [];
   const year_difficulty = [{ type: "困难", value: 0 }, { type: "中等", value: 0 }, { type: "简单", value: 0 }];
   const year_situation = [{ type: "自己做出", value: 0 }, { type: "看思路写出", value: 0 }, { type: "看懂答案", value: 0 }, { type: "没看懂答案", value: 0 }];
@@ -24,7 +23,7 @@ export default function AnnualReport(props: DailyProps) {
 
 
   jsonData?.daily.month.forEach((m, idx) => {
-    const difficulty = [{ type: "困难", value: 0 }, { type: "中等", value: 0 }, { type: "简单", value: 0 }];
+    const difficulty = [{ type: "困难", month: `${idx + 1}月`, value: 0 }, { type: "中等", month: `${idx + 1}月`, value: 0 }, { type: "简单", month: `${idx + 1}月`, value: 0 }];
     const situation = [{ type: "自己做出", value: 0 }, { type: "看思路写出", value: 0 }, { type: "看懂答案", value: 0 }, { type: "没看懂答案", value: 0 }];
     annual_info.forEach((mon) => {
       mon[`${idx + 1}月`] = 0;
@@ -61,8 +60,8 @@ export default function AnnualReport(props: DailyProps) {
         annual_info[6][`${idx + 1}月`]++;
       }
     })
-    month_difficulties.push(difficulty);
-    month_situations.push(situation);
+    month_difficulties.push(...difficulty);
+    month_situations.push(...situation);
     // const month_info: any = {};
     // difficulty.forEach(({ type, value }) => {
     //   month_info[type] = value;
@@ -81,10 +80,12 @@ export default function AnnualReport(props: DailyProps) {
     year_situation[3].value += situation[3].value;
   })
 
-
   return (
     <>
       <AnnualTable data={annual_info} />
+      <div>
+        <LineChart data={month_difficulties} />
+      </div>
       <div>
         <div className="show-graph">
           <DifficultyGraph data={year_situation} />
