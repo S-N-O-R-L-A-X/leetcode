@@ -6,6 +6,7 @@ export interface DailyProps {
 export type Question = {
   "日期": string;
   "题号": number | string;
+  "slug"?: string;
   "题目名称": string;
   "难度": "简单" | "中等" | "困难",
   "rating": number,

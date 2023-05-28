@@ -1635,7 +1635,7 @@
           "no": "1130",
           "name": "叶值的最小代价生成树",
           "slug": "minimum-cost-tree-from-leaf-values",
-          "difficulty": "困难",
+          "difficulty": "中等",
           "rating": 1919,
           "situation": "看懂答案",
           "method": "记忆化搜索/区间dp/单调栈",
