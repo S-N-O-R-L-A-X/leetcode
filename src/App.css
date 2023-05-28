@@ -52,6 +52,10 @@
   width: 4rem;
 }
 
+.chart {
+  margin: 2rem;
+}
+
 .show-graph {
   display: inline-block;
   width: 50%;

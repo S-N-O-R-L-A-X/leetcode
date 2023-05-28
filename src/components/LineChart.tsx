@@ -1,7 +1,6 @@
 import { Line } from '@ant-design/plots';
-const LineChart = (props: { data: any[] }) => {
-  const data = props.data;
-
+const LineChart = (props: { data: any[], color: string[] }) => {
+  const { data, color } = props;
   const config = {
     title: {
       visible: true,
@@ -18,9 +17,9 @@ const LineChart = (props: { data: any[] }) => {
     yField: 'value',
     legend: { position: 'right-top' } as any,
     seriesField: 'type',
-    color: ['#fb259d', '#fabc1d', '#1fb09b'],
+    color,
     responsive: true,
   };
-  return <Line {...config} />;
+  return <Line className='chart' {...config} />;
 };
 export default LineChart;
