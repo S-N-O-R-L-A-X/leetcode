@@ -35,7 +35,7 @@ import data2023 from "./assets/2023.json";
 export default function DailyTable(props: DailyProps) {
   const { year = 2023, month = 1 } = props;
   // const data = getData(year).read();
-  let data = null;
+  let data: any = null;
   switch (year) {
     case 2023: data = data2023.daily.month[month! - 1]; break;
     default: break;
@@ -57,7 +57,7 @@ export default function DailyTable(props: DailyProps) {
       title: '题目名称',
       dataIndex: 'name',
       key: "name",
-      render: (name: string, record: Question) => (
+      render: (name: string, record: any) => (
         <>
           {record["slug"] ? <a href={"https://leetcode.cn/problems/" + record["slug"]} target={"_blank"}> {name}</a> : name}
         </>)

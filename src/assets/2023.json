@@ -1632,6 +1632,42 @@
         },
         {
           "date": "2023/5/28",
+          "no": "1439",
+          "name": "有序矩阵中的第 k 个最小数组和",
+          "slug": "find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows",
+          "difficulty": "困难",
+          "rating": 2133,
+          "situation": "自己做出",
+          "method": "二分查找+双指针+排序/ 优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/29",
+          "no": "2455",
+          "name": "可被三整除的偶数的平均值",
+          "slug": "average-value-of-even-numbers-that-are-divisible-by-three",
+          "difficulty": "简单",
+          "rating": 1151,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/30",
+          "no": "1110",
+          "name": "删点成林",
+          "slug": "delete-nodes-and-return-forest",
+          "difficulty": "简单",
+          "rating": 1511,
+          "situation": "自己做出",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/5/31",
           "no": "1130",
           "name": "叶值的最小代价生成树",
           "slug": "minimum-cost-tree-from-leaf-values",
