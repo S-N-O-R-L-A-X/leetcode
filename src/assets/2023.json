@@ -1678,6 +1678,56 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2023/6/1",
+          "no": "2517",
+          "name": "礼盒的最大甜蜜度",
+          "slug": "maximum-tastiness-of-candy-basket",
+          "difficulty": "中等",
+          "rating": 2020,
+          "situation": "自己做出",
+          "method": "排序+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/2",
+          "no": "2559",
+          "name": "统计范围内的元音字符串数",
+          "slug": "count-vowel-strings-in-ranges",
+          "difficulty": "中等",
+          "rating": 1435,
+          "situation": "自己做出",
+          "method": "前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/3",
+          "no": "1156",
+          "name": "单字符重复子串的最大长度",
+          "slug": "swap-for-longest-repeated-character-substring",
+          "difficulty": "中等",
+          "rating": 1787,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/4",
+          "no": "1156",
+          "name": "不同的平均值数目",
+          "slug": "number-of-distinct-averages",
+          "difficulty": "简单",
+          "rating": 1250,
+          "situation": "自己做出",
+          "method": "排序+哈希",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   },
