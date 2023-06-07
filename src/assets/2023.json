@@ -1727,6 +1727,42 @@
           "method": "排序+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/6/5",
+          "no": "2460",
+          "name": "对数组执行操作",
+          "slug": "apply-operations-to-an-array",
+          "difficulty": "简单",
+          "rating": 1223,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/6",
+          "no": "2352",
+          "name": "相等行列对",
+          "slug": "equal-row-and-column-pairs",
+          "difficulty": "中等",
+          "rating": 1286,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/7",
+          "no": "2611",
+          "name": "老鼠和奶酪",
+          "slug": "mice-and-cheese",
+          "difficulty": "中等",
+          "rating": 1663,
+          "situation": "自己做出",
+          "method": "排序+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
