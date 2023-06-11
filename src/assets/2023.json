@@ -1763,6 +1763,54 @@
           "method": "排序+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/6/8",
+          "no": "1240",
+          "name": "铺瓷砖",
+          "slug": "tiling-a-rectangle-with-the-fewest-squares",
+          "difficulty": "困难",
+          "rating": 2241,
+          "situation": "没看懂答案",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/9",
+          "no": "2699",
+          "name": "修改图中的边权",
+          "slug": "modify-graph-edge-weights",
+          "difficulty": "困难",
+          "rating": 2873,
+          "situation": "没看懂答案",
+          "method": "二分+迪杰斯特拉",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/10",
+          "no": "1170",
+          "name": "比较字符串最小字母出现频次",
+          "slug": "compare-strings-by-frequency-of-the-smallest-character",
+          "difficulty": "中等",
+          "rating": 1431,
+          "situation": "自己做出",
+          "method": "排序/后缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/11",
+          "no": "1171",
+          "name": "从链表中删去总和值为零的连续节点",
+          "slug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+          "difficulty": "中等",
+          "rating": 1782,
+          "situation": "看懂答案",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
