@@ -1811,6 +1811,42 @@
           "method": "哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/6/12",
+          "no": "1483",
+          "name": "树节点的第 K 个祖先",
+          "slug": "kth-ancestor-of-a-tree-node",
+          "difficulty": "困难",
+          "rating": 2115,
+          "situation": "看懂答案",
+          "method": "倍增",
+          "learn": "倍增",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/13",
+          "no": "2475",
+          "name": "数组中不等三元组的数目",
+          "slug": "number-of-unequal-triplets-in-array",
+          "difficulty": "简单",
+          "rating": 1255,
+          "situation": "自己做出",
+          "method": "模拟/排序/哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/14",
+          "no": "1375",
+          "name": "二进制字符串前缀一致的次数",
+          "slug": "number-of-times-binary-string-is-prefix-aligned",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
