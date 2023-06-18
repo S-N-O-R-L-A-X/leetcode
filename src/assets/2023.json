@@ -1847,6 +1847,54 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/6/15",
+          "no": "1177",
+          "name": "构建回文串检测",
+          "slug": "can-make-palindrome-from-substring",
+          "difficulty": "中等",
+          "rating": 1848,
+          "situation": "看懂答案",
+          "method": "转化+前缀数组+位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/16",
+          "no": "1494",
+          "name": "并行课程 II",
+          "slug": "parallel-courses-ii",
+          "difficulty": "困难",
+          "rating": 2081,
+          "situation": "没看懂答案",
+          "method": "dp+动态规划+子集",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/17",
+          "no": "2481",
+          "name": "分割圆的最少切割次数",
+          "slug": "minimum-cuts-to-divide-a-circle",
+          "difficulty": "简单",
+          "rating": 1246,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/18",
+          "no": "1254",
+          "name": "统计封闭岛屿的数目",
+          "slug": "number-of-closed-islands",
+          "difficulty": "中等",
+          "rating": 1658,
+          "situation": "自己做出",
+          "method": "bfs/dfs/并查集",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
