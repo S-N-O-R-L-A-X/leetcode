@@ -1857,7 +1857,7 @@
           "rating": 1848,
           "situation": "看懂答案",
           "method": "转化+前缀数组+位运算",
-          "learn": "",
+          "learn": "位运算",
           "unknown": ""
         },
         {
@@ -1893,6 +1893,54 @@
           "rating": 1658,
           "situation": "自己做出",
           "method": "bfs/dfs/并查集",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/19",
+          "no": "1262",
+          "name": "可被三整除的最大和",
+          "slug": "greatest-sum-divisible-by-three",
+          "difficulty": "中等",
+          "rating": 1762,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/20",
+          "no": "1595",
+          "name": "连通两组点的最小成本",
+          "slug": "minimum-cost-to-connect-two-groups-of-points",
+          "difficulty": "困难",
+          "rating": 2537,
+          "situation": "没看懂答案",
+          "method": "状态压缩+动态规划",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/21",
+          "no": "LCP 41",
+          "name": "黑白翻转棋",
+          "slug": "fHi6rV",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/22",
+          "no": "面试题16.19",
+          "name": "水域大小",
+          "slug": "pond-sizes-lcci",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dfs/bfs + 排序",
           "learn": "",
           "unknown": ""
         }
