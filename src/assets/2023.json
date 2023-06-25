@@ -1943,6 +1943,42 @@
           "method": "dfs/bfs + 排序",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/6/23",
+          "no": "2496",
+          "name": "数组中字符串的最大值",
+          "slug": "maximum-value-of-a-string-in-an-array",
+          "difficulty": "简单",
+          "rating": 1292,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/24",
+          "no": "1659",
+          "name": "最大化网格幸福感",
+          "slug": "maximize-grid-happiness",
+          "difficulty": "困难",
+          "rating": 2655,
+          "situation": "没看懂答案",
+          "method": "状态压缩+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/25",
+          "no": "1401",
+          "name": "圆和矩形是否有重叠",
+          "slug": "circle-and-rectangle-overlapping",
+          "difficulty": "中等",
+          "rating": 1701,
+          "situation": "自己做出",
+          "method": "数学+分类讨论",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
