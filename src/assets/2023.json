@@ -1868,7 +1868,7 @@
           "difficulty": "困难",
           "rating": 2081,
           "situation": "没看懂答案",
-          "method": "dp+动态规划+子集",
+          "method": "dp+状态压缩+子集",
           "learn": "",
           "unknown": ""
         },
@@ -1977,6 +1977,42 @@
           "rating": 1701,
           "situation": "自己做出",
           "method": "数学+分类讨论",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/26",
+          "no": "2485",
+          "name": "找出中枢整数",
+          "slug": "find-the-pivot-integer",
+          "difficulty": "简单",
+          "rating": 1207,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/27",
+          "no": "1186",
+          "name": "删除一次得到子数组最大和",
+          "slug": "maximum-subarray-sum-with-one-deletion",
+          "difficulty": "中等",
+          "rating": 1799,
+          "situation": "看思路写出",
+          "method": "dp/记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/28",
+          "no": "1681",
+          "name": "最小不兼容性",
+          "slug": "minimum-incompatibility",
+          "difficulty": "困难",
+          "rating": 2389,
+          "situation": "没看懂答案",
+          "method": "dp+状态压缩+子集",
           "learn": "",
           "unknown": ""
         }
