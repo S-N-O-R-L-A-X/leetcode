@@ -2015,6 +2015,56 @@
           "method": "dp+状态压缩+子集",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/6/29",
+          "no": "1253",
+          "name": "重构 2 行二进制矩阵",
+          "slug": "reconstruct-a-2-row-binary-matrix",
+          "difficulty": "中等",
+          "rating": 1505,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/6/30",
+          "no": "2490",
+          "name": "回环句",
+          "slug": "circular-sentence",
+          "difficulty": "简单",
+          "rating": 1262,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        }
+      ],
+      [
+        {
+          "date": "2023/7/1",
+          "no": "1",
+          "name": "两数之和",
+          "slug": "two-sum",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "哈希表",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/2",
+          "no": "2",
+          "name": "两数相加",
+          "slug": "add-two-numbers",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "链表",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
