@@ -2065,6 +2065,42 @@
           "method": "链表",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/7/3",
+          "no": "445",
+          "name": "两数相加II",
+          "slug": "add-two-numbers-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "链表+栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/4",
+          "no": "2679",
+          "name": "两数相加II",
+          "slug": "sum-in-a-matrix",
+          "difficulty": "中等",
+          "rating": 1333,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/5",
+          "no": "2600",
+          "name": "K 件物品的最大和",
+          "slug": "k-items-with-the-maximum-sum",
+          "difficulty": "中等",
+          "rating": 1434,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
