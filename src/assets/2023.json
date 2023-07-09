@@ -2101,6 +2101,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/7/6",
+          "no": "2178",
+          "name": "拆分成最多数目的正偶数之和",
+          "slug": "maximum-split-of-positive-even-integers",
+          "difficulty": "中等",
+          "rating": 1537,
+          "situation": "自己做出",
+          "method": "贪心+数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/7",
+          "no": "2532",
+          "name": "过桥的时间",
+          "slug": "time-to-cross-a-bridge",
+          "difficulty": "困难",
+          "rating": 2588,
+          "situation": "没看懂答案",
+          "method": "模拟+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/8",
+          "no": "167",
+          "name": "两数之和 II - 输入有序数组",
+          "slug": "two-sum-ii-input-array-is-sorted",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "二分查找/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/9",
+          "no": "15",
+          "name": "三数之和",
+          "slug": "3sum",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "排序+双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
