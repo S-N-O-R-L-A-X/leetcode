@@ -2149,6 +2149,42 @@
           "method": "排序+双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/7/10",
+          "no": "16",
+          "name": "最接近的三数之和",
+          "slug": "3sum-closest",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "排序+双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/11",
+          "no": "1911",
+          "name": "最大子序列交替和",
+          "slug": "maximum-alternating-subsequence-sum",
+          "difficulty": "中等",
+          "rating": 1785,
+          "situation": "看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/12",
+          "no": "2544",
+          "name": "交替数字和",
+          "slug": "alternating-digit-sum",
+          "difficulty": "简单",
+          "rating": 1184,
+          "situation": "看懂答案",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
