@@ -2181,8 +2181,56 @@
           "slug": "alternating-digit-sum",
           "difficulty": "简单",
           "rating": 1184,
-          "situation": "看懂答案",
+          "situation": "自己做出",
           "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/13",
+          "no": "931",
+          "name": "下降路径最小和",
+          "slug": "minimum-falling-path-sum",
+          "difficulty": "中等",
+          "rating": 1573,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/14",
+          "no": "979",
+          "name": "在二叉树中分配硬币",
+          "slug": "distribute-coins-in-binary-tree",
+          "difficulty": "中等",
+          "rating": 1709,
+          "situation": "看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/15",
+          "no": "18",
+          "name": "四数之和",
+          "slug": "4sum",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "排序+双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/16",
+          "no": "834",
+          "name": "树中距离之和",
+          "slug": "sum-of-distances-in-tree",
+          "difficulty": "困难",
+          "rating": 2197,
+          "situation": "自己做出",
+          "method": "树形dp",
           "learn": "",
           "unknown": ""
         }
