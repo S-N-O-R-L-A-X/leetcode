@@ -2229,8 +2229,32 @@
           "slug": "sum-of-distances-in-tree",
           "difficulty": "困难",
           "rating": 2197,
-          "situation": "自己做出",
+          "situation": "没看懂答案",
           "method": "树形dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/17",
+          "no": "415",
+          "name": "字符串相加",
+          "slug": "add-strings",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/18",
+          "no": "1851",
+          "name": "包含每个查询的最小区间",
+          "slug": "minimum-interval-to-include-each-query",
+          "difficulty": "困难",
+          "rating": 2286,
+          "situation": "没看懂答案",
+          "method": "优先级队列",
           "learn": "",
           "unknown": ""
         }
