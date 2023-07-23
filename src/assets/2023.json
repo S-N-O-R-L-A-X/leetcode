@@ -2257,6 +2257,66 @@
           "method": "优先级队列",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/7/19",
+          "no": "874",
+          "name": "模拟行走机器人",
+          "slug": "walking-robot-simulation",
+          "difficulty": "中等",
+          "rating": 1846,
+          "situation": "看思路写出",
+          "method": "模拟+哈希表",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/20",
+          "no": "918",
+          "name": "环形子数组的最大和",
+          "slug": "maximum-sum-circular-subarray",
+          "difficulty": "中等",
+          "rating": 1777,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/21",
+          "no": "1499",
+          "name": "满足不等式的最大值",
+          "slug": "max-value-of-equation",
+          "difficulty": "困难",
+          "rating": 2456,
+          "situation": "看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/22",
+          "no": "860",
+          "name": "柠檬水找零",
+          "slug": "lemonade-change",
+          "difficulty": "简单",
+          "rating": 1285,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/23",
+          "no": "42",
+          "name": "接雨水",
+          "slug": "trapping-rain-water",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看思路写出",
+          "method": "dp/单调栈/双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
