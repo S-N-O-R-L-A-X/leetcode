@@ -2365,6 +2365,42 @@
           "method": "排序",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/7/28",
+          "no": "2050",
+          "name": "并行课程 III",
+          "slug": "parallel-courses-iii",
+          "difficulty": "困难",
+          "rating": 2084,
+          "situation": "看懂答案",
+          "method": "拓扑排序(+记忆化搜索)",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/29",
+          "no": "141",
+          "name": "环形链表",
+          "slug": "linked-list-cycle",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "哈希表/快慢指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/7/30",
+          "no": "141",
+          "name": "环形链表 II",
+          "slug": "linked-list-cycle-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "哈希表/快慢指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
