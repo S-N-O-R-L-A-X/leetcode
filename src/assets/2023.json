@@ -2401,6 +2401,44 @@
           "method": "哈希表/快慢指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/7/31",
+          "no": "143",
+          "name": "重排链表",
+          "slug": "reorder-list",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "链表",
+          "learn": "",
+          "unknown": ""
+        }
+      ],
+      [
+        {
+          "date": "2023/8/1",
+          "no": "2681",
+          "name": "英雄的力量",
+          "slug": "power-of-heroes",
+          "difficulty": "困难",
+          "rating": 2060,
+          "situation": "看思路写出",
+          "method": "动态规划/数学",
+          "learn": "BigInt",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/2",
+          "no": "822",
+          "name": "翻转卡片游戏",
+          "slug": "card-flipping-game",
+          "difficulty": "中等",
+          "rating": 1594,
+          "situation": "自己做出",
+          "method": "转化+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
