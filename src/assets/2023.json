@@ -2439,6 +2439,54 @@
           "method": "转化+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/8/3",
+          "no": "722",
+          "name": "删除注释",
+          "slug": "remove-comments",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟/正则",
+          "learn": "正则技巧",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/4",
+          "no": "980",
+          "name": "不同路径 III",
+          "slug": "unique-paths-iii",
+          "difficulty": "困难",
+          "rating": 1830,
+          "situation": "自己做出",
+          "method": "回溯/ 状态压缩+记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/5",
+          "no": "21",
+          "name": "合并两个有序链表",
+          "slug": "merge-two-sorted-lists",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "双指针/递归",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/6",
+          "no": "24",
+          "name": "两两交换链表中的节点",
+          "slug": "swap-nodes-in-pairs",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "双指针/递归",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
