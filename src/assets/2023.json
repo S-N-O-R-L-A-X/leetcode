@@ -2487,6 +2487,42 @@
           "method": "双指针/递归",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/8/7",
+          "no": "344",
+          "name": "反转字符串",
+          "slug": "reverse-string",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/8",
+          "no": "1749",
+          "name": "反转字符串",
+          "slug": "任意子数组和的绝对值的最大值",
+          "difficulty": "中等",
+          "rating": 1541,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/9",
+          "no": "1281",
+          "name": "整数的各位积和之差",
+          "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+          "difficulty": "简单",
+          "rating": 1141,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
