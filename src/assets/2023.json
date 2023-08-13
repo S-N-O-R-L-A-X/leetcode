@@ -2508,7 +2508,7 @@
           "difficulty": "中等",
           "rating": 1541,
           "situation": "自己做出",
-          "method": "",
+          "method": "dp",
           "learn": "",
           "unknown": ""
         },
@@ -2521,6 +2521,54 @@
           "rating": 1141,
           "situation": "自己做出",
           "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/10",
+          "no": "1289",
+          "name": "下降路径最小和 II",
+          "slug": "minimum-falling-path-sum-ii",
+          "difficulty": "困难",
+          "rating": 1697,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/11",
+          "no": "1572",
+          "name": "矩阵对角线元素的和",
+          "slug": "matrix-diagonal-sum",
+          "difficulty": "简单",
+          "rating": 1280,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/12",
+          "no": "23",
+          "name": "合并K个升序链表",
+          "slug": "merge-k-sorted-lists",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/13",
+          "no": "88",
+          "name": "合并两个有序数组",
+          "slug": "merge-sorted-array",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "排序/双指针",
           "learn": "",
           "unknown": ""
         }
