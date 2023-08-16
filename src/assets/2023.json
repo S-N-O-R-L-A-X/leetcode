@@ -2571,6 +2571,42 @@
           "method": "排序/双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/8/14",
+          "no": "617",
+          "name": "合并二叉树",
+          "slug": "merge-two-binary-trees",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/15",
+          "no": "833",
+          "name": "字符串中的查找与替换",
+          "slug": "find-and-replace-in-string",
+          "difficulty": "中等",
+          "rating": 1460,
+          "situation": "自己做出",
+          "method": "排序/哈希表",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/16",
+          "no": "2682",
+          "name": "找出转圈游戏输家",
+          "slug": "find-the-losers-of-the-circular-game",
+          "difficulty": "简单",
+          "rating": 1382,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
