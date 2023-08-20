@@ -2607,6 +2607,54 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/8/17",
+          "no": "1444",
+          "name": "切披萨的方案数",
+          "slug": "find-the-losers-of-the-circular-game",
+          "difficulty": "困难",
+          "rating": 2126,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/18",
+          "no": "1388",
+          "name": "3n块披萨",
+          "slug": "pizza-with-3n-slices",
+          "difficulty": "困难",
+          "rating": 2409,
+          "situation": "没看懂答案",
+          "method": "转化+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/19",
+          "no": "2235",
+          "name": "两整数相加",
+          "slug": "add-two-integers",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/20",
+          "no": "2236",
+          "name": "判断根结点是否等于子结点之和",
+          "slug": "root-equals-sum-of-children",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
