@@ -2655,6 +2655,42 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/8/21",
+          "no": "2337",
+          "name": "判断根结点是否等于子结点之和",
+          "slug": "move-pieces-to-obtain-a-string",
+          "difficulty": "中等",
+          "rating": 1697,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/22",
+          "no": "849",
+          "name": "到最近的人的最大距离",
+          "slug": "maximize-distance-to-closest-person",
+          "difficulty": "中等",
+          "rating": 1382,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/23",
+          "no": "1782",
+          "name": "统计点对的数目",
+          "slug": "count-pairs-of-nodes",
+          "difficulty": "困难",
+          "rating": 2457,
+          "situation": "看懂答案",
+          "method": "转化+哈希表+排序+二分查找/双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
