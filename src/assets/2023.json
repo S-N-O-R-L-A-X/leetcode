@@ -2659,7 +2659,7 @@
         {
           "date": "2023/8/21",
           "no": "2337",
-          "name": "判断根结点是否等于子结点之和",
+          "name": "移动片段得到字符串",
           "slug": "move-pieces-to-obtain-a-string",
           "difficulty": "中等",
           "rating": 1697,
@@ -2689,6 +2689,54 @@
           "rating": 2457,
           "situation": "看懂答案",
           "method": "转化+哈希表+排序+二分查找/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/24",
+          "no": "1267",
+          "name": "统计参与通信的服务器",
+          "slug": "count-servers-that-communicate",
+          "difficulty": "中等",
+          "rating": 1374,
+          "situation": "自己做出",
+          "method": "哈希表",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/25",
+          "no": "1448",
+          "name": "统计二叉树中好节点的数目",
+          "slug": "count-good-nodes-in-binary-tree",
+          "difficulty": "中等",
+          "rating": 1360,
+          "situation": "自己做出",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/26",
+          "no": "228",
+          "name": "汇总区间",
+          "slug": "summary-ranges",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/27",
+          "no": "56",
+          "name": "合并区间",
+          "slug": "merge-intervals",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "排序",
           "learn": "",
           "unknown": ""
         }
