@@ -2739,6 +2739,42 @@
           "method": "排序",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/8/28",
+          "no": "57",
+          "name": "插入区间",
+          "slug": "insert-interval",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/29",
+          "no": "823",
+          "name": "带因子的二叉树",
+          "slug": "binary-trees-with-factors",
+          "difficulty": "中等",
+          "rating": 1899,
+          "situation": "自己做出",
+          "method": "数学+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/8/30",
+          "no": "1654",
+          "name": "到家的最少跳跃次数",
+          "slug": "minimum-jumps-to-reach-home",
+          "difficulty": "中等",
+          "rating": 2124,
+          "situation": "看思路写出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
