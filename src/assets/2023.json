@@ -2825,6 +2825,42 @@
           "method": "贪心+排序",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/9/4",
+          "no": "449",
+          "name": "序列化和反序列化二叉搜索树",
+          "slug": "serialize-and-deserialize-bst",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "中序遍历/后序遍历",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/5",
+          "no": "2605",
+          "name": "从两个数字数组里生成最小数字",
+          "slug": "form-smallest-number-from-two-digit-arrays",
+          "difficulty": "中等",
+          "rating": 1241,
+          "situation": "自己做出",
+          "method": "哈希表/状态压缩",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/6",
+          "no": "1123",
+          "name": "最深叶节点的最近公共祖先",
+          "slug": "lowest-common-ancestor-of-deepest-leaves",
+          "difficulty": "中等",
+          "rating": 1607,
+          "situation": "自己做出",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
