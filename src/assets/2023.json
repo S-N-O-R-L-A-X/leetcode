@@ -2843,7 +2843,7 @@
           "no": "2605",
           "name": "从两个数字数组里生成最小数字",
           "slug": "form-smallest-number-from-two-digit-arrays",
-          "difficulty": "中等",
+          "difficulty": "简单",
           "rating": 1241,
           "situation": "自己做出",
           "method": "哈希表/状态压缩",
@@ -2859,6 +2859,54 @@
           "rating": 1607,
           "situation": "自己做出",
           "method": "递归",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/7",
+          "no": "2594",
+          "name": "修车的最少时间",
+          "slug": "minimum-time-to-repair-cars",
+          "difficulty": "中等",
+          "rating": 1915,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/8",
+          "no": "2651",
+          "name": "计算列车到站时间",
+          "slug": "calculate-delayed-arrival-time",
+          "difficulty": "简单",
+          "rating": 1168,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/9",
+          "no": "207",
+          "name": "课程表",
+          "slug": "course-schedule",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "拓扑排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/10",
+          "no": "210",
+          "name": "课程表 II",
+          "slug": "course-schedule-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "",
           "learn": "",
           "unknown": ""
         }
