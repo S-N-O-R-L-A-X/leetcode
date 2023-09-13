@@ -2906,7 +2906,43 @@
           "difficulty": "中等",
           "rating": null,
           "situation": "自己做出",
-          "method": "",
+          "method": "拓扑排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/11",
+          "no": "630",
+          "name": "课程表 III",
+          "slug": "course-schedule-iii",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/12",
+          "no": "1462",
+          "name": "课程表 IV",
+          "slug": "course-schedule-iv",
+          "difficulty": "中等",
+          "rating": 1692,
+          "situation": "自己做出",
+          "method": "拓扑排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/13",
+          "no": "2596",
+          "name": "检查骑士巡视方案",
+          "slug": "check-knight-tour-configuration",
+          "difficulty": "中等",
+          "rating": 1448,
+          "situation": "自己做出",
+          "method": "模拟",
           "learn": "",
           "unknown": ""
         }
