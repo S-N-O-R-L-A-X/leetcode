@@ -2945,6 +2945,54 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/9/14",
+          "no": "1222",
+          "name": "可以攻击国王的皇后",
+          "slug": "queens-that-can-attack-the-king",
+          "difficulty": "中等",
+          "rating": 1391,
+          "situation": "自己做出",
+          "method": "模拟+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/15",
+          "no": "LCP 50",
+          "name": "宝石补给",
+          "slug": "WHnhjV",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/16",
+          "no": "198",
+          "name": "打家劫舍",
+          "slug": "house-robber",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/17",
+          "no": "212",
+          "name": "打家劫舍 II",
+          "slug": "house-robber-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
