@@ -2993,6 +2993,42 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/9/18",
+          "no": "337",
+          "name": "打家劫舍 III",
+          "slug": "house-robber-iii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "树形dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/19",
+          "no": "2560",
+          "name": "打家劫舍 IV",
+          "slug": "house-robber-iv",
+          "difficulty": "中等",
+          "rating": 2081,
+          "situation": "看思路写出",
+          "method": "二分+ 贪心/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/20",
+          "no": "LCP 06",
+          "name": "拿硬币",
+          "slug": "na-ying-bi",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
