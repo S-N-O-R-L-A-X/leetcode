@@ -3029,6 +3029,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/9/21",
+          "no": "2603",
+          "name": "收集树中金币",
+          "slug": "collect-coins-in-a-tree",
+          "difficulty": "困难",
+          "rating": 2711,
+          "situation": "看懂答案",
+          "method": "转化+拓扑排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/22",
+          "no": "2591",
+          "name": "将钱分给最多的儿童",
+          "slug": "distribute-money-to-maximum-children",
+          "difficulty": "简单",
+          "rating": 1530,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/23",
+          "no": "1993",
+          "name": "树上的操作",
+          "slug": "operations-on-tree",
+          "difficulty": "中等",
+          "rating": 1861,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/24",
+          "no": "1993",
+          "name": "LRU 缓存",
+          "slug": "lru-cache",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "双向链表+hash",
+          "learn": "复习LRU 缓存",
+          "unknown": ""
         }
       ]
     ]
