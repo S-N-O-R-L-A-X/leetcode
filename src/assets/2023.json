@@ -3113,6 +3113,42 @@
           "method": "排序",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/9/28",
+          "no": "2251",
+          "name": "花期内花的数目",
+          "slug": "number-of-flowers-in-full-bloom",
+          "difficulty": "困难",
+          "rating": 2022,
+          "situation": "自己做出",
+          "method": "线段树/ 差分数组+离线查询 / 排序+二分",
+          "learn": "",
+          "unknown": "差分数组+离线查询"
+        },
+        {
+          "date": "2023/9/29",
+          "no": "605",
+          "name": "种花问题",
+          "slug": "can-place-flowers",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/9/30",
+          "no": "2136",
+          "name": "全部开花的最早一天",
+          "slug": "earliest-possible-day-of-full-bloom",
+          "difficulty": "困难",
+          "rating": 2033,
+          "situation": "自己做出",
+          "method": "贪心+排序",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
