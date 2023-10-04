@@ -3163,6 +3163,42 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2023/10/2",
+          "no": "122",
+          "name": "买卖股票的最佳时机 II",
+          "slug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp/贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/10/3",
+          "no": "123",
+          "name": "买卖股票的最佳时机 III",
+          "slug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2023/10/4",
+          "no": "188",
+          "name": "买卖股票的最佳时机 IV",
+          "slug": "best-time-to-buy-and-sell-stock-iv",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
