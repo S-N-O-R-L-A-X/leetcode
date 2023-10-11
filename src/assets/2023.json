@@ -3247,6 +3247,42 @@
 					"method": "哈希+ 优先级队列/有序集合",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/10/9",
+					"no": "2578",
+					"name": "最小和分割",
+					"slug": "split-with-minimum-sum",
+					"difficulty": "简单",
+					"rating": 1350,
+					"situation": "自己做出",
+					"method": "贪心",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/10",
+					"no": "2731",
+					"name": "移动机器人",
+					"slug": "movement-of-robots",
+					"difficulty": "中等",
+					"rating": 1922,
+					"situation": "看懂答案",
+					"method": "转化+排序+数学",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/11",
+					"no": "2512",
+					"name": "奖励最顶尖的 K 名学生",
+					"slug": "reward-top-k-students",
+					"difficulty": "中等",
+					"rating": 1636,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
