@@ -3283,6 +3283,54 @@
 					"method": "哈希",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/10/12",
+					"no": "2562",
+					"name": "找出数组的串联值",
+					"slug": "find-the-array-concatenation-value",
+					"difficulty": "简单",
+					"rating": 1259,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/13",
+					"no": "1488",
+					"name": "避免洪水泛滥",
+					"slug": "find-the-array-concatenation-value",
+					"difficulty": "中等",
+					"rating": 1973,
+					"situation": "看思路写出",
+					"method": "贪心+二分/优先级队列",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/14",
+					"no": "136",
+					"name": "只出现一次的数字",
+					"slug": "single-number",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "哈希/异或",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/15",
+					"no": "137",
+					"name": "只出现一次的数字 II",
+					"slug": "single-number-ii",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "哈希/位运算",
+					"learn": "位运算计数",
+					"unknown": ""
 				}
 			]
 		]
