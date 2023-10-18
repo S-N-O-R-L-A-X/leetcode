@@ -3331,6 +3331,42 @@
 					"method": "哈希/位运算",
 					"learn": "位运算计数",
 					"unknown": ""
+				},
+				{
+					"date": "2023/10/16",
+					"no": "260",
+					"name": "只出现一次的数字 III",
+					"slug": "single-number-iii",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "哈希/位运算",
+					"learn": "位运算计数",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/17",
+					"no": "2652",
+					"name": "倍数求和",
+					"slug": "sum-multiples",
+					"difficulty": "简单",
+					"rating": 1182,
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/18",
+					"no": "2530",
+					"name": "执行 K 次操作后的最大分数",
+					"slug": "maximal-score-after-applying-k-operations",
+					"difficulty": "简单",
+					"rating": 1386,
+					"situation": "自己做出",
+					"method": "优先级队列",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
