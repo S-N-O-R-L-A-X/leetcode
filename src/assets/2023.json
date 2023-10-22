@@ -3367,6 +3367,54 @@
 					"method": "优先级队列",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/10/19",
+					"no": "1726",
+					"name": "同积元组",
+					"slug": "tuple-with-same-product",
+					"difficulty": "中等",
+					"rating": 1530,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/20",
+					"no": "2525",
+					"name": "根据规则将箱子分类",
+					"slug": "categorize-box-according-to-criteria",
+					"difficulty": "中等",
+					"rating": 1301,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/21",
+					"no": "2316",
+					"name": "统计无向图中无法互相到达点对数",
+					"slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+					"difficulty": "中等",
+					"rating": 1604,
+					"situation": "自己做出",
+					"method": "并查集/dfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/22",
+					"no": "1402",
+					"name": "做菜顺序",
+					"slug": "reducing-dishes",
+					"difficulty": "困难",
+					"rating": 1679,
+					"situation": "自己做出",
+					"method": "dp/贪心",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
