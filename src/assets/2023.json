@@ -3415,6 +3415,42 @@
 					"method": "dp/贪心",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/10/23",
+					"no": "2678",
+					"name": "老人的数目",
+					"slug": "number-of-senior-citizens",
+					"difficulty": "简单",
+					"rating": 1198,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/24",
+					"no": "1155",
+					"name": "掷骰子等于目标和的方法数",
+					"slug": "number-of-dice-rolls-with-target-sum",
+					"difficulty": "中等",
+					"rating": 1653,
+					"situation": "自己做出",
+					"method": "dp/记忆化搜索",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/25",
+					"no": "2698",
+					"name": "求一个整数的惩罚数",
+					"slug": "find-the-punishment-number-of-an-integer",
+					"difficulty": "中等",
+					"rating": 1678,
+					"situation": "自己做出",
+					"method": "回溯",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
