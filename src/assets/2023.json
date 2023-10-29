@@ -3451,6 +3451,54 @@
 					"method": "回溯",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/10/26",
+					"no": "2520",
+					"name": "统计能整除数字的位数",
+					"slug": "count-the-digits-that-divide-a-number",
+					"difficulty": "简单",
+					"rating": 1260,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/27",
+					"no": "1465",
+					"name": "切割后面积最大的蛋糕",
+					"slug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+					"difficulty": "中等",
+					"rating": 1444,
+					"situation": "自己做出",
+					"method": "贪心",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/28",
+					"no": "2558",
+					"name": "从数量最多的堆取走礼物",
+					"slug": "take-gifts-from-the-richest-pile",
+					"difficulty": "简单",
+					"rating": 1276,
+					"situation": "自己做出",
+					"method": "堆",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/29",
+					"no": "274",
+					"name": "H指数",
+					"slug": "h-index",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
