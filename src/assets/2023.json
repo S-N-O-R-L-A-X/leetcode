@@ -3496,7 +3496,45 @@
 					"difficulty": "简单",
 					"rating": null,
 					"situation": "自己做出",
-					"method": "",
+					"method": "二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/10/30",
+					"no": "275",
+					"name": "H指数 II",
+					"slug": "h-index-ii",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "二分",
+					"learn": "",
+					"unknown": "另一种二分写法"
+				},
+				{
+					"date": "2023/10/31",
+					"no": "2003",
+					"name": "每棵子树内缺失的最小基因值",
+					"slug": "smallest-missing-genetic-value-in-each-subtree",
+					"difficulty": "困难",
+					"rating": 2415,
+					"situation": "没看懂答案",
+					"method": "dfs+（启发式合并）",
+					"learn": "",
+					"unknown": ""
+				}
+			],
+			[
+				{
+					"date": "2023/11/1",
+					"no": "2127",
+					"name": "参加会议的最多员工数",
+					"slug": "maximum-employees-to-be-invited-to-a-meeting",
+					"difficulty": "困难",
+					"rating": 2449,
+					"situation": "自己做出",
+					"method": "分类讨论+拓扑排序",
 					"learn": "",
 					"unknown": ""
 				}
