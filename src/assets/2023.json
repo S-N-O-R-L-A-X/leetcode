@@ -3537,6 +3537,54 @@
 					"method": "分类讨论+拓扑排序",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/11/2",
+					"no": "2103",
+					"name": "环和杆",
+					"slug": "rings-and-rods",
+					"difficulty": "简单",
+					"rating": 1257,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/3",
+					"no": "117",
+					"name": "填充每个节点的下一个右侧节点指针 II",
+					"slug": "populating-next-right-pointers-in-each-node-ii",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "bfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/4",
+					"no": "421",
+					"name": "数组中两个数的最大异或值",
+					"slug": "maximum-xor-of-two-numbers-in-an-array",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "看懂答案",
+					"method": "哈希/字典树",
+					"learn": "异或题可以多往答案的每一位思考，想想字典树",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/5",
+					"no": "187",
+					"name": "重复的DNA序列",
+					"slug": "repeated-dna-sequences",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "哈希（+状态压缩）",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
