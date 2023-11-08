@@ -3585,6 +3585,42 @@
 					"method": "哈希（+状态压缩）",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/11/6",
+					"no": "318",
+					"name": "最大单词长度乘积",
+					"slug": "maximum-product-of-word-lengths",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "位运算",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/7",
+					"no": "2586",
+					"name": "统计范围内的元音字符串数",
+					"slug": "count-the-number-of-vowel-strings-in-range",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/8",
+					"no": "2609",
+					"name": "最长平衡子字符串",
+					"slug": "find-the-longest-balanced-substring-of-a-binary-string",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
