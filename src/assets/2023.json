@@ -3621,6 +3621,54 @@
 					"method": "",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/11/9",
+					"no": "2258",
+					"name": "逃离火灾",
+					"slug": "find-the-longest-balanced-substring-of-a-binary-string",
+					"difficulty": "困难",
+					"rating": 2346,
+					"situation": "自己做出",
+					"method": "bfs（+二分查找）",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/10",
+					"no": "2300",
+					"name": "咒语和药水的成功对数",
+					"slug": "successful-pairs-of-spells-and-potions",
+					"difficulty": "中等",
+					"rating": 1476,
+					"situation": "自己做出",
+					"method": "二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/11",
+					"no": "765",
+					"name": "情侣牵手",
+					"slug": "couples-holding-hands",
+					"difficulty": "困难",
+					"rating": 1999,
+					"situation": "看懂答案",
+					"method": "并查集",
+					"learn": "从数组到节点的方式",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/12",
+					"no": "715",
+					"name": "Range模块",
+					"slug": "range-module",
+					"difficulty": "困难",
+					"rating": null,
+					"situation": "看懂答案",
+					"method": "有序集合/线段树",
+					"learn": "复习线段树",
+					"unknown": ""
 				}
 			]
 		]
