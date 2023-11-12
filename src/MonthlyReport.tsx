@@ -2,12 +2,14 @@ import { DailyProps } from "./constants";
 import DailyTable from "./DailyTable";
 import PieGraph from "./components/PieGraph";
 import data2023 from "./assets/2023.json";
+import data2022 from "./assets/2022.json";
 
 export default function MonthlyReport(props: DailyProps) {
   const { year = 2023, month = 1 } = props;
   let jsonData = null;
   switch (year) {
     case 2023: jsonData = data2023; break;
+    case 2022: jsonData = data2022; break;
     default: break;
   }
   const difficulty = [{ type: "困难", value: 0 }, { type: "中等", value: 0 }, { type: "简单", value: 0 }];

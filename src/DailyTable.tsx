@@ -32,12 +32,14 @@ function getData(year: number) {
 */
 
 import data2023 from "./assets/2023.json";
+import data2022 from "./assets/2022.json";
 export default function DailyTable(props: DailyProps) {
   const { year = 2023, month = 1 } = props;
   // const data = getData(year).read();
   let data: any = null;
   switch (year) {
     case 2023: data = data2023.daily.month[month! - 1]; break;
+    case 2022: data = data2022.daily.month[month! - 1]; break;
     default: break;
   }
 
