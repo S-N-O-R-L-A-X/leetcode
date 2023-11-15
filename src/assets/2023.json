@@ -3669,6 +3669,42 @@
 					"method": "有序集合/线段树",
 					"learn": "复习线段树",
 					"unknown": ""
+				},
+				{
+					"date": "2023/11/13",
+					"no": "307",
+					"name": "区域和检索 - 数组可修改",
+					"slug": "range-sum-query-mutable",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "看懂答案",
+					"method": "树状数组/线段树",
+					"learn": "复习线段树",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/14",
+					"no": "1334",
+					"name": "阈值距离内邻居最少的城市",
+					"slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+					"difficulty": "中等",
+					"rating": 1854,
+					"situation": "自己做出",
+					"method": "bfs/floyd/dijkstra",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/15",
+					"no": "2656",
+					"name": "K 个元素的最大和",
+					"slug": "maximum-sum-with-exactly-k-elements",
+					"difficulty": "简单",
+					"rating": 1213,
+					"situation": "自己做出",
+					"method": "贪心",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
