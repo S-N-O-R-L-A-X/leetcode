@@ -3705,6 +3705,54 @@
 					"method": "贪心",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/11/16",
+					"no": "2760",
+					"name": "最长奇偶子数组",
+					"slug": "longest-even-odd-subarray-with-threshold",
+					"difficulty": "简单",
+					"rating": 1420,
+					"situation": "自己做出",
+					"method": "枚举/dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/17",
+					"no": "2736",
+					"name": "最大和查询",
+					"slug": "maximum-sum-queries",
+					"difficulty": "困难",
+					"rating": 2533,
+					"situation": "看懂答案",
+					"method": "单调栈+二分查找",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/18",
+					"no": "2342",
+					"name": "数位和相等数对的最大和",
+					"slug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+					"difficulty": "中等",
+					"rating": 1308,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/19",
+					"no": "689",
+					"name": "数位和相等数对的最大和",
+					"slug": "maximum-sum-of-3-non-overlapping-subarrays",
+					"difficulty": "困难",
+					"rating": null,
+					"situation": "没看懂答案",
+					"method": "滑动窗口/dp",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
