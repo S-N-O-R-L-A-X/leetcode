@@ -3745,12 +3745,48 @@
 				{
 					"date": "2023/11/19",
 					"no": "689",
-					"name": "数位和相等数对的最大和",
+					"name": "三个无重叠子数组的最大和",
 					"slug": "maximum-sum-of-3-non-overlapping-subarrays",
 					"difficulty": "困难",
 					"rating": null,
 					"situation": "没看懂答案",
 					"method": "滑动窗口/dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/20",
+					"no": "53",
+					"name": "最大子数组和",
+					"slug": "maximum-subarray",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "dp/分治",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/21",
+					"no": "2216",
+					"name": "最大子数组和",
+					"slug": "minimum-deletions-to-make-array-beautiful",
+					"difficulty": "中等",
+					"rating": 1509,
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/22",
+					"no": "2304",
+					"name": "网格中的最小路径代价",
+					"slug": "minimum-path-cost-in-a-grid",
+					"difficulty": "中等",
+					"rating": 1658,
+					"situation": "自己做出",
+					"method": "dp/记忆化搜索",
 					"learn": "",
 					"unknown": ""
 				}
