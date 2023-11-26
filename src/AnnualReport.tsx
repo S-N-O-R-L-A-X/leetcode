@@ -1,6 +1,7 @@
 import React from 'react';
 import { DailyProps } from './constants';
 import data2023 from "./assets/2023.json";
+import data2022 from "./assets/2022.json";
 import DifficultyGraph from './components/PieGraph';
 import AnnualTable from './AnnualTable';
 import LineChart from './components/LineChart';
@@ -11,16 +12,16 @@ export default function AnnualReport(props: DailyProps) {
   let jsonData = null;
   switch (year) {
     case 2023: jsonData = data2023; break;
+    case 2022: jsonData = data2022; break;
     default: break;
   }
 
+  const month_rates: any[] = [];
   const month_difficulties: any[] = [];
   const month_situations: any[] = [];
   const year_difficulty = [{ type: "困难", value: 0 }, { type: "中等", value: 0 }, { type: "简单", value: 0 }];
   const year_situation = [{ type: "自己做出", value: 0 }, { type: "看思路写出", value: 0 }, { type: "看懂答案", value: 0 }, { type: "没看懂答案", value: 0 }];
   const annual_info: any[] = [{ "info": "困难", }, { "info": "中等", }, { "info": "简单", }, { "info": "自己做出" }, { "info": "看思路写出" }, { "info": "看懂答案" }, { "info": "没看懂答案" }];
-  // const year_info = [];
-
 
   jsonData?.daily.month.forEach((m, idx) => {
     const difficulty = [{ type: "困难", month: `${idx + 1}月`, value: 0 }, { type: "中等", month: `${idx + 1}月`, value: 0 }, { type: "简单", month: `${idx + 1}月`, value: 0 }];
@@ -28,8 +29,16 @@ export default function AnnualReport(props: DailyProps) {
     annual_info.forEach((mon) => {
       mon[`${idx + 1}月`] = 0;
     })
-
+    const month_rate = { type: "rate", month: `${idx + 1}月`, value: 0 };
+    let rate = 0, effective_date = 0;
     m.forEach((d) => {
+      // @ts-ignore
+      if (d.rating) {
+        ++effective_date;
+        // @ts-ignore
+        rate += d.rating;
+      }
+
       if (d.difficulty === "困难") {
         difficulty[0].value++;
         annual_info[0][`${idx + 1}月`]++;
@@ -62,14 +71,11 @@ export default function AnnualReport(props: DailyProps) {
     })
     month_difficulties.push(...difficulty);
     month_situations.push(...situation);
-    // const month_info: any = {};
-    // difficulty.forEach(({ type, value }) => {
-    //   month_info[type] = value;
-    // })
-    // situation.forEach(({ type, value }) => {
-    //   month_info[type] = value;
-    // })
-    // year_info.push(month_info);
+
+    if (effective_date > 0) {
+      month_rate.value = rate / effective_date;
+      month_rates.push(month_rate);
+    }
 
     year_difficulty[0].value += difficulty[0].value;
     year_difficulty[1].value += difficulty[1].value;
@@ -84,6 +90,7 @@ export default function AnnualReport(props: DailyProps) {
     <>
       <AnnualTable data={annual_info} />
       <div>
+        <LineChart data={month_rates} color={["gold"]} />
         <LineChart data={month_difficulties} color={['#fb259d', '#fabc1d', '#1fb09b']} />
         <LineChart data={month_situations} color={['green', 'blue', 'yellow', 'red']} />
       </div>
