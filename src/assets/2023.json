@@ -3837,6 +3837,42 @@
 					"method": "贡献法",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/11/27",
+					"no": "907",
+					"name": "子数组的最小值之和",
+					"slug": "sum-of-subarray-minimums",
+					"difficulty": "中等",
+					"rating": 1975,
+					"situation": "自己做出",
+					"method": "贡献法+单调栈/dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/28",
+					"no": "1670",
+					"name": "设计前中后队列",
+					"slug": "design-front-middle-back-queue",
+					"difficulty": "中等",
+					"rating": 1610,
+					"situation": "自己做出",
+					"method": "双端队列/模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/11/29",
+					"no": "2336",
+					"name": "无限集中的最小数字",
+					"slug": "smallest-number-in-infinite-set",
+					"difficulty": "中等",
+					"rating": 1375,
+					"situation": "自己做出",
+					"method": "模拟/优先级队列",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
