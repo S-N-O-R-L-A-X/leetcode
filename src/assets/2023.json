@@ -3873,6 +3873,56 @@
 					"method": "模拟/优先级队列",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/11/30",
+					"no": "1657",
+					"name": "确定两个字符串是否接近",
+					"slug": "determine-if-two-strings-are-close",
+					"difficulty": "中等",
+					"rating": 1530,
+					"situation": "自己做出",
+					"method": "计数",
+					"learn": "",
+					"unknown": ""
+				}
+			],
+			[
+				{
+					"date": "2023/12/1",
+					"no": "2661",
+					"name": "无限集中的最小数字",
+					"slug": "first-completely-painted-row-or-column",
+					"difficulty": "中等",
+					"rating": 1502,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/2",
+					"no": "2661",
+					"name": "拼车",
+					"slug": "car-pooling",
+					"difficulty": "中等",
+					"rating": 1441,
+					"situation": "自己做出",
+					"method": "差分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/3",
+					"no": "1423",
+					"name": "可获得的最大点数",
+					"slug": "maximum-points-you-can-obtain-from-cards",
+					"difficulty": "中等",
+					"rating": 1573,
+					"situation": "自己做出",
+					"method": "滑动窗口",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
