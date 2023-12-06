@@ -3923,6 +3923,42 @@
 					"method": "滑动窗口",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/12/4",
+					"no": "1038",
+					"name": "可获得的最大点数",
+					"slug": "binary-search-tree-to-greater-sum-tree",
+					"difficulty": "中等",
+					"rating": 1374,
+					"situation": "自己做出",
+					"method": "morris遍历/逆序中序遍历",
+					"learn": "",
+					"unknown": "morris遍历"
+				},
+				{
+					"date": "2023/12/5",
+					"no": "2477",
+					"name": "到达首都的最少油耗",
+					"slug": "minimum-fuel-cost-to-report-to-the-capital",
+					"difficulty": "中等",
+					"rating": 2011,
+					"situation": "看懂答案",
+					"method": "贪心+dfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/6",
+					"no": "2646",
+					"name": "最小化旅行的价格总和",
+					"slug": "minimize-the-total-price-of-the-trips",
+					"difficulty": "困难",
+					"rating": 2238,
+					"situation": "没看懂答案",
+					"method": "dfs+dp",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
