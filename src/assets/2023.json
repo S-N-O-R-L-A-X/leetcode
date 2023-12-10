@@ -3959,6 +3959,54 @@
 					"method": "dfs+dp",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/12/7",
+					"no": "1466",
+					"name": "重新规划路线",
+					"slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+					"difficulty": "中等",
+					"rating": 1633,
+					"situation": "自己做出",
+					"method": "dfs/bfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/8",
+					"no": "2008",
+					"name": "出租车的最大盈利",
+					"slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+					"difficulty": "中等",
+					"rating": 1871,
+					"situation": "自己做出",
+					"method": "dp+二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/9",
+					"no": "2048",
+					"name": "下一个更大的数值平衡数",
+					"slug": "next-greater-numerically-balanced-number",
+					"difficulty": "中等",
+					"rating": 1734,
+					"situation": "自己做出",
+					"method": "枚举",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/10",
+					"no": "70",
+					"name": "爬楼梯",
+					"slug": "climbing-stairs",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "dp/矩阵快速幂",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
