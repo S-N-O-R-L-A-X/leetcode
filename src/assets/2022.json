@@ -1208,6 +1208,1244 @@
 					"learn": "lodash了解",
 					"unknown": ""
 				}
+			],
+			[
+				{
+					"date": "2022/5/1",
+					"no": "1305",
+					"name": "两棵二叉搜索树中的所有元素",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "中序遍历",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/2",
+					"no": "591",
+					"name": "标签验证器",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "模拟+栈",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/3",
+					"no": "937",
+					"name": "重新排列日志文件",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "排序",
+					"learn": "js字符串排序方法",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/4",
+					"no": "1823",
+					"name": "找出游戏的获胜者",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "队列/递归",
+					"learn": "约瑟夫环",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/5",
+					"no": "713",
+					"name": "乘积小于K的子数组",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "二分查找/滑动窗口",
+					"learn": "乘法化加法",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/6",
+					"no": "933",
+					"name": "最近的请求次数",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "队列",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/7",
+					"no": "433",
+					"name": "最小基因变化",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "bfs/dfs",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/8",
+					"no": "442",
+					"name": "数组中重复的数据",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "原地哈希",
+					"learn": "原地哈希",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/9",
+					"no": "942",
+					"name": "增减字符串匹配",
+					"difficulty": "简单",
+					"situation": "CV后看懂",
+					"method": "贪心+双指针",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/10",
+					"no": "1728",
+					"name": "猫和老鼠II",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "拓扑排序+博弈",
+					"learn": null,
+					"unknown": "拓扑排序+博弈"
+				},
+				{
+					"date": "2022/5/11",
+					"no": "449",
+					"name": "序列化和反序列化二叉搜索树",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "后序遍历",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/12",
+					"no": "944",
+					"name": "删列造序",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/13",
+					"no": "面试题01.05",
+					"name": " 一次编辑",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "分类讨论",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/14",
+					"no": "691",
+					"name": "贴纸拼词",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "记忆化搜索+状态压缩",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/15",
+					"no": "812",
+					"name": "最大三角形面积",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "数学/凸包",
+					"learn": null,
+					"unknown": "andrew算法 "
+				},
+				{
+					"date": "2022/5/16",
+					"no": "面试题04.06",
+					"name": "后继者",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "中序遍历/二叉搜索树",
+					"learn": "用栈的中序遍历做法",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/17",
+					"no": "953",
+					"name": "验证外星语词典",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "模拟/排序",
+					"learn": "js数组比较",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/18",
+					"no": "668",
+					"name": "乘法表中第k小的数",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "二分",
+					"learn": "第k小，第k大尝试二分",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/19",
+					"no": "462",
+					"name": "最少移动次数使数组元素相等II",
+					"difficulty": "中等",
+					"situation": "CV后看懂",
+					"method": "转化+快速选择",
+					"learn": null,
+					"unknown": "快速选择 "
+				},
+				{
+					"date": "2022/5/20",
+					"no": "436",
+					"name": "寻找右区间",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "二分/双指针",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/21",
+					"no": "961",
+					"name": "在长度2N的数组中找出重复N次的元素",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "哈希/数学/随机",
+					"learn": "c++mt19937，uniform_int_distribution",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/22",
+					"no": "464",
+					"name": "我能赢吗",
+					"difficulty": "中等",
+					"situation": "CV后没看懂",
+					"method": "状态压缩+记忆化搜索",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/23",
+					"no": "675",
+					"name": "为高尔夫比赛砍树",
+					"difficulty": "困难",
+					"situation": "看思路写出",
+					"method": "bfs/迪杰斯特拉/A*",
+					"learn": null,
+					"unknown": "迪杰斯特拉/A* "
+				},
+				{
+					"date": "2022/5/24",
+					"no": "965",
+					"name": "单值二叉树",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "递归",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/25",
+					"no": "467",
+					"name": "环绕字符串中唯一的子字符串",
+					"difficulty": "中等",
+					"situation": "CV后没看懂",
+					"method": "动态规划",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/26",
+					"no": "699",
+					"name": "掉落的方块",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "暴力/线段树",
+					"learn": "线段树板子",
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/27",
+					"no": "面试题17.11",
+					"name": "单词距离",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "双指针+哈希",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/28",
+					"no": "1021",
+					"name": "删除最外层的括号",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "栈/转化",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/29",
+					"no": "468",
+					"name": "验证IP地址",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "正则/模拟",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/30",
+					"no": "1022",
+					"name": "从根到叶的二进制数之和",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "递归/栈",
+					"learn": null,
+					"unknown": " "
+				},
+				{
+					"date": "2022/5/31",
+					"no": "剑指Offer II 114",
+					"name": "外星文字典",
+					"difficulty": "困难",
+					"situation": "自己做出",
+					"method": "拓扑排序",
+					"learn": "ts迭代时的问题",
+					"unknown": " "
+				}
+			],
+			[
+				{
+					"date": "2022/6/1",
+					"no": "473",
+					"name": "火柴拼正方形",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "回溯/状态压缩+动态规划",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/2",
+					"no": "450",
+					"name": "删除二叉搜索树中的节点",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "递归/模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/3",
+					"no": "829",
+					"name": "连续整数求和",
+					"difficulty": "困难",
+					"situation": "自己做出",
+					"method": "数学",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/4",
+					"no": "929",
+					"name": "独特的电子邮件地址",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "哈希表",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/5",
+					"no": "478",
+					"name": "在圆内随机生成点",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "拒绝采样/计算分布函数",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/6",
+					"no": "732",
+					"name": "我的日程安排表III",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "差分数组/dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/7",
+					"no": "875",
+					"name": "爱吃香蕉的珂珂",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/8",
+					"no": "1037",
+					"name": "有效的回旋镖",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "数学",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/9",
+					"no": "497",
+					"name": "非重叠矩形中的随机点",
+					"difficulty": "中等",
+					"situation": "CV后看懂",
+					"method": "数学+二分+前缀和",
+					"learn": "对面积均匀分布→求前缀和",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/10",
+					"no": "730",
+					"name": "统计不同回文子序列",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/11",
+					"no": "926",
+					"name": "将字符串翻转到单调递增",
+					"difficulty": "中等",
+					"situation": "CV后看懂",
+					"method": "dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/12",
+					"no": "890",
+					"name": "查找和替换模式",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "哈希表",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/13",
+					"no": "1051",
+					"name": "高度检查器",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "排序",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/14",
+					"no": "498",
+					"name": "对角线遍历",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": "partition_point()"
+				},
+				{
+					"date": "2022/6/15",
+					"no": "719",
+					"name": "找出第K小的数对距离",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "排序+二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/16",
+					"no": "532",
+					"name": "数组中的k-diff数对",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "哈希/ 排序+二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/17",
+					"no": "1089",
+					"name": "复写零",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "模拟/双指针",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/18",
+					"no": "剑指Offer II 029",
+					"name": "排序的循环链表",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "链表",
+					"learn": "ts自带Node类型",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/19",
+					"no": "508",
+					"name": "出现次数最多的子树元素和",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "深度优先搜索",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/20",
+					"no": "715",
+					"name": "Range模块",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "线段树/有序集合",
+					"learn": "线段树",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/21",
+					"no": "1108",
+					"name": "IP地址无效化",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/22",
+					"no": "513",
+					"name": "找树左下角的值",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "bfs/dfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/23",
+					"no": "30",
+					"name": "串联所有单词的字串",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "滑动窗口",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/24",
+					"no": "515",
+					"name": "在每个树行中找最大值",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "dfs/bfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/25",
+					"no": "剑指Offer II 091",
+					"name": "粉刷房子",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "动态规划",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/26",
+					"no": "710",
+					"name": "黑名单中的随机数",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "映射",
+					"learn": "拒绝采样点的重映射",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/27",
+					"no": "522",
+					"name": "最长特殊序列II",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "转化",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/28",
+					"no": "324",
+					"name": "摆动排序II",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "转化+ 排序/三向切分/索引转换",
+					"learn": "",
+					"unknown": "三向切分/索引转换"
+				},
+				{
+					"date": "2022/6/29",
+					"no": "535",
+					"name": "TinyURL的加密和解密",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/6/30",
+					"no": "1175",
+					"name": "质数排列",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "组合数学",
+					"learn": "",
+					"unknown": ""
+				}
+			],
+			[
+				{
+					"date": "2022/7/1",
+					"no": "241",
+					"name": "为运算表达式设计优先级",
+					"difficulty": "中等",
+					"situation": "CV后看懂",
+					"method": "记忆化搜索/动态规划",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/2",
+					"no": "871",
+					"name": "最低加油次数",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "动态规划/ 贪心+优先级队列",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/3",
+					"no": "556",
+					"name": "下一个更大元素III",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "排列/数学",
+					"learn": "下一个排列的计算方式",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/4",
+					"no": "1200",
+					"name": "最小绝对差",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "排序",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/5",
+					"no": "729",
+					"name": "我的日程安排表I",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "遍历/二分查找/线段树",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/6",
+					"no": "736",
+					"name": "Lisp语法解析",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "递归/自动机",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/7",
+					"no": "648",
+					"name": "单词替换",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "哈希表/排序/字典树",
+					"learn": "",
+					"unknown": "字典树"
+				},
+				{
+					"date": "2022/7/8",
+					"no": "1217",
+					"name": "玩筹码",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/9",
+					"no": "873",
+					"name": "最长的斐波那契子序列的长度",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "动态规划",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/10",
+					"no": "741",
+					"name": "摘樱桃",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "动态规划",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/11",
+					"no": "676",
+					"name": "实现一个魔法字典",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "模拟/字典树",
+					"learn": "字典树",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/12",
+					"no": "1252",
+					"name": "奇数值单元格的数目",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "模拟/计数",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/13",
+					"no": "735",
+					"name": "行星碰撞",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "栈",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/14",
+					"no": "745",
+					"name": "前缀和后缀搜索",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "哈希/字典树",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/15",
+					"no": "558",
+					"name": "四叉树交集",
+					"difficulty": "中等",
+					"situation": "CV后没看懂",
+					"method": "四叉树",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/16",
+					"no": "剑指Offer II 041",
+					"name": "滑动窗口的平均值",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "滑动窗口",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/17",
+					"no": "565",
+					"name": "数组嵌套",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "图/并查集",
+					"learn": "ts并查集板子",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/18",
+					"no": "749",
+					"name": "隔离病毒",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "广度优先搜索",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/19",
+					"no": "731",
+					"name": "我的日程安排表II",
+					"difficulty": "中等",
+					"situation": "CV后没看懂",
+					"method": "线段树/差分数组",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/20",
+					"no": "1260",
+					"name": "二维网格迁移",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "找规律/二维转一维",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/21",
+					"no": "814",
+					"name": "二叉树剪枝",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "递归",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/22",
+					"no": "757",
+					"name": "设置交集大小至少为2",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "贪心",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/23",
+					"no": "剑指Offer II 115",
+					"name": "重建序列",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "拓扑排序",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/24",
+					"no": "1184",
+					"name": "公交站间的距离",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/25",
+					"no": "919",
+					"name": "完全二叉树插入器",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "队列/二进制",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/26",
+					"no": "1206",
+					"name": "设计跳表",
+					"difficulty": "困难",
+					"situation": "自己做出",
+					"method": "跳表",
+					"learn": "ts跳表板子",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/27",
+					"no": "592",
+					"name": "分数加减运算",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/28",
+					"no": "1331",
+					"name": "数组序号转换",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "排序+哈希表",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/29",
+					"no": "593",
+					"name": "有效的正方形",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "数学",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/30",
+					"no": "952",
+					"name": "按公因数计算最大组件大小",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "并查集",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/7/31",
+					"no": "1161",
+					"name": "最大层内元素和",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "dfs/bfs",
+					"learn": "js/ts bfs的赋值实现",
+					"unknown": ""
+				}
+			],
+			[
+				{
+					"date": "2022/8/1",
+					"no": "1374",
+					"name": "生成每种字符都是奇数个的字符串",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/2",
+					"no": "622",
+					"name": "设计循环队列",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/3",
+					"no": "899",
+					"name": "有序队列",
+					"difficulty": "困难",
+					"situation": "自己做出",
+					"method": "转化",
+					"learn": "最小表示法",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/4",
+					"no": "1403",
+					"name": "非递增顺序的最小子序列",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "排序+贪心",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/5",
+					"no": "623",
+					"name": "在二叉树中增加一行",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "dfs/bfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/6",
+					"no": "1408",
+					"name": "数组中的字符串匹配",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/7",
+					"no": "636",
+					"name": "函数的独占时间",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "栈",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/8",
+					"no": "761",
+					"name": "特殊的二进制序列",
+					"difficulty": "困难",
+					"situation": "CV后看懂",
+					"method": "分治+转化",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/9",
+					"no": "1413",
+					"name": "逐步求和得到正数的最小值",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "贪心",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/10",
+					"no": "640",
+					"name": "求解方程",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "分割算式的方法：把-替换为+-",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/11",
+					"no": "1417",
+					"name": "重新格式化字符串",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "双指针",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/12",
+					"no": "1282",
+					"name": "用户分组",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/13",
+					"no": "768",
+					"name": "最多能完成排序的块II",
+					"difficulty": "困难",
+					"situation": "看思路写出",
+					"method": "转化+ 单调栈/ 排序+哈希/并查集",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/14",
+					"no": "1422",
+					"name": "分割字符串的最大得分",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/15",
+					"no": "641",
+					"name": "设计循环双端队列",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/16",
+					"no": "1656",
+					"name": "设计有序流",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/17",
+					"no": "1302",
+					"name": "层数最深叶子节点的和",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "bfs/dfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/18",
+					"no": "1224",
+					"name": "最大相等频率",
+					"difficulty": "困难",
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/19",
+					"no": "1450",
+					"name": "在既定时间做作业的学生人数",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/20",
+					"no": "654",
+					"name": "最大二叉树",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "递归/单调栈",
+					"learn": "",
+					"unknown": "单调栈"
+				},
+				{
+					"date": "2022/8/21",
+					"no": "1455",
+					"name": "检查单词是否为句中其他单词的前缀",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "双指针",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/22",
+					"no": "655",
+					"name": "输出二叉树",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "bfs/dfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/23",
+					"no": "782",
+					"name": "变为棋盘",
+					"difficulty": "困难",
+					"situation": "CV后没看懂",
+					"method": "分治+位运算",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/24",
+					"no": "1460",
+					"name": "通过翻转子数组使两个数组相等",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "排序/哈希",
+					"learn": "数组元素相等可以采用转成字符串然后比较字符串的方式",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/25",
+					"no": "658",
+					"name": "找到K个最接近的元素",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "排序/ 双指针+排序",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/26",
+					"no": "1464",
+					"name": "数组中两元素的最大乘积",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "排序/模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/27",
+					"no": "662",
+					"name": "二叉树最大宽度",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "bfs/dfs",
+					"learn": "ts bigint",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/28",
+					"no": "793",
+					"name": "阶乘函数后K个零",
+					"difficulty": "困难",
+					"situation": "自己做出",
+					"method": "二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/29",
+					"no": "1470",
+					"name": "重新排列数组",
+					"difficulty": "简单",
+					"situation": "自己做出",
+					"method": "双指针",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/30",
+					"no": "998",
+					"name": "最大二叉树II",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2022/8/31",
+					"no": "946",
+					"name": "验证栈序列",
+					"difficulty": "中等",
+					"situation": "自己做出",
+					"method": "栈",
+					"learn": "",
+					"unknown": ""
+				}
 			]
 		]
 	}
