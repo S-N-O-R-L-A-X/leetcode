@@ -4007,6 +4007,42 @@
 					"method": "dp/矩阵快速幂",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/12/11",
+					"no": "1631",
+					"name": "最小体力消耗路径",
+					"slug": "path-with-minimum-effort",
+					"difficulty": "简单",
+					"rating": 1947,
+					"situation": "自己做出",
+					"method": "二分查找+bfs / 并查集 / 迪杰斯特拉算法",
+					"learn": "",
+					"unknown": "迪杰斯特拉算法"
+				},
+				{
+					"date": "2023/12/12",
+					"no": "2454",
+					"name": "下一个更大元素 IV",
+					"slug": "next-greater-element-iv",
+					"difficulty": "困难",
+					"rating": 2175,
+					"situation": "看懂答案",
+					"method": "单调栈（+优先级队列）",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/13",
+					"no": "2697",
+					"name": "字典序最小回文串",
+					"slug": "lexicographically-smallest-palindrome",
+					"difficulty": "简单",
+					"rating": 1303,
+					"situation": "自己做出",
+					"method": "贪心",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
