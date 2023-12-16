@@ -1,4 +1,4 @@
-import { Button, InputNumber, Switch } from 'antd';
+import { InputNumber, Switch } from 'antd';
 import { useState } from 'react';
 import AnnualReport from './AnnualReport';
 import './App.css'
@@ -31,8 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
-      <Button onClick={changePub}>查看作者情况</Button>
+      <Header changePub={changePub}/>
 
       <fieldset>
         <InputNumber className="input-number" size="small" min={2021} max={2023} defaultValue={now_year} onChange={changeYear}></InputNumber>

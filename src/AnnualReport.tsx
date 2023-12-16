@@ -8,7 +8,6 @@ import LineChart from './components/LineChart';
 
 export default function AnnualReport(props: DailyProps) {
   const { year = 2023, pub } = props;
-  console.log(pub)
   let jsonData = null;
   switch (year) {
     case 2023: jsonData = data2023; break;

@@ -1,6 +1,12 @@
-export default function Header() {
+import { Button } from "antd";
+import { MouseEventHandler } from "react";
+
+export default function Header(props: { changePub: MouseEventHandler}) {
+  const { changePub } = props;
   return (
     <>
+      <Button className="invisible" onClick={changePub}>查看作者情况</Button>
+
       <a href="https://github.com/S-N-O-R-L-A-X/leetcode" target="_blank" className="github-corner" aria-label="Go to his homepage">
         <svg viewBox="0 0 250 250" aria-hidden="true">
           <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>

@@ -144,10 +144,8 @@ export default function DailyTable(props: DailyProps) {
     }
 
   ];
-  console.log(pub);
   if(pub) {
     columns = columns.concat(optionalColumns);
-    console.log(columns);
   }
 
   return (
