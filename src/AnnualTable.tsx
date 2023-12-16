@@ -1,7 +1,7 @@
 import { Table } from 'antd';
 
 
-export default function AnnualTable(props: { data: any[] }) {
+export default function AnnualTable(props: { data: any[], pub?: boolean }) {
   const { data } = props;
 
   const columns: any[] = [

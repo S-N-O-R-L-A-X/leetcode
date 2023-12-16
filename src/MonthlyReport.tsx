@@ -5,7 +5,7 @@ import data2023 from "./assets/2023.json";
 import data2022 from "./assets/2022.json";
 
 export default function MonthlyReport(props: DailyProps) {
-  const { year = 2023, month = 1 } = props;
+  const { year = 2023, month = 1, pub } = props;
   let jsonData = null;
   switch (year) {
     case 2023: jsonData = data2023; break;
@@ -43,11 +43,17 @@ export default function MonthlyReport(props: DailyProps) {
 
   return (
     <>
-      <DailyTable year={year} month={month} />
+      <DailyTable year={year} month={month} pub={pub}/>
       <div>
-        <div className="show-graph">
-          <PieGraph data={situation} />
-        </div>
+        {
+          pub &&
+          (
+            <div className="show-graph">
+              <PieGraph data={situation} />
+            </div>
+          )
+        }
+
         <div className="show-graph">
           <PieGraph data={difficulty} />
         </div>

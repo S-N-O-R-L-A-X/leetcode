@@ -7,8 +7,8 @@ import AnnualTable from './AnnualTable';
 import LineChart from './components/LineChart';
 
 export default function AnnualReport(props: DailyProps) {
-  const { year = 2023 } = props;
-
+  const { year = 2023, pub } = props;
+  console.log(pub)
   let jsonData = null;
   switch (year) {
     case 2023: jsonData = data2023; break;
@@ -88,16 +88,20 @@ export default function AnnualReport(props: DailyProps) {
 
   return (
     <>
-      <AnnualTable data={annual_info} />
+      <AnnualTable data={annual_info} pub={pub} />
       <div>
-        <LineChart data={month_rates} color={["gold"]} />
+        {month_rates.length > 0 && <LineChart data={month_rates} color={["gold"]} />}
         <LineChart data={month_difficulties} color={['#fb259d', '#fabc1d', '#1fb09b']} />
-        <LineChart data={month_situations} color={['green', 'blue', 'yellow', 'red']} />
+        {pub && <LineChart data={month_situations} color={['green', 'blue', 'yellow', 'red']} />}
       </div>
       <div>
-        <div className="show-graph">
-          <DifficultyGraph data={year_situation} />
-        </div>
+        {
+          pub && (
+            <div className="show-graph">
+              <DifficultyGraph data={year_situation} />
+            </div>
+          )
+        }
         <div className="show-graph">
           <DifficultyGraph data={year_difficulty} />
         </div>

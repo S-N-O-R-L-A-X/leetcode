@@ -33,8 +33,9 @@ function getData(year: number) {
 
 import data2023 from "./assets/2023.json";
 import data2022 from "./assets/2022.json";
+import { useEffect } from 'react';
 export default function DailyTable(props: DailyProps) {
-  const { year = 2023, month = 1 } = props;
+  const { year = 2023, month = 1, pub } = props;
   // const data = getData(year).read();
   let data: any = null;
   switch (year) {
@@ -43,7 +44,7 @@ export default function DailyTable(props: DailyProps) {
     default: break;
   }
 
-  const columns = [
+  let columns = [
     {
       title: '日期',
       dataIndex: 'date',
@@ -96,6 +97,14 @@ export default function DailyTable(props: DailyProps) {
       sorter: (a: any, b: any) => a.rating - b.rating,
     },
     {
+      title: "算法和数据结构",
+      dataIndex: "method",
+      key: "method"
+    },
+  ];
+
+  const optionalColumns=[
+    {
       title: "做题情况",
       dataIndex: "situation",
       key: "situation",
@@ -124,11 +133,6 @@ export default function DailyTable(props: DailyProps) {
         </>)
     },
     {
-      title: "算法和数据结构",
-      dataIndex: "method",
-      key: "method"
-    },
-    {
       title: "学到的内容",
       dataIndex: "learn",
       key: "learn"
@@ -138,7 +142,13 @@ export default function DailyTable(props: DailyProps) {
       dataIndex: "unknown",
       key: "unknown"
     }
+
   ];
+  console.log(pub);
+  if(pub) {
+    columns = columns.concat(optionalColumns);
+    console.log(columns);
+  }
 
   return (
     <>
