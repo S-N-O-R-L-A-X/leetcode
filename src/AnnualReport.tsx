@@ -1,8 +1,7 @@
-import React from 'react';
 import { DailyProps } from './constants';
 import data2023 from "./assets/2023.json";
 import data2022 from "./assets/2022.json";
-import DifficultyGraph from './components/PieGraph';
+import PieGraph from './components/PieGraph';
 import AnnualTable from './AnnualTable';
 import LineChart from './components/LineChart';
 
@@ -20,22 +19,30 @@ export default function AnnualReport(props: DailyProps) {
   const month_situations: any[] = [];
   const year_difficulty = [{ type: "困难", value: 0 }, { type: "中等", value: 0 }, { type: "简单", value: 0 }];
   const year_situation = [{ type: "自己做出", value: 0 }, { type: "看思路写出", value: 0 }, { type: "看懂答案", value: 0 }, { type: "没看懂答案", value: 0 }];
-  const annual_info: any[] = [{ "info": "困难", }, { "info": "中等", }, { "info": "简单", }, { "info": "自己做出" }, { "info": "看思路写出" }, { "info": "看懂答案" }, { "info": "没看懂答案" }];
+  let annual_info: any[] = [{ "info": "困难", }, { "info": "中等", }, { "info": "简单", }];
+  const annual_situation: any[] = [{ "info": "自己做出" }, { "info": "看思路写出" }, { "info": "看懂答案" }, { "info": "没看懂答案" }];
+  let self_min = { rate: 4000, date: "", name: "" }, self_Max = { rate: 0, date: "", name: "" }; // cannot do
+  let min = { rate: 4000, date: "", name: "" }, max = { rate: 0, date: "", name: "" };
 
   jsonData?.daily.month.forEach((m, idx) => {
     const difficulty = [{ type: "困难", month: `${idx + 1}月`, value: 0 }, { type: "中等", month: `${idx + 1}月`, value: 0 }, { type: "简单", month: `${idx + 1}月`, value: 0 }];
     const situation = [{ type: "自己做出", month: `${idx + 1}月`, value: 0 }, { type: "看思路写出", month: `${idx + 1}月`, value: 0 }, { type: "看懂答案", month: `${idx + 1}月`, value: 0 }, { type: "没看懂答案", month: `${idx + 1}月`, value: 0 }];
     annual_info.forEach((mon) => {
       mon[`${idx + 1}月`] = 0;
-    })
+    });
+    annual_situation.forEach((mon) => {
+      mon[`${idx + 1}月`] = 0;
+    });
     const month_rate = { type: "rate", month: `${idx + 1}月`, value: 0 };
     let rate = 0, effective_date = 0;
     m.forEach((d) => {
       // @ts-ignore
       if (d.rating) {
-        ++effective_date;
         // @ts-ignore
-        rate += d.rating;
+        const { rating } = d;
+        ++effective_date;
+        rate += rating;
+
       }
 
       if (d.difficulty === "困难") {
@@ -53,19 +60,19 @@ export default function AnnualReport(props: DailyProps) {
 
       if (d.situation === "自己做出") {
         situation[0].value++;
-        annual_info[3][`${idx + 1}月`]++;
+        annual_situation[0][`${idx + 1}月`]++;
       }
       else if (d.situation === "看思路写出") {
         situation[1].value++;
-        annual_info[4][`${idx + 1}月`]++;
+        annual_situation[1][`${idx + 1}月`]++;
       }
       else if (d.situation === "看懂答案") {
         situation[2].value++;
-        annual_info[5][`${idx + 1}月`]++;
+        annual_situation[2][`${idx + 1}月`]++;
       }
       else {
         situation[3].value++;
-        annual_info[6][`${idx + 1}月`]++;
+        annual_situation[3][`${idx + 1}月`]++;
       }
     })
     month_difficulties.push(...difficulty);
@@ -85,6 +92,10 @@ export default function AnnualReport(props: DailyProps) {
     year_situation[3].value += situation[3].value;
   })
 
+  if (pub) {
+    annual_info = annual_info.concat(annual_situation);
+  }
+
   return (
     <>
       <AnnualTable data={annual_info} pub={pub} />
@@ -97,12 +108,12 @@ export default function AnnualReport(props: DailyProps) {
         {
           pub && (
             <div className="show-graph">
-              <DifficultyGraph data={year_situation} />
+              <PieGraph data={year_situation} />
             </div>
           )
         }
         <div className="show-graph">
-          <DifficultyGraph data={year_difficulty} />
+          <PieGraph data={year_difficulty} />
         </div>
       </div>
     </>

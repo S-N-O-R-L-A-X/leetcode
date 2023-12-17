@@ -5,7 +5,7 @@ export default function Header(props: { changePub: MouseEventHandler}) {
   const { changePub } = props;
   return (
     <>
-      <Button className="invisible" onClick={changePub}>查看作者情况</Button>
+      <Button className="invisible" onClick={changePub}>查看/不查看作者情况</Button>
 
       <a href="https://github.com/S-N-O-R-L-A-X/leetcode" target="_blank" className="github-corner" aria-label="Go to his homepage">
         <svg viewBox="0 0 250 250" aria-hidden="true">
