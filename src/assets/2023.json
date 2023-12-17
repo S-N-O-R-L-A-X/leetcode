@@ -4043,6 +4043,54 @@
 					"method": "贪心",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/12/14",
+					"no": "2132",
+					"name": "用邮票贴满网格图",
+					"slug": "stamping-the-grid",
+					"difficulty": "困难",
+					"rating": 2364,
+					"situation": "没看懂答案",
+					"method": "二维前缀和+二维差分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/15",
+					"no": "2415",
+					"name": "反转二叉树的奇数层",
+					"slug": "reverse-odd-levels-of-binary-tree",
+					"difficulty": "困难",
+					"rating": 1431,
+					"situation": "自己做出",
+					"method": "dfs/bfs",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/16",
+					"no": "2276",
+					"name": "统计区间中的整数数目",
+					"slug": "count-integers-in-intervals",
+					"difficulty": "困难",
+					"rating": 2222,
+					"situation": "自己做出",
+					"method": "平衡二叉搜索树/线段树",
+					"learn": "复习线段树",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/17",
+					"no": "746",
+					"name": "使用最小花费爬楼梯",
+					"slug": "min-cost-climbing-stairs",
+					"difficulty": "简单",
+					"rating": 1358,
+					"situation": "自己做出",
+					"method": "dp",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
