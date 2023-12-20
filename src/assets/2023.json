@@ -4091,6 +4091,42 @@
 					"method": "dp",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/12/18",
+					"no": "162",
+					"name": "寻找峰值",
+					"slug": "find-peak-element",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/19",
+					"no": "1901",
+					"name": "寻找峰值 II",
+					"slug": "find-a-peak-element-ii",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "二分",
+					"learn": "",
+					"unknown": "二分方法"
+				},
+				{
+					"date": "2023/12/20",
+					"no": "2828",
+					"name": "判别首字母缩略词",
+					"slug": "check-if-a-string-is-an-acronym-of-words",
+					"difficulty": "简单",
+					"rating": 1151,
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
