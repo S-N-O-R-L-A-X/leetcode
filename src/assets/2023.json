@@ -4127,6 +4127,54 @@
 					"method": "",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/12/21",
+					"no": "2866",
+					"name": "美丽塔 II",
+					"slug": "beautiful-towers-ii",
+					"difficulty": "中等",
+					"rating": 2071,
+					"situation": "看懂答案",
+					"method": "单调栈",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/22",
+					"no": "1671",
+					"name": "得到山形数组的最少删除次数",
+					"slug": "minimum-number-of-removals-to-make-mountain-array",
+					"difficulty": "困难",
+					"rating": 1912,
+					"situation": "没看懂答案",
+					"method": "dp/二分查找",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/23",
+					"no": "1962",
+					"name": "移除石子使总数最小",
+					"slug": "remove-stones-to-minimize-the-total",
+					"difficulty": "中等",
+					"rating": 1418,
+					"situation": "自己做出",
+					"method": "贪心+优先级队列",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/24",
+					"no": "1954",
+					"name": "收集足够苹果的最小花园周长",
+					"slug": "minimum-garden-perimeter-to-collect-enough-apples",
+					"difficulty": "中等",
+					"rating": 1758,
+					"situation": "自己做出",
+					"method": "数学（+二分）",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
