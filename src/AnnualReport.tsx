@@ -43,6 +43,35 @@ export default function AnnualReport(props: DailyProps) {
         ++effective_date;
         rate += rating;
 
+        if (d.situation !== "自己做出") {
+          if (self_min.rate > rating) {
+            self_min.name = d.name;
+            self_min.rate = rating;
+            self_min.date = d.date;
+          }
+
+          if (self_Max.rate < rating) {
+            self_Max.name = d.name;
+            self_Max.rate = rating;
+            self_Max.date = d.date;
+          }
+        }
+
+        if (min.rate > rating) {
+          min.name = d.name;
+          min.rate = rating;
+          min.date = d.date;
+          // @ts-ignore
+          min.slug = d.slug;
+        }
+
+        if (max.rate < rating) {
+          max.name = d.name;
+          max.rate = rating;
+          max.date = d.date;
+          // @ts-ignore
+          max.slug = d.slug;
+        }
       }
 
       if (d.difficulty === "困难") {
@@ -101,6 +130,8 @@ export default function AnnualReport(props: DailyProps) {
       <AnnualTable data={annual_info} pub={pub} />
       <div>
         {month_rates.length > 0 && <LineChart data={month_rates} color={["gold"]} />}
+        <p>{year}年最难的题是{max.date}的 {max.name}，rate高达{max.rate}</p>
+        <p>{year}年最难的题是{min.date}的 {min.name}，rate只有{min.rate}</p>
         <LineChart data={month_difficulties} color={['#fb259d', '#fabc1d', '#1fb09b']} />
         {pub && <LineChart data={month_situations} color={['green', 'blue', 'yellow', 'red']} />}
       </div>
