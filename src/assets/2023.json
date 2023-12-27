@@ -4175,6 +4175,42 @@
 					"method": "数学（+二分）",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2023/12/25",
+					"no": "1276",
+					"name": "收集足够苹果的最小花园周长",
+					"slug": "number-of-burgers-with-no-waste-of-ingredients",
+					"difficulty": "中等",
+					"rating": 1386,
+					"situation": "自己做出",
+					"method": "数学",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2023/12/26",
+					"no": "1349",
+					"name": "参加考试的最大学生数",
+					"slug": "maximum-students-taking-exam",
+					"difficulty": "困难",
+					"rating": 2385,
+					"situation": "自己做出",
+					"method": "状态压缩+记忆化搜索/dp/ 网络流",
+					"learn": "",
+					"unknown": "dinic"
+				},
+				{
+					"date": "2023/12/27",
+					"no": "2660",
+					"name": "保龄球游戏的获胜者",
+					"slug": "determine-the-winner-of-a-bowling-game",
+					"difficulty": "简单",
+					"rating": 1324,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
