@@ -103,7 +103,7 @@ export default function DailyTable(props: DailyProps) {
     },
   ];
 
-  const optionalColumns=[
+  const optionalColumns = [
     {
       title: "做题情况",
       dataIndex: "situation",
@@ -144,7 +144,7 @@ export default function DailyTable(props: DailyProps) {
     }
 
   ];
-  if(pub) {
+  if (pub) {
     columns = columns.concat(optionalColumns);
   }
 
