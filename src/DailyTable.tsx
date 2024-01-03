@@ -31,18 +31,8 @@ function getData(year: number) {
 }
 */
 
-import data2023 from "./assets/2023.json";
-import data2022 from "./assets/2022.json";
-import { useEffect } from 'react';
-export default function DailyTable(props: DailyProps) {
-  const { year = 2023, month = 1, pub } = props;
-  // const data = getData(year).read();
-  let data: any = null;
-  switch (year) {
-    case 2023: data = data2023.daily.month[month! - 1]; break;
-    case 2022: data = data2022.daily.month[month! - 1]; break;
-    default: break;
-  }
+export default function DailyTable(props: { data: object | null, pub: boolean }) {
+  const { data, pub } = props;
 
   let columns = [
     {
@@ -150,7 +140,7 @@ export default function DailyTable(props: DailyProps) {
 
   return (
     <>
-      <Table dataSource={data} columns={columns} pagination={{ pageSize: 31 }}></Table>
+      <Table dataSource={data as any[]} columns={columns} pagination={{ pageSize: 31 }}></Table>
     </>
   )
 }
