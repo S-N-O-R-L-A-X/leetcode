@@ -37,6 +37,54 @@
 					"method": "递归/栈",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2024/1/4",
+					"no": "2397",
+					"name": "被列覆盖的最多行数",
+					"slug": "maximum-rows-covered-by-columns",
+					"difficulty": "中等",
+					"rating": 1718,
+					"situation": "自己做出",
+					"method": "二进制枚举",
+					"learn": "Gosper's Hack",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/5",
+					"no": "1944",
+					"name": "队列中可以看到的人数",
+					"slug": "number-of-visible-people-in-a-queue",
+					"difficulty": "困难",
+					"rating": 2104,
+					"situation": "自己做出",
+					"method": "单调栈",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/6",
+					"no": "2807",
+					"name": "在链表中插入最大公约数",
+					"slug": "insert-greatest-common-divisors-in-linked-list",
+					"difficulty": "简单",
+					"rating": 1279,
+					"situation": "自己做出",
+					"method": "模拟+链表",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/7",
+					"no": "383",
+					"name": "赎金信",
+					"slug": "ransom-note",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
