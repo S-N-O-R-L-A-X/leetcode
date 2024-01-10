@@ -85,6 +85,42 @@
 					"method": "哈希",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2024/1/8",
+					"no": "447",
+					"name": "回旋镖的数量",
+					"slug": "number-of-boomerangs",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/9",
+					"no": "2707",
+					"name": "字符串中的额外字符",
+					"slug": "extra-characters-in-a-string",
+					"difficulty": "中等",
+					"rating": 1735,
+					"situation": "自己做出",
+					"method": "dp（+字典树）",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/10",
+					"no": "2696",
+					"name": "删除子串后的字符串最小长度",
+					"slug": "minimum-string-length-after-removing-substrings",
+					"difficulty": "简单",
+					"rating": 1282,
+					"situation": "自己做出",
+					"method": "模拟/栈",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
