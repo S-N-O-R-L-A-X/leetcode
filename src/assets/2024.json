@@ -121,6 +121,54 @@
 					"method": "模拟/栈",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2024/1/11",
+					"no": "2645",
+					"name": "构造有效字符串的最少插入数",
+					"slug": "minimum-additions-to-make-valid-string",
+					"difficulty": "中等",
+					"rating": 1477,
+					"situation": "自己做出",
+					"method": "模拟/dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/12",
+					"no": "2085",
+					"name": "统计出现过一次的公共字符串",
+					"slug": "count-common-words-with-one-occurrence",
+					"difficulty": "简单",
+					"rating": 1307,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/13",
+					"no": "2182",
+					"name": "构造限制重复的字符串",
+					"slug": "construct-string-with-repeat-limit",
+					"difficulty": "简单",
+					"rating": 1680,
+					"situation": "自己做出",
+					"method": "贪心+双指针",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/14",
+					"no": "83",
+					"name": "删除排序链表中的重复元素",
+					"slug": "remove-duplicates-from-sorted-list",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "链表",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
