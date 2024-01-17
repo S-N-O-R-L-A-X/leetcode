@@ -169,6 +169,42 @@
 					"method": "链表",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2024/1/15",
+					"no": "82",
+					"name": "删除排序链表中的重复元素 II",
+					"slug": "remove-duplicates-from-sorted-list",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "链表",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/16",
+					"no": "2719",
+					"name": "统计整数数目",
+					"slug": "count-of-integers",
+					"difficulty": "困难",
+					"rating": 2354,
+					"situation": "看懂答案",
+					"method": "数位dp",
+					"learn": "复习数位dp",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/17",
+					"no": "2744",
+					"name": "最大字符串配对数目",
+					"slug": "find-maximum-number-of-string-pairs",
+					"difficulty": "简单",
+					"rating": 1405,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
