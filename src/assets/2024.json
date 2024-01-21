@@ -205,6 +205,54 @@
 					"method": "哈希",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2024/1/18",
+					"no": "2171",
+					"name": "拿出最少数目的魔法豆",
+					"slug": "removing-minimum-number-of-magic-beans",
+					"difficulty": "中等",
+					"rating": 1748,
+					"situation": "自己做出",
+					"method": "数学",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/19",
+					"no": "2809",
+					"name": "使数组和小于等于 x 的最少时间",
+					"slug": "minimum-time-to-make-array-sum-at-most-x",
+					"difficulty": "困难",
+					"rating": 2978,
+					"situation": "看懂答案",
+					"method": "排序+dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/20",
+					"no": "2788",
+					"name": "按分隔符拆分字符串",
+					"slug": "split-strings-by-separator",
+					"difficulty": "简单",
+					"rating": 1299,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/21",
+					"no": "410",
+					"name": "分割数组的最大值",
+					"slug": "split-array-largest-sum",
+					"difficulty": "困难",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "dp/二分",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
