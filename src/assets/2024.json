@@ -253,6 +253,42 @@
 					"method": "dp/二分",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2024/1/22",
+					"no": "670",
+					"name": "最大交换",
+					"slug": "maximum-swap",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/23",
+					"no": "2765",
+					"name": "最长交替子数组",
+					"slug": "longest-alternating-subarray",
+					"difficulty": "简单",
+					"rating": 1580,
+					"situation": "自己做出",
+					"method": "",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/24",
+					"no": "2865",
+					"name": "美丽塔 I",
+					"slug": "beautiful-towers-i",
+					"difficulty": "中等",
+					"rating": 1519,
+					"situation": "自己做出",
+					"method": "单调栈",
+					"learn": "",
+					"unknown": ""
 				}
 			]
 		]
