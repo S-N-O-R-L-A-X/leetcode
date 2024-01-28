@@ -289,6 +289,54 @@
 					"method": "单调栈",
 					"learn": "",
 					"unknown": ""
+				},
+				{
+					"date": "2024/1/25",
+					"no": "2859",
+					"name": "计算 K 置位下标对应元素的和",
+					"slug": "sum-of-values-at-indices-with-k-set-bits",
+					"difficulty": "简单",
+					"rating": 1218,
+					"situation": "自己做出",
+					"method": "位运算",
+					"learn": "位运算计数方法",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/26",
+					"no": "2846",
+					"name": "边权重均等查询",
+					"slug": "minimum-edge-weight-equilibrium-queries-in-a-tree",
+					"difficulty": "困难",
+					"rating": 2507,
+					"situation": "没看懂答案",
+					"method": "树上最近公共祖先",
+					"learn": "tarjan算法",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/27",
+					"no": "2861",
+					"name": "最大合金数",
+					"slug": "maximum-number-of-alloys",
+					"difficulty": "中等",
+					"rating": 1981,
+					"situation": "自己做出",
+					"method": "二分",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/28",
+					"no": "365",
+					"name": "水壶问题",
+					"slug": "water-and-jug-problem",
+					"difficulty": "中等",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "bfs/dfs/裴蜀定理",
+					"learn": "裴蜀定理",
+					"unknown": ""
 				}
 			]
 		]
