@@ -333,9 +333,45 @@
 					"slug": "water-and-jug-problem",
 					"difficulty": "中等",
 					"rating": null,
-					"situation": "自己做出",
+					"situation": "看思路写出",
 					"method": "bfs/dfs/裴蜀定理",
 					"learn": "裴蜀定理",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/29",
+					"no": "514",
+					"name": "自由之路",
+					"slug": "freedom-trail",
+					"difficulty": "困难",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/30",
+					"no": "2808",
+					"name": "使循环数组所有元素相等的最少秒数",
+					"slug": "minimum-seconds-to-equalize-a-circular-array",
+					"difficulty": "中等",
+					"rating": 1875,
+					"situation": "自己做出",
+					"method": "转化+哈希",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/1/31",
+					"no": "2670",
+					"name": "找出不同元素数目差数组",
+					"slug": "find-the-distinct-difference-array",
+					"difficulty": "简单",
+					"rating": 1266,
+					"situation": "自己做出",
+					"method": "哈希",
+					"learn": "",
 					"unknown": ""
 				}
 			]
