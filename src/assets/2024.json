@@ -374,6 +374,56 @@
 					"learn": "",
 					"unknown": ""
 				}
+			],
+			[
+				{
+					"date": "2024/2/1",
+					"no": "LCP24",
+					"name": "数字游戏",
+					"slug": "5TxKeK",
+					"difficulty": "困难",
+					"rating": null,
+					"situation": "没看懂答案",
+					"method": "优先级队列",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/2/2",
+					"no": "1686",
+					"name": "石子游戏 VI",
+					"slug": "stone-game-vi",
+					"difficulty": "中等",
+					"rating": 2000,
+					"situation": "自己做出",
+					"method": "贪心+排序",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/2/3",
+					"no": "1690",
+					"name": "石子游戏 VII",
+					"slug": "stone-game-vii",
+					"difficulty": "中等",
+					"rating": 1951,
+					"situation": "看思路写出",
+					"method": "前缀和+ 记忆化搜索/dp",
+					"learn": "",
+					"unknown": ""
+				},
+				{
+					"date": "2024/2/4",
+					"no": "292",
+					"name": "Nim 游戏",
+					"slug": "nim-game",
+					"difficulty": "简单",
+					"rating": null,
+					"situation": "自己做出",
+					"method": "数学",
+					"learn": "",
+					"unknown": ""
+				}
 			]
 		]
 	}
