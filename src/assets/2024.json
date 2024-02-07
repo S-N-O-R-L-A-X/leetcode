@@ -423,6 +423,42 @@
           "method": "数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/2/5",
+          "no": "1696",
+          "name": "跳跃游戏 VI",
+          "slug": "jump-game-vi",
+          "difficulty": "中等",
+          "rating": 1954,
+          "situation": "看思路写出",
+          "method": "dp+单调队列",
+          "learn": "单调队列，维护区间最值使用单调队列",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/6",
+          "no": "LCP 30",
+          "name": "魔塔游戏",
+          "slug": "p0NxJO",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/7",
+          "no": "2641",
+          "name": "二叉树的堂兄弟节点 II",
+          "slug": "cousins-in-binary-tree-ii",
+          "difficulty": "中等",
+          "rating": 1676,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
