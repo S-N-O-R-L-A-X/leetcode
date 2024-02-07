@@ -17,39 +17,42 @@ fetch("https://leetcode.cn/graphql/", {
 		"operationName": "dailyQuestionRecords"
 	}),
 	credentials: "include",
-})
-	.then((res) => {
-		res.json().then((rb) => {
-			const questions = rb.data.dailyQuestionRecords;
-			fs.readFile(`./src/assets/${year}.json`, 'utf8').then(buf => {
-				const data=JSON.parse(buf)
-				if (data.daily.month.length<=month){
-					data.daily.month.push([]);
+}).then((res) => {
+	res.json().then((rb) => {
+		const questions = rb.data.dailyQuestionRecords;
+		fs.readFile(`./src/assets/${year}.json`, 'utf8').then(buf => {
+			const data = JSON.parse(buf)
+			if (data.daily.month.length <= month) {
+				data.daily.month.push([]);
+			}
+
+			while (data.daily.month[month].length < questions.length) {
+				// questions are reversed
+				const idx=questions.length-1-data.daily.month[month].length;
+				const { date, question } = questions[idx];
+				const { questionFrontendId, translatedTitle, titleSlug } = question;
+				
+				const record = {
+					date: date.split("-").map(Number).join("/"),
+					no: questionFrontendId,
+					name: translatedTitle,
+					slug: titleSlug,
+					difficulty: "",
+					rating: null,
+					situation: "",
+					method: "",
+					learn: "",
+					unknown: "",
 				}
-				while(data.daily.month[month].length<questions.length){
-					const {date,question}=questions[data.daily.month[month].length-1];
-					const {frontendQuestionId,difficulty,titleCn,titleSlug,acRate}=question;
-					const record={
-						date,
-						no:frontendQuestionId,
-						name:titleCn,
-						slug:titleSlug,
-						difficulty,
-						rating,
-						method,
-						learn,
-						unknown,
-						acRate
-					}
-					data.daily.month[month].push(record);
-				}
+				data.daily.month[month].push(record);
+			}
 
-				fs.writeFile(`./src/assets/${year}.json`, JSON.stringify(data, null, 2));
+			fs.writeFile(`./src/assets/${year}.json`, JSON.stringify(data, null, 2));
 
-			}).catch(error => {
-					console.error(error);
-				});
+		}).catch(error => {
+			console.error(error);
+		});
 
-		})
-	});
+	})
+});
 
