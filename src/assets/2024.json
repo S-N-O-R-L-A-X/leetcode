@@ -378,7 +378,7 @@
       [
         {
           "date": "2024/2/1",
-          "no": "LCP24",
+          "no": "LCP 24",
           "name": "数字游戏",
           "slug": "5TxKeK",
           "difficulty": "困难",
@@ -457,6 +457,54 @@
           "rating": 1676,
           "situation": "自己做出",
           "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/8",
+          "no": "993",
+          "name": "二叉树的堂兄弟节点",
+          "slug": "cousins-in-binary-tree",
+          "difficulty": "简单",
+          "rating": 1287,
+          "situation": "自己做出",
+          "method": "bfs/dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/9",
+          "no": "236",
+          "name": "二叉树的最近公共祖先",
+          "slug": "lowest-common-ancestor-of-a-binary-tree",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "bfs/dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/10",
+          "no": "94",
+          "name": "二叉树的中序遍历",
+          "slug": "binary-tree-inorder-traversal",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "递归/栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/11",
+          "no": "144",
+          "name": "二叉树的前序遍历",
+          "slug": "binary-tree-preorder-traversal",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "递归/栈",
           "learn": "",
           "unknown": ""
         }
