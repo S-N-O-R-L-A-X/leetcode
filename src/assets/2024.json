@@ -507,6 +507,42 @@
           "method": "递归/栈",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/2/12",
+          "no": "145",
+          "name": "二叉树的后序遍历",
+          "slug": "binary-tree-postorder-traversal",
+          "difficulty": "",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "递归/栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/13",
+          "no": "987",
+          "name": "二叉树的垂序遍历",
+          "slug": "vertical-order-traversal-of-a-binary-tree",
+          "difficulty": "困难",
+          "rating": 1675,
+          "situation": "自己做出",
+          "method": "哈希+排序+dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/14",
+          "no": "102",
+          "name": "二叉树的层序遍历",
+          "slug": "binary-tree-level-order-traversal",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
