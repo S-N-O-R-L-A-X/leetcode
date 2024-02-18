@@ -543,6 +543,54 @@
           "method": "bfs",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/2/15",
+          "no": "107",
+          "name": "二叉树的层序遍历 II",
+          "slug": "binary-tree-level-order-traversal-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/16",
+          "no": "103",
+          "name": "二叉树的锯齿形层序遍历",
+          "slug": "binary-tree-zigzag-level-order-traversal",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/17",
+          "no": "429",
+          "name": "N 叉树的层序遍历",
+          "slug": "n-ary-tree-level-order-traversal",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/18",
+          "no": "589",
+          "name": "N 叉树的前序遍历",
+          "slug": "n-ary-tree-preorder-traversal",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
