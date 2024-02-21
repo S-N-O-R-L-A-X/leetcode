@@ -591,6 +591,42 @@
           "method": "递归",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/2/19",
+          "no": "590",
+          "name": "N 叉树的后序遍历",
+          "slug": "n-ary-tree-postorder-traversal",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "递归/栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/20",
+          "no": "105",
+          "name": "从前序与中序遍历序列构造二叉树",
+          "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "递归/转化",
+          "learn": "从前序与中序遍历序列构造二叉树的方法",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/21",
+          "no": "106",
+          "name": "从中序与后序遍历序列构造二叉树",
+          "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "递归/转化",
+          "learn": "从中序与后序遍历序列构造二叉树的方法",
+          "unknown": ""
         }
       ]
     ]
