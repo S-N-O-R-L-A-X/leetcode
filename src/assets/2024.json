@@ -627,6 +627,54 @@
           "method": "递归/转化",
           "learn": "从中序与后序遍历序列构造二叉树的方法",
           "unknown": ""
+        },
+        {
+          "date": "2024/2/22",
+          "no": "889",
+          "name": "根据前序和后序遍历构造二叉树",
+          "slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
+          "difficulty": "中等",
+          "rating": 1731,
+          "situation": "看懂答案",
+          "method": "递归/转化",
+          "learn": "从前序与后序遍历序列构造二叉树的方法",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/23",
+          "no": "2583",
+          "name": "二叉树中的第 K 大层和",
+          "slug": "kth-largest-sum-in-a-binary-tree",
+          "difficulty": "中等",
+          "rating": 1374,
+          "situation": "自己做出",
+          "method": "bfs+排序/优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/24",
+          "no": "2476",
+          "name": "二叉搜索树最近节点查询",
+          "slug": "closest-nodes-queries-in-a-binary-search-tree",
+          "difficulty": "中等",
+          "rating": 1596,
+          "situation": "自己做出",
+          "method": "递归+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/25",
+          "no": "235",
+          "name": "二叉搜索树的最近公共祖先",
+          "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "二叉搜索树/递归",
+          "learn": "复习二叉树最近公共祖先的做法",
+          "unknown": ""
         }
       ]
     ]
