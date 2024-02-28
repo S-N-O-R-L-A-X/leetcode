@@ -675,6 +675,42 @@
           "method": "二叉搜索树/递归",
           "learn": "复习二叉树最近公共祖先的做法",
           "unknown": ""
+        },
+        {
+          "date": "2024/2/26",
+          "no": "938",
+          "name": "二叉搜索树的范围和",
+          "slug": "range-sum-of-bst",
+          "difficulty": "简单",
+          "rating": 1335,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/27",
+          "no": "2867",
+          "name": "统计树中的合法路径数目",
+          "slug": "count-valid-paths-in-a-tree",
+          "difficulty": "困难",
+          "rating": 2428,
+          "situation": "没看懂答案",
+          "method": "埃氏筛+dfs",
+          "learn": "复习埃氏筛",
+          "unknown": ""
+        },
+        {
+          "date": "2024/2/28",
+          "no": "2673",
+          "name": "使二叉树所有路径值相等的最小代价",
+          "slug": "make-costs-of-paths-equal-in-a-binary-tree",
+          "difficulty": "中等",
+          "rating": 1917,
+          "situation": "自己做出",
+          "method": "转化+贪心 / 递归",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
