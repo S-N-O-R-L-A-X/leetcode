@@ -711,6 +711,56 @@
           "method": "转化+贪心 / 递归",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/2/29",
+          "no": "2581",
+          "name": "统计可能的树根数目",
+          "slug": "count-number-of-possible-root-nodes",
+          "difficulty": "困难",
+          "rating": 2228,
+          "situation": "没看懂答案",
+          "method": "树形dp",
+          "learn": "",
+          "unknown": ""
+        }
+      ],
+      [
+        {
+          "date": "2024/3/1",
+          "no": "2369",
+          "name": "检查数组是否存在有效划分",
+          "slug": "check-if-there-is-a-valid-partition-for-the-array",
+          "difficulty": "中等",
+          "rating": 1779,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/2",
+          "no": "2368",
+          "name": "受限条件下可到达节点的数目",
+          "slug": "reachable-nodes-with-restrictions",
+          "difficulty": "中等",
+          "rating": 1476,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/3",
+          "no": "225",
+          "name": "用队列实现栈",
+          "slug": "implement-stack-using-queues",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "栈/队列",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
