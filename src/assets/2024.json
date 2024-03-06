@@ -758,7 +758,43 @@
           "difficulty": "简单",
           "rating": null,
           "situation": "自己做出",
-          "method": "栈/队列",
+          "method": "栈+队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/4",
+          "no": "232",
+          "name": "用栈实现队列",
+          "slug": "implement-queue-using-stacks",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "栈+队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/5",
+          "no": "1976",
+          "name": "到达目的地的方案数",
+          "slug": "number-of-ways-to-arrive-at-destination",
+          "difficulty": "中等",
+          "rating": 2094,
+          "situation": "看懂答案",
+          "method": "迪杰斯特拉",
+          "learn": "复习迪杰斯特拉",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/6",
+          "no": "2917",
+          "name": "找出数组中的 K-or 值",
+          "slug": "find-the-k-or-of-an-array",
+          "difficulty": "简单",
+          "rating": 1388,
+          "situation": "自己做出",
+          "method": "位运算",
           "learn": "",
           "unknown": ""
         }
