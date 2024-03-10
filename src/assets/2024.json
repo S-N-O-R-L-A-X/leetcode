@@ -797,6 +797,54 @@
           "method": "位运算",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/3/7",
+          "no": "2575",
+          "name": "找出字符串的可整除数组",
+          "slug": "find-the-divisibility-array-of-a-string",
+          "difficulty": "中等",
+          "rating": 1541,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/8",
+          "no": "2834",
+          "name": "找出美丽数组的最小和",
+          "slug": "find-the-minimum-possible-sum-of-a-beautiful-array",
+          "difficulty": "中等",
+          "rating": 1409,
+          "situation": "自己做出",
+          "method": "贪心+数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/9",
+          "no": "2386",
+          "name": "找出数组的第 K 大和",
+          "slug": "find-the-k-sum-of-an-array",
+          "difficulty": "困难",
+          "rating": 2647,
+          "situation": "看懂答案",
+          "method": "转化+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/10",
+          "no": "299",
+          "name": "猜数字游戏",
+          "slug": "bulls-and-cows",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
