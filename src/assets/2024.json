@@ -845,6 +845,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/3/11",
+          "no": "2129",
+          "name": "将标题首字母大写",
+          "slug": "capitalize-the-title",
+          "difficulty": "简单",
+          "rating": 1274,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/12",
+          "no": "1261",
+          "name": "在受污染的二叉树中查找元素",
+          "slug": "find-elements-in-a-contaminated-binary-tree",
+          "difficulty": "中等",
+          "rating": 1439,
+          "situation": "自己做出",
+          "method": "dfs+ 哈希/位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/13",
+          "no": "2864",
+          "name": "最大二进制奇数",
+          "slug": "maximum-odd-binary-number",
+          "difficulty": "简单",
+          "rating": 1237,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
