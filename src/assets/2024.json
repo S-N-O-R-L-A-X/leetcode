@@ -881,6 +881,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/3/14",
+          "no": "2789",
+          "name": "合并后数组中的最大元素",
+          "slug": "largest-element-in-an-array-after-merge-operations",
+          "difficulty": "中等",
+          "rating": 1484,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/15",
+          "no": "2312",
+          "name": "卖木头块",
+          "slug": "selling-pieces-of-wood",
+          "difficulty": "困难",
+          "rating": 2363,
+          "situation": "没看懂答案",
+          "method": "dp/记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/16",
+          "no": "2684",
+          "name": "矩阵中移动的最大次数",
+          "slug": "maximum-number-of-moves-in-a-grid",
+          "difficulty": "中等",
+          "rating": 1625,
+          "situation": "bfs",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/17",
+          "no": "310",
+          "name": "最小高度树",
+          "slug": "minimum-height-trees",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "看思路写出",
+          "method": "转化+dfs/bfs/拓扑排序",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
