@@ -929,6 +929,42 @@
           "method": "转化+dfs/bfs/拓扑排序",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/3/18",
+          "no": "303",
+          "name": "区域和检索 - 数组不可变",
+          "slug": "range-sum-query-immutable",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/19",
+          "no": "1793",
+          "name": "好子数组的最大分数",
+          "slug": "maximum-score-of-a-good-subarray",
+          "difficulty": "困难",
+          "rating": 1945,
+          "situation": "看懂答案",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/20",
+          "no": "1969",
+          "name": "数组元素的最小非零乘积",
+          "slug": "minimum-non-zero-product-of-the-array-elements",
+          "difficulty": "中等",
+          "rating": 1966,
+          "situation": "看懂答案",
+          "method": "贪心+数学+快速幂",
+          "learn": "快速幂",
+          "unknown": ""
         }
       ]
     ]
