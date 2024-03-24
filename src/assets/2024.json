@@ -965,6 +965,54 @@
           "method": "贪心+数学+快速幂",
           "learn": "快速幂",
           "unknown": ""
+        },
+        {
+          "date": "2024/3/21",
+          "no": "2671",
+          "name": "频率跟踪器",
+          "slug": "frequency-tracker",
+          "difficulty": "中等",
+          "rating": 1509,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/22",
+          "no": "2617",
+          "name": "网格图中最少访问的格子数",
+          "slug": "minimum-number-of-visited-cells-in-a-grid",
+          "difficulty": "困难",
+          "rating": 2581,
+          "situation": "没看懂答案",
+          "method": "优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/23",
+          "no": "2549",
+          "name": "统计桌面上的不同数字",
+          "slug": "count-distinct-numbers-on-board",
+          "difficulty": "简单",
+          "rating": 1265,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/24",
+          "no": "322",
+          "name": "零钱兑换",
+          "slug": "coin-change",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
