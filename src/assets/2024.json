@@ -1013,6 +1013,42 @@
           "method": "记忆化搜索/dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/3/25",
+          "no": "518",
+          "name": "零钱兑换 II",
+          "slug": "coin-change-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/26",
+          "no": "2642",
+          "name": "设计可以求最短路径的图类",
+          "slug": "design-graph-with-shortest-path-calculator",
+          "difficulty": "困难",
+          "rating": 1810,
+          "situation": "自己做出",
+          "method": "迪杰斯特拉",
+          "learn": "复习迪杰斯特拉算法",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/27",
+          "no": "2580",
+          "name": "统计将重叠区间合并成组的方案数",
+          "slug": "count-ways-to-group-overlapping-ranges",
+          "difficulty": "中等",
+          "rating": 1631,
+          "situation": "自己做出",
+          "method": "贪心+数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
