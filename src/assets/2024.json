@@ -1049,6 +1049,54 @@
           "method": "贪心+数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/3/28",
+          "no": "1997",
+          "name": "访问完所有房间的第一天",
+          "slug": "first-day-where-you-have-been-in-all-the-rooms",
+          "difficulty": "中等",
+          "rating": 2260,
+          "situation": "看懂答案",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/29",
+          "no": "2908",
+          "name": "元素和最小的山形三元组 I",
+          "slug": "minimum-sum-of-mountain-triplets-i",
+          "difficulty": "简单",
+          "rating": 1253,
+          "situation": "自己做出",
+          "method": "前后缀/单调队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/30",
+          "no": "2952",
+          "name": "需要添加的硬币的最小数量",
+          "slug": "minimum-number-of-coins-to-be-added",
+          "difficulty": "中等",
+          "rating": 1784,
+          "situation": "看思路写出",
+          "method": "转化+贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/3/31",
+          "no": "331",
+          "name": "验证二叉树的前序序列化",
+          "slug": "verify-preorder-serialization-of-a-binary-tree",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "栈/转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
