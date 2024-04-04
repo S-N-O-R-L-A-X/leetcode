@@ -22,7 +22,7 @@ export default function AnnualTable(props: { data: any[], pub?: boolean }) {
     },
     {
       title: '3月',
-      dataIndex: '1月',
+      dataIndex: '3月',
       key: '3',
     },
     {

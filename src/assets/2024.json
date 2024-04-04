@@ -1058,7 +1058,7 @@
           "difficulty": "中等",
           "rating": 2260,
           "situation": "看懂答案",
-          "method": "",
+          "method": "dp",
           "learn": "",
           "unknown": ""
         },
