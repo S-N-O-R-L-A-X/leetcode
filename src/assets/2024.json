@@ -1098,6 +1098,56 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2024/4/1",
+          "no": "2810",
+          "name": "故障键盘",
+          "slug": "faulty-keyboard",
+          "difficulty": "简单",
+          "rating": 1192,
+          "situation": "自己做出",
+          "method": "模拟/双端队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/2",
+          "no": "894",
+          "name": "所有可能的真二叉树",
+          "slug": "all-possible-full-binary-trees",
+          "difficulty": "中等",
+          "rating": 1784,
+          "situation": "看懂答案",
+          "method": "分治/动态规划",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/3",
+          "no": "1379",
+          "name": "找出克隆二叉树中的相同节点",
+          "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/4",
+          "no": "2192",
+          "name": "有向无环图中一个节点的所有祖先",
+          "slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+          "difficulty": "中等",
+          "rating": 1787,
+          "situation": "自己做出",
+          "method": "拓扑排序/dfs",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
