@@ -1147,6 +1147,42 @@
           "method": "拓扑排序/dfs",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/5",
+          "no": "1026",
+          "name": "节点与其祖先之间的最大差值",
+          "slug": "maximum-difference-between-node-and-ancestor",
+          "difficulty": "中等",
+          "rating": 1446,
+          "situation": "自己做出",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/6",
+          "no": "1483",
+          "name": "树节点的第 K 个祖先",
+          "slug": "kth-ancestor-of-a-tree-node",
+          "difficulty": "困难",
+          "rating": 2115,
+          "situation": "没看懂答案",
+          "method": "倍增",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/7",
+          "no": "1600",
+          "name": "王位继承顺序",
+          "slug": "throne-inheritance",
+          "difficulty": "中等",
+          "rating": 1768,
+          "situation": "自己做出",
+          "method": "多叉树的前序遍历",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
