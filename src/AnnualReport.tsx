@@ -23,7 +23,7 @@ export default function AnnualReport(props: DailyProps) {
   const year_situation = [{ type: "自己做出", value: 0 }, { type: "看思路写出", value: 0 }, { type: "看懂答案", value: 0 }, { type: "没看懂答案", value: 0 }];
   let annual_info: any[] = [{ "info": "困难", }, { "info": "中等", }, { "info": "简单", }];
   const annual_situation: any[] = [{ "info": "自己做出" }, { "info": "看思路写出" }, { "info": "看懂答案" }, { "info": "没看懂答案" }];
-  let self_min = { rate: 4000, date: "", name: "" }, self_max = { rate: 0, date: "", name: "" }; // cannot do
+  let self_min = { rate: 4000, date: "", name: "", slug: "" }, self_max = { rate: 0, date: "", name: "", slug: "" };
   let min = { rate: 4000, date: "", name: "", slug: "" }, max = { rate: 0, date: "", name: "", slug: "" };
 
   jsonData?.daily.month.forEach((m, idx) => {
@@ -45,18 +45,22 @@ export default function AnnualReport(props: DailyProps) {
         ++effective_date;
         rate += rating;
 
-        if (d.situation !== "自己做出") {
-          if (self_min.rate > rating) {
-            self_min.name = d.name;
-            self_min.rate = rating;
-            self_min.date = d.date;
-          }
+        // get the lowest rating with failure
+        if (d.situation !== "自己做出" && self_min.rate > rating) {
+          self_min.name = d.name;
+          self_min.rate = rating;
+          self_min.date = d.date;
+          // @ts-ignore
+          self_min.slug = d.slug;
+        }
 
-          if (self_max.rate < rating) {
-            self_max.name = d.name;
-            self_max.rate = rating;
-            self_max.date = d.date;
-          }
+        // get the highest rating with success
+        if (d.situation === "自己做出" && self_max.rate < rating) {
+          self_max.name = d.name;
+          self_max.rate = rating;
+          self_max.date = d.date;
+          // @ts-ignore
+          self_max.slug = d.slug;
         }
 
         if (min.rate > rating) {
@@ -136,6 +140,14 @@ export default function AnnualReport(props: DailyProps) {
             <LineChart data={month_rates} color={["gold"]} />
             <p>{year}年最难的题是{max.date}的 <a href={"https://leetcode.cn/problems/" + max.slug} target={"_blank"}> {max.name}</a> ，rate高达{max.rate}</p>
             <p>{year}年最简单的题是{min.date}的 <a href={"https://leetcode.cn/problems/" + min.slug} target={"_blank"}> {min.name}</a>，rate只有{min.rate}</p>
+            {
+              pub && (
+                <>
+                  <p>{year}年做出的最难的题是{self_max.date}的 <a href={"https://leetcode.cn/problems/" + self_max.slug} target={"_blank"}> {self_max.name}</a> ，rate高达{self_max.rate}，当时的你天神下凡</p>
+                  <p>{year}年没做出的最简单的题是{self_min.date}的 <a href={"https://leetcode.cn/problems/" + self_min.slug} target={"_blank"}> {self_min.name}</a>，rate只有{self_min.rate}，当时怎么就没做出来呢</p>
+                </>
+              )
+            }
           </>
         )}
         <LineChart data={month_difficulties} color={['#fb259d', '#fabc1d', '#1fb09b']} />
