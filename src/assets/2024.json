@@ -1183,6 +1183,42 @@
           "method": "多叉树的前序遍历",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/8",
+          "no": "2009",
+          "name": "使数组连续的最少操作数",
+          "slug": "minimum-number-of-operations-to-make-array-continuous",
+          "difficulty": "困难",
+          "rating": 2084,
+          "situation": "看懂答案",
+          "method": "排序+滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/9",
+          "no": "2529",
+          "name": "正整数和负整数的最大计数",
+          "slug": "maximum-count-of-positive-integer-and-negative-integer",
+          "difficulty": "简单",
+          "rating": 1195,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/10",
+          "no": "1702",
+          "name": "修改后的最大二进制字符串",
+          "slug": "maximum-binary-string-after-change",
+          "difficulty": "中等",
+          "rating": 1825,
+          "situation": "看懂答案",
+          "method": "模拟+贪心 / 转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
