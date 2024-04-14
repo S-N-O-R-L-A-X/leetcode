@@ -1219,6 +1219,54 @@
           "method": "模拟+贪心 / 转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/11",
+          "no": "1766",
+          "name": "互质树",
+          "slug": "tree-of-coprimes",
+          "difficulty": "困难",
+          "rating": 2231,
+          "situation": "看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/12",
+          "no": "2923",
+          "name": "找到冠军 I",
+          "slug": "find-champion-i",
+          "difficulty": "简单",
+          "rating": 1235,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/13",
+          "no": "2924",
+          "name": "找到冠军 II",
+          "slug": "find-champion-ii",
+          "difficulty": "中等",
+          "rating": 1430,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/14",
+          "no": "705",
+          "name": "设计哈希集合",
+          "slug": "design-hashset",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "链地址法",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
