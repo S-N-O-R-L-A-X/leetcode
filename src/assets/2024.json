@@ -1267,6 +1267,42 @@
           "method": "链地址法",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/15",
+          "no": "706",
+          "name": "设计哈希映射",
+          "slug": "design-hashmap",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "链地址法",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/16",
+          "no": "924",
+          "name": "尽量减少恶意软件的传播",
+          "slug": "minimize-malware-spread",
+          "difficulty": "困难",
+          "rating": 1868,
+          "situation": "看懂答案",
+          "method": "并查集",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/17",
+          "no": "928",
+          "name": "尽量减少恶意软件的传播 II",
+          "slug": "minimize-malware-spread-ii",
+          "difficulty": "困难",
+          "rating": 1985,
+          "situation": "看懂答案",
+          "method": "dfs/并查集",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
