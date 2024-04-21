@@ -1303,6 +1303,54 @@
           "method": "dfs/并查集",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/18",
+          "no": "2007",
+          "name": "从双倍数组中还原原数组",
+          "slug": "find-original-array-from-doubled-array",
+          "difficulty": "中等",
+          "rating": 1557,
+          "situation": "自己做出",
+          "method": "排序+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/19",
+          "no": "1883",
+          "name": "准时抵达会议现场的最小跳过休息次数",
+          "slug": "minimum-skips-to-arrive-at-meeting-on-time",
+          "difficulty": "困难",
+          "rating": 2587,
+          "situation": "看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/20",
+          "no": "39",
+          "name": "组合总和",
+          "slug": "combination-sum",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/21",
+          "no": "216",
+          "name": "组合总和 III",
+          "slug": "combination-sum-iii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "二进制枚举/回溯",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
