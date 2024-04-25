@@ -1351,6 +1351,54 @@
           "method": "二进制枚举/回溯",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/22",
+          "no": "377",
+          "name": "组合总和 Ⅳ",
+          "slug": "combination-sum-iv",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/23",
+          "no": "1052",
+          "name": "爱生气的书店老板",
+          "slug": "grumpy-bookstore-owner",
+          "difficulty": "",
+          "rating": 1418,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/24",
+          "no": "2385",
+          "name": "感染二叉树需要的总时间",
+          "slug": "amount-of-time-for-binary-tree-to-be-infected",
+          "difficulty": "中等",
+          "rating": 1711,
+          "situation": "自己做出",
+          "method": "dfs+bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/25",
+          "no": "2739",
+          "name": "总行驶距离",
+          "slug": "total-distance-traveled",
+          "difficulty": "简单",
+          "rating": 1262,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "换水问题",
+          "unknown": ""
         }
       ]
     ]
