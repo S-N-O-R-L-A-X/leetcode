@@ -1399,6 +1399,42 @@
           "method": "模拟/数学",
           "learn": "换水问题",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/26",
+          "no": "1146",
+          "name": "快照数组",
+          "slug": "snapshot-array",
+          "difficulty": "中等",
+          "rating": 1770,
+          "situation": "看懂答案",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/27",
+          "no": "2639",
+          "name": "查询网格图中每一列的宽度",
+          "slug": "find-the-width-of-columns-of-a-grid",
+          "difficulty": "简单",
+          "rating": 1282,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/28",
+          "no": "1017",
+          "name": "负二进制转换",
+          "slug": "convert-to-base-2",
+          "difficulty": "中等",
+          "rating": 1697,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
