@@ -1435,6 +1435,44 @@
           "method": "模拟/数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/4/29",
+          "no": "1329",
+          "name": "将矩阵按对角线排序",
+          "slug": "sort-the-matrix-diagonally",
+          "difficulty": "中等",
+          "rating": 1548,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/4/30",
+          "no": "2798",
+          "name": "满足目标工作时长的员工数目",
+          "slug": "number-of-employees-who-met-the-target",
+          "difficulty": "简单",
+          "rating": 1142,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        }
+      ],
+      [
+        {
+          "date": "2024/5/1",
+          "no": "2462",
+          "name": "雇佣 K 位工人的总代价",
+          "slug": "total-cost-to-hire-k-workers",
+          "difficulty": "中等",
+          "rating": 1763,
+          "situation": "自己做出",
+          "method": "优先级队列",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
