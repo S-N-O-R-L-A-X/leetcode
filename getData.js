@@ -9,7 +9,7 @@ fetch("https://leetcode.cn/graphql/", {
 		'Content-Type': 'application/json',
 	},
 	body: JSON.stringify({
-		"query": "\n    query dailyQuestionRecords($year: Int!, $month: Int!) {\n  dailyQuestionRecords(year: $year, month: $month) {\n    date\n    userStatus\n    question {\n      questionFrontendId\n      title\n      titleSlug\n      translatedTitle\n    }\n  }\n}\n    ",
+		"query": "\n    query dailyQuestionRecords($year: Int!, $month: Int!) {\n  dailyQuestionRecords(year: $year, month: $month) {\n    date\n    userStatus\n    question {\n      difficulty\n      questionFrontendId\n      title\n      titleSlug\n      translatedTitle\n    }\n  }\n}\n    ",
 		"variables": {
 			"year": year,
 			"month": month + 1
@@ -28,16 +28,16 @@ fetch("https://leetcode.cn/graphql/", {
 
 			while (data.daily.month[month].length < questions.length) {
 				// questions are reversed
-				const idx=questions.length-1-data.daily.month[month].length;
+				const idx = questions.length - 1 - data.daily.month[month].length;
 				const { date, question } = questions[idx];
-				const { questionFrontendId, translatedTitle, titleSlug } = question;
-				
+				const { difficulty, questionFrontendId, translatedTitle, titleSlug } = question;
+
 				const record = {
 					date: date.split("-").map(Number).join("/"),
 					no: questionFrontendId,
 					name: translatedTitle,
 					slug: titleSlug,
-					difficulty: "",
+					difficulty: difficulty === "Easy" ? "简单" : (difficulty === "Medium" ? "中等" : "困难"),
 					rating: null,
 					situation: "",
 					method: "",
