@@ -1473,6 +1473,54 @@
           "method": "优先级队列",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/2",
+          "no": "857",
+          "name": "雇佣 K 名工人的最低成本",
+          "slug": "minimum-cost-to-hire-k-workers",
+          "difficulty": "困难",
+          "rating": 2259,
+          "situation": "看懂答案",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/3",
+          "no": "1491",
+          "name": "去掉最低工资和最高工资后的工资平均值",
+          "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+          "difficulty": "简单",
+          "rating": 1201,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/4",
+          "no": "1235",
+          "name": "规划兼职工作",
+          "slug": "maximum-profit-in-job-scheduling",
+          "difficulty": "困难",
+          "rating": 2022,
+          "situation": "看思路写出",
+          "method": "dp+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/5",
+          "no": "1652",
+          "name": "拆炸弹",
+          "slug": "defuse-the-bomb",
+          "difficulty": "简单",
+          "rating": 1416,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
