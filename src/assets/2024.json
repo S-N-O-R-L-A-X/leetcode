@@ -1521,6 +1521,42 @@
           "method": "滑动窗口",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/6",
+          "no": "741",
+          "name": "摘樱桃",
+          "slug": "cherry-pickup",
+          "difficulty": "困难",
+          "rating": 2020,
+          "situation": "没看懂答案",
+          "method": "dp/记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/7",
+          "no": "1463",
+          "name": "摘樱桃 II",
+          "slug": "cherry-pickup-ii",
+          "difficulty": "困难",
+          "rating": 1956,
+          "situation": "没看懂答案",
+          "method": "dp/记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/8",
+          "no": "2079",
+          "name": "给植物浇水",
+          "slug": "watering-plants",
+          "difficulty": "中等",
+          "rating": 1320,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
