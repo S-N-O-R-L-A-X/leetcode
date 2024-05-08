@@ -1528,7 +1528,7 @@
           "name": "摘樱桃",
           "slug": "cherry-pickup",
           "difficulty": "困难",
-          "rating": 2020,
+          "rating": null,
           "situation": "没看懂答案",
           "method": "dp/记忆化搜索",
           "learn": "",

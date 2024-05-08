@@ -140,7 +140,7 @@ export default function DailyTable(props: { data: object | null, pub: boolean })
 
   return (
     <>
-      <Table dataSource={data as any[]} columns={columns} pagination={{ pageSize: 31 }}></Table>
+      <Table rowKey={"date"} dataSource={data as any[]} columns={columns} pagination={{ pageSize: 31 }}></Table>
     </>
   )
 }

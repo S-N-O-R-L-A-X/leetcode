@@ -118,7 +118,7 @@ export default function AnnualTable(props: { data: any[], pub?: boolean }) {
   // ]
   return (
     <>
-      <Table dataSource={data} columns={columns}></Table>
+      <Table rowKey={record => record.info} dataSource={data} columns={columns}></Table>
     </>
   )
 }
