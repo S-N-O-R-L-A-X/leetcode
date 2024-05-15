@@ -1605,6 +1605,42 @@
           "method": "记忆化搜索/ 转化+迪杰斯特拉 /启发式搜索",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/13",
+          "no": "994",
+          "name": "腐烂的橘子",
+          "slug": "rotting-oranges",
+          "difficulty": "中等",
+          "rating": 1432,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/14",
+          "no": "2244",
+          "name": "完成所有任务需要的最少轮数",
+          "slug": "minimum-rounds-to-complete-all-tasks",
+          "difficulty": "中等",
+          "rating": 1371,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/15",
+          "no": "2589",
+          "name": "完成所有任务的最少时间",
+          "slug": "minimum-time-to-complete-all-tasks",
+          "difficulty": "困难",
+          "rating": 2380,
+          "situation": "看懂答案",
+          "method": "贪心+排序+（扫描线/二分查找）",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
