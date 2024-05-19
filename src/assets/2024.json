@@ -1641,6 +1641,54 @@
           "method": "贪心+排序+（扫描线/二分查找）",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/16",
+          "no": "1953",
+          "name": "你可以工作的最大周数",
+          "slug": "maximum-number-of-weeks-for-which-you-can-work",
+          "difficulty": "中等",
+          "rating": 1803,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/17",
+          "no": "826",
+          "name": "安排工作以达到最大收益",
+          "slug": "most-profit-assigning-work",
+          "difficulty": "中等",
+          "rating": 1708,
+          "situation": "自己做出",
+          "method": "排序+双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/18",
+          "no": "2644",
+          "name": "找出可整除性得分最大的整数",
+          "slug": "find-the-maximum-divisibility-score",
+          "difficulty": "简单",
+          "rating": 1257,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/19",
+          "no": "1535",
+          "name": "找出数组游戏的赢家",
+          "slug": "find-the-winner-of-an-array-game",
+          "difficulty": "中等",
+          "rating": 1433,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
