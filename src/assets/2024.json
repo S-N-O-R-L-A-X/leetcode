@@ -1689,6 +1689,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/20",
+          "no": "1542",
+          "name": "找出最长的超赞子字符串",
+          "slug": "find-longest-awesome-substring",
+          "difficulty": "困难",
+          "rating": 2221,
+          "situation": "自己做出",
+          "method": "状态压缩+哈希表",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/21",
+          "no": "2769",
+          "name": "找出最大的可达成数字",
+          "slug": "find-the-maximum-achievable-number",
+          "difficulty": "简单",
+          "rating": 1191,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/22",
+          "no": "2225",
+          "name": "找出输掉零场或一场比赛的玩家",
+          "slug": "find-players-with-zero-or-one-losses",
+          "difficulty": "中等",
+          "rating": 1316,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
