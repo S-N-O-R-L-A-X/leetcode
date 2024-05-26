@@ -1725,6 +1725,54 @@
           "method": "哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/23",
+          "no": "2831",
+          "name": "找出最长等值子数组",
+          "slug": "find-the-longest-equal-subarray",
+          "difficulty": "中等",
+          "rating": 1975,
+          "situation": "自己做出",
+          "method": "哈希+滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/24",
+          "no": "1673",
+          "name": "找出最具竞争力的子序列",
+          "slug": "find-the-most-competitive-subsequence",
+          "difficulty": "中等",
+          "rating": 1802,
+          "situation": "看懂答案",
+          "method": "贪心+单调栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/25",
+          "no": "2903",
+          "name": "找出满足差值条件的下标 I",
+          "slug": "find-indices-with-index-and-value-difference-i",
+          "difficulty": "简单",
+          "rating": 1157,
+          "situation": "自己做出",
+          "method": "模拟/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/26",
+          "no": "1738",
+          "name": "找出第 K 大的异或坐标值",
+          "slug": "find-kth-largest-xor-coordinate-value",
+          "difficulty": "中等",
+          "rating": 1671,
+          "situation": "自己做出",
+          "method": "前缀和+ 排序/快速选择/优先级队列",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
