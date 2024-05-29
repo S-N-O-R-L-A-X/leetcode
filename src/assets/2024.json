@@ -1773,6 +1773,42 @@
           "method": "前缀和+ 排序/快速选择/优先级队列",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/27",
+          "no": "2028",
+          "name": "找出缺失的观测数据",
+          "slug": "find-missing-observations",
+          "difficulty": "中等",
+          "rating": 1444,
+          "situation": "自己做出",
+          "method": "构造",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/28",
+          "no": "2951",
+          "name": "找出峰值",
+          "slug": "find-the-peaks",
+          "difficulty": "简单",
+          "rating": 1189,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/29",
+          "no": "2981",
+          "name": "找出出现至少三次的最长特殊子字符串 I",
+          "slug": "find-longest-special-substring-that-occurs-thrice-i",
+          "difficulty": "中等",
+          "rating": 1505,
+          "situation": "自己做出",
+          "method": "分类讨论",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
