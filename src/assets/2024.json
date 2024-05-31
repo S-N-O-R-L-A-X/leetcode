@@ -1809,6 +1809,30 @@
           "method": "分类讨论",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/5/30",
+          "no": "2982",
+          "name": "找出出现至少三次的最长特殊子字符串 II",
+          "slug": "find-longest-special-substring-that-occurs-thrice-ii",
+          "difficulty": "中等",
+          "rating": 1772,
+          "situation": "自己做出",
+          "method": "二分查找/分类讨论",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/5/31",
+          "no": "2965",
+          "name": "找出缺失和重复的数字",
+          "slug": "find-missing-and-repeated-values",
+          "difficulty": "简单",
+          "rating": 1244,
+          "situation": "自己做出",
+          "method": "模拟/位运算/数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
