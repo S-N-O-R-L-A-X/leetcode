@@ -1834,6 +1834,32 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2024/6/1",
+          "no": "2928",
+          "name": "给小朋友们分糖果 I",
+          "slug": "distribute-candies-among-children-i",
+          "difficulty": "简单",
+          "rating": 1393,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/2",
+          "no": "575",
+          "name": "分糖果",
+          "slug": "distribute-candies",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
