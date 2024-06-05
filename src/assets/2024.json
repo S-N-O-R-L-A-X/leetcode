@@ -1859,6 +1859,42 @@
           "method": "哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/3",
+          "no": "1103",
+          "name": "分糖果 II",
+          "slug": "distribute-candies-to-people",
+          "difficulty": "简单",
+          "rating": 1287,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/4",
+          "no": "3067",
+          "name": "在带权树网络中统计可连接服务器对数目",
+          "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+          "difficulty": "中等",
+          "rating": 1908,
+          "situation": "自己做出",
+          "method": "dfs/bfs+数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/5",
+          "no": "3072",
+          "name": "将元素分配到两个数组中 II",
+          "slug": "distribute-elements-into-two-arrays-ii",
+          "difficulty": "困难",
+          "rating": 2052,
+          "situation": "没看懂答案",
+          "method": "树状数组",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
