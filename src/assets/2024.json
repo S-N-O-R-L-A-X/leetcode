@@ -1895,6 +1895,54 @@
           "method": "树状数组",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/6",
+          "no": "2938",
+          "name": "区分黑球与白球",
+          "slug": "separate-black-and-white-balls",
+          "difficulty": "中等",
+          "rating": 1422,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/7",
+          "no": "3038",
+          "name": "相同分数的最大操作数目 I",
+          "slug": "maximum-number-of-operations-with-the-same-score-i",
+          "difficulty": "简单",
+          "rating": 1201,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/8",
+          "no": "3040",
+          "name": "相同分数的最大操作数目 II",
+          "slug": "maximum-number-of-operations-with-the-same-score-ii",
+          "difficulty": "中等",
+          "rating": 1708,
+          "situation": "自己做出",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/9",
+          "no": "312",
+          "name": "戳气球",
+          "slug": "burst-balloons",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "记忆化搜索/区间dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
