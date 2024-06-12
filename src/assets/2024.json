@@ -1943,6 +1943,42 @@
           "method": "记忆化搜索/区间dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/10",
+          "no": "881",
+          "name": "救生艇",
+          "slug": "boats-to-save-people",
+          "difficulty": "中等",
+          "rating": 1529,
+          "situation": "自己做出",
+          "method": "贪心+排序+双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/11",
+          "no": "419",
+          "name": "甲板上的战舰",
+          "slug": "battleships-in-a-board",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/12",
+          "no": "2806",
+          "name": "取整购买后的账户余额",
+          "slug": "account-balance-after-rounded-purchase",
+          "difficulty": "简单",
+          "rating": 1214,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
