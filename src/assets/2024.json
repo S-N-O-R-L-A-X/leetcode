@@ -1979,6 +1979,54 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/13",
+          "no": "2813",
+          "name": "子序列最大优雅度",
+          "slug": "maximum-elegance-of-a-k-length-subsequence",
+          "difficulty": "困难",
+          "rating": 2582,
+          "situation": "贪心+哈希",
+          "method": "看懂答案",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/14",
+          "no": "2786",
+          "name": "访问数组中的位置使分数最大",
+          "slug": "visit-array-positions-to-maximize-score",
+          "difficulty": "中等",
+          "rating": 1732,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/15",
+          "no": "2779",
+          "name": "数组的最大美丽值",
+          "slug": "maximum-beauty-of-an-array-after-applying-operation",
+          "difficulty": "中等",
+          "rating": 1638,
+          "situation": "自己做出",
+          "method": "排序+滑动窗口 / 差分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/16",
+          "no": "521",
+          "name": "最长特殊序列 Ⅰ",
+          "slug": "longest-uncommon-subsequence-i",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
