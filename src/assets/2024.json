@@ -2027,6 +2027,42 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/17",
+          "no": "522",
+          "name": "最长特殊序列 II",
+          "slug": "longest-uncommon-subsequence-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/18",
+          "no": "2288",
+          "name": "价格减免",
+          "slug": "apply-discount-to-prices",
+          "difficulty": "中等",
+          "rating": 1577,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/19",
+          "no": "2713",
+          "name": "矩阵中严格递增的单元格数",
+          "slug": "maximum-strictly-increasing-cells-in-a-matrix",
+          "difficulty": "困难",
+          "rating": 2387,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
