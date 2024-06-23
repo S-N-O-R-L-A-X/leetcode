@@ -2063,6 +2063,54 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/20",
+          "no": "2748",
+          "name": "美丽下标对的数目",
+          "slug": "number-of-beautiful-pairs",
+          "difficulty": "简单",
+          "rating": 1301,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/21",
+          "no": "LCP 61",
+          "name": "气温变化趋势",
+          "slug": "6CE719",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/22",
+          "no": "2663",
+          "name": "字典序最小的美丽字符串",
+          "slug": "lexicographically-smallest-beautiful-string",
+          "difficulty": "困难",
+          "rating": 2415,
+          "situation": "没看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/23",
+          "no": "520",
+          "name": "检测大写字母",
+          "slug": "detect-capital",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
