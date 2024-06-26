@@ -2111,6 +2111,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/24",
+          "no": "503",
+          "name": "下一个更大元素 II",
+          "slug": "next-greater-element-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "单调栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/25",
+          "no": "2732",
+          "name": "找到矩阵中的好子集",
+          "slug": "find-a-good-subset-of-the-matrix",
+          "difficulty": "困难",
+          "rating": 2239,
+          "situation": "看思路写出",
+          "method": "数学+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/26",
+          "no": "2741",
+          "name": "特别的排列",
+          "slug": "special-permutations",
+          "difficulty": "中等",
+          "rating": 2020,
+          "situation": "没看懂答案",
+          "method": "状态压缩+ 记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
