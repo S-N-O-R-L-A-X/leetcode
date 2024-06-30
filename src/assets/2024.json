@@ -2147,6 +2147,54 @@
           "method": "状态压缩+ 记忆化搜索/dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/6/27",
+          "no": "2734",
+          "name": "执行子串操作后的字典序最小字符串",
+          "slug": "lexicographically-smallest-string-after-substring-operation",
+          "difficulty": "中等",
+          "rating": 1405,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/28",
+          "no": "2742",
+          "name": "给墙壁刷油漆",
+          "slug": "painting-the-walls",
+          "difficulty": "困难",
+          "rating": 2424,
+          "situation": "看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/29",
+          "no": "2710",
+          "name": "移除字符串中的尾随零",
+          "slug": "remove-trailing-zeros-from-a-string",
+          "difficulty": "简单",
+          "rating": 1164,
+          "situation": "模拟",
+          "method": "自己做出",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/6/30",
+          "no": "494",
+          "name": "目标和",
+          "slug": "target-sum",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "回溯/dp",
+          "learn": "",
+          "unknown": "dp"
         }
       ]
     ]
