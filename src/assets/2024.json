@@ -2196,6 +2196,44 @@
           "learn": "",
           "unknown": "dp"
         }
+      ],
+      [
+        {
+          "date": "2024/7/1",
+          "no": "2065",
+          "name": "最大化一张图中的路径价值",
+          "slug": "maximum-path-quality-of-a-graph",
+          "difficulty": "困难",
+          "rating": 2178,
+          "situation": "自己做出",
+          "method": "dfs+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/2",
+          "no": "3115",
+          "name": "质数的最大距离",
+          "slug": "maximum-prime-difference",
+          "difficulty": "中等",
+          "rating": 1294,
+          "situation": "自己做出",
+          "method": "素数筛",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/3",
+          "no": "3099",
+          "name": "哈沙德数",
+          "slug": "harshad-number",
+          "difficulty": "简单",
+          "rating": 1100,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
