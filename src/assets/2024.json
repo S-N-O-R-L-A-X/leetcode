@@ -2233,6 +2233,54 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/7/4",
+          "no": "3086",
+          "name": "拾起 K 个 1 需要的最少行动次数",
+          "slug": "minimum-moves-to-pick-k-ones",
+          "difficulty": "困难",
+          "rating": 2672,
+          "situation": "没看懂答案",
+          "method": "贪心+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/5",
+          "no": "3033",
+          "name": "修改矩阵",
+          "slug": "modify-the-matrix",
+          "difficulty": "简单",
+          "rating": 1180,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/6",
+          "no": "3101",
+          "name": "交替子数组计数",
+          "slug": "count-alternating-subarrays",
+          "difficulty": "中等",
+          "rating": 1404,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/7",
+          "no": "1958",
+          "name": "检查操作是否合法",
+          "slug": "check-if-move-is-legal",
+          "difficulty": "中等",
+          "rating": 1658,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
