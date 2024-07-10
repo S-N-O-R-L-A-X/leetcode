@@ -2281,6 +2281,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/7/8",
+          "no": "724",
+          "name": "寻找数组的中心下标",
+          "slug": "find-pivot-index",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/9",
+          "no": "3102",
+          "name": "最小化曼哈顿距离",
+          "slug": "minimize-manhattan-distances",
+          "difficulty": "困难",
+          "rating": 2215,
+          "situation": "没看懂答案",
+          "method": "数学",
+          "learn": "",
+          "unknown": "切比雪夫距离"
+        },
+        {
+          "date": "2024/7/10",
+          "no": "2970",
+          "name": "统计移除递增子数组的数目 I",
+          "slug": "count-the-number-of-incremovable-subarrays-i",
+          "difficulty": "简单",
+          "rating": 1563,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
