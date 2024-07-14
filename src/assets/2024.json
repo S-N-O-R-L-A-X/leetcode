@@ -2317,6 +2317,54 @@
           "method": "双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/7/11",
+          "no": "2972",
+          "name": "统计移除递增子数组的数目 II",
+          "slug": "count-the-number-of-incremovable-subarrays-ii",
+          "difficulty": "困难",
+          "rating": 2152,
+          "situation": "看懂答案",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/12",
+          "no": "2974",
+          "name": "最小数字游戏",
+          "slug": "minimum-number-game",
+          "difficulty": "简单",
+          "rating": 1184,
+          "situation": "自己做出",
+          "method": "排序+模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/13",
+          "no": "3011",
+          "name": "判断一个数组是否可以变为有序",
+          "slug": "find-if-array-can-be-sorted",
+          "difficulty": "中等",
+          "rating": 1496,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/14",
+          "no": "807",
+          "name": "保持城市天际线",
+          "slug": "max-increase-to-keep-city-skyline",
+          "difficulty": "中等",
+          "rating": 1376,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
