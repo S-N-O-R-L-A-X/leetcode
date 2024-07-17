@@ -2365,6 +2365,42 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/7/15",
+          "no": "721",
+          "name": "账户合并",
+          "slug": "accounts-merge",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "哈希+并查集",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/16",
+          "no": "2956",
+          "name": "找到两个数组中的公共元素",
+          "slug": "find-common-elements-between-two-arrays",
+          "difficulty": "简单",
+          "rating": 1214,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/17",
+          "no": "2959",
+          "name": "关闭分部的可行集合数目",
+          "slug": "number-of-possible-sets-of-closing-branches",
+          "difficulty": "困难",
+          "rating": 2077,
+          "situation": "没看懂答案",
+          "method": "状态压缩+floyd算法",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
