@@ -2397,8 +2397,56 @@
           "slug": "number-of-possible-sets-of-closing-branches",
           "difficulty": "困难",
           "rating": 2077,
-          "situation": "没看懂答案",
-          "method": "状态压缩+floyd算法",
+          "situation": "自己做出",
+          "method": "状态压缩+floyd算法/迪杰斯特拉",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/18",
+          "no": "3112",
+          "name": "访问消失节点的最少时间",
+          "slug": "minimum-time-to-visit-disappearing-nodes",
+          "difficulty": "中等",
+          "rating": 1756,
+          "situation": "自己做出",
+          "method": "迪杰斯特拉",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/19",
+          "no": "3096",
+          "name": "得到更多分数的最少关卡数目",
+          "slug": "minimum-levels-to-gain-more-points",
+          "difficulty": "中等",
+          "rating": 1500,
+          "situation": "自己做出",
+          "method": "前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/20",
+          "no": "2850",
+          "name": "将石头分散到网格图的最少移动次数",
+          "slug": "minimum-moves-to-spread-stones-over-grid",
+          "difficulty": "中等",
+          "rating": 2001,
+          "situation": "自己做出",
+          "method": "全排列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/21",
+          "no": "1186",
+          "name": "删除一次得到子数组最大和",
+          "slug": "maximum-subarray-sum-with-one-deletion",
+          "difficulty": "中等",
+          "rating": 1799,
+          "situation": "自己做出",
+          "method": "dp",
           "learn": "",
           "unknown": ""
         }
