@@ -2449,6 +2449,42 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/7/22",
+          "no": "2101",
+          "name": "引爆最多的炸弹",
+          "slug": "detonate-the-maximum-bombs",
+          "difficulty": "中等",
+          "rating": 1880,
+          "situation": "自己做出",
+          "method": "转化+bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/23",
+          "no": "3098",
+          "name": "求出所有子序列的能量和",
+          "slug": "find-the-sum-of-subsequence-powers",
+          "difficulty": "困难",
+          "rating": 2552,
+          "situation": "没看懂答案",
+          "method": "dp/记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/24",
+          "no": "2766",
+          "name": "重新放置石块",
+          "slug": "relocate-marbles",
+          "difficulty": "中等",
+          "rating": 1613,
+          "situation": "自己做出",
+          "method": "哈希+模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
