@@ -2485,6 +2485,54 @@
           "method": "哈希+模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/7/25",
+          "no": "2844",
+          "name": "生成特殊数字的最少操作",
+          "slug": "minimum-operations-to-make-a-special-number",
+          "difficulty": "中等",
+          "rating": 1588,
+          "situation": "自己做出",
+          "method": "数学+转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/26",
+          "no": "2740",
+          "name": "找出分区值",
+          "slug": "find-the-value-of-the-partition",
+          "difficulty": "中等",
+          "rating": 1301,
+          "situation": "自己做出",
+          "method": "转化+排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/27",
+          "no": "3106",
+          "name": "满足距离约束且字典序最小的字符串",
+          "slug": "lexicographically-smallest-string-after-operations-with-constraint",
+          "difficulty": "中等",
+          "rating": 1515,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/28",
+          "no": "699",
+          "name": "掉落的方块",
+          "slug": "falling-squares",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "模拟/有序集合/线段树",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
