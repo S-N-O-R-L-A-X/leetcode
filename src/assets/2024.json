@@ -913,8 +913,8 @@
           "slug": "maximum-number-of-moves-in-a-grid",
           "difficulty": "中等",
           "rating": 1625,
-          "situation": "bfs",
-          "method": "",
+          "situation": "自己做出",
+          "method": "bfs",
           "learn": "",
           "unknown": ""
         },
@@ -1987,8 +1987,8 @@
           "slug": "maximum-elegance-of-a-k-length-subsequence",
           "difficulty": "困难",
           "rating": 2582,
-          "situation": "贪心+哈希",
-          "method": "看懂答案",
+          "situation": "看懂答案",
+          "method": "贪心+哈希",
           "learn": "",
           "unknown": ""
         },
@@ -2179,8 +2179,8 @@
           "slug": "remove-trailing-zeros-from-a-string",
           "difficulty": "简单",
           "rating": 1164,
-          "situation": "模拟",
-          "method": "自己做出",
+          "situation": "自己做出",
+          "method": "模拟",
           "learn": "",
           "unknown": ""
         },
@@ -2531,6 +2531,42 @@
           "rating": null,
           "situation": "看懂答案",
           "method": "模拟/有序集合/线段树",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/29",
+          "no": "682",
+          "name": "棒球比赛",
+          "slug": "baseball-game",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟+栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/30",
+          "no": "2961",
+          "name": "双模幂运算",
+          "slug": "double-modular-exponentiation",
+          "difficulty": "中等",
+          "rating": 1450,
+          "situation": "自己做出",
+          "method": "数学（+快速幂）",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/7/31",
+          "no": "3111",
+          "name": "覆盖所有点的最少矩形数目",
+          "slug": "minimum-rectangles-to-cover-points",
+          "difficulty": "中等",
+          "rating": 1401,
+          "situation": "自己做出",
+          "method": "贪心",
           "learn": "",
           "unknown": ""
         }
