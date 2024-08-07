@@ -2619,6 +2619,42 @@
           "method": "dfs/树哈希",
           "learn": "",
           "unknown": "树哈希"
+        },
+        {
+          "date": "2024/8/5",
+          "no": "600",
+          "name": "不含连续1的非负整数",
+          "slug": "non-negative-integers-without-consecutive-ones",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "没看懂答案",
+          "method": "数位dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/6",
+          "no": "3129",
+          "name": "找出所有稳定的二进制数组 I",
+          "slug": "find-all-possible-stable-binary-arrays-i",
+          "difficulty": "中等",
+          "rating": 2200,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/7",
+          "no": "3130",
+          "name": "找出所有稳定的二进制数组 II",
+          "slug": "find-all-possible-stable-binary-arrays-ii",
+          "difficulty": "困难",
+          "rating": 2824,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
