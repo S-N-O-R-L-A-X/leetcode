@@ -2655,6 +2655,54 @@
           "method": "记忆化搜索/dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/8/8",
+          "no": "3131",
+          "name": "找出与数组相加的整数 I",
+          "slug": "find-the-integer-added-to-array-i",
+          "difficulty": "简单",
+          "rating": 1160,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/9",
+          "no": "3132",
+          "name": "找出与数组相加的整数 II",
+          "slug": "find-the-integer-added-to-array-ii",
+          "difficulty": "中等",
+          "rating": 1620,
+          "situation": "自己做出",
+          "method": "排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/10",
+          "no": "2940",
+          "name": "找到 Alice 和 Bob 可以相遇的建筑",
+          "slug": "find-building-where-alice-and-bob-can-meet",
+          "difficulty": "困难",
+          "rating": 2327,
+          "situation": "自己做出",
+          "method": "线段树/单调栈/优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/11",
+          "no": "1035",
+          "name": "不相交的线",
+          "slug": "uncrossed-lines",
+          "difficulty": "中等",
+          "rating": 1805,
+          "situation": "自己做出",
+          "method": "转化+dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
