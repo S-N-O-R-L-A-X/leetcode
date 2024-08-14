@@ -2703,6 +2703,42 @@
           "method": "转化+dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/8/12",
+          "no": "676",
+          "name": "实现一个魔法字典",
+          "slug": "implement-magic-dictionary",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "字典树",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/13",
+          "no": "3151",
+          "name": "特殊数组 I",
+          "slug": "special-array-i",
+          "difficulty": "简单",
+          "rating": 1152,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/14",
+          "no": "3152",
+          "name": "特殊数组 II",
+          "slug": "special-array-ii",
+          "difficulty": "中等",
+          "rating": 1523,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
