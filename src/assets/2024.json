@@ -2739,6 +2739,54 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/8/15",
+          "no": "3148",
+          "name": "矩阵中的最大得分",
+          "slug": "maximum-difference-score-in-a-grid",
+          "difficulty": "中等",
+          "rating": 1819,
+          "situation": "自己做出",
+          "method": "dp/前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/16",
+          "no": "3117",
+          "name": "划分数组得到最小的值之和",
+          "slug": "minimum-sum-of-values-by-dividing-array",
+          "difficulty": "困难",
+          "rating": 2735,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/17",
+          "no": "3137",
+          "name": "K 周期字符串需要的最少操作次数",
+          "slug": "minimum-number-of-operations-to-make-word-k-periodic",
+          "difficulty": "中等",
+          "rating": 1491,
+          "situation": "自己做出",
+          "method": "转化+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/18",
+          "no": "551",
+          "name": "学生出勤记录 I",
+          "slug": "student-attendance-record-i",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
