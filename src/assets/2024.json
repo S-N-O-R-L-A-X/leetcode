@@ -2871,6 +2871,42 @@
           "method": "状态压缩+记忆化搜索/dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/8/26",
+          "no": "690",
+          "name": "员工的重要性",
+          "slug": "employee-importance",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/27",
+          "no": "3134",
+          "name": "找出唯一性数组的中位数",
+          "slug": "find-the-median-of-the-uniqueness-array",
+          "difficulty": "困难",
+          "rating": 2451,
+          "situation": "没看懂答案",
+          "method": "数学+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/28",
+          "no": "3144",
+          "name": "分割字符频率相等的最少子字符串",
+          "slug": "minimum-substring-partition-of-equal-character-frequency",
+          "difficulty": "中等",
+          "rating": 1917,
+          "situation": "自己做出",
+          "method": "dp+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
