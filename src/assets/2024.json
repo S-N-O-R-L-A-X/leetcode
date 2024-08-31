@@ -2907,6 +2907,42 @@
           "method": "dp+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/8/29",
+          "no": "3142",
+          "name": "判断矩阵是否满足条件",
+          "slug": "check-if-grid-satisfies-conditions",
+          "difficulty": "简单",
+          "rating": 1303,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/30",
+          "no": "3153",
+          "name": "所有数对中数位差之和",
+          "slug": "sum-of-digit-differences-of-all-pairs",
+          "difficulty": "中等",
+          "rating": 1645,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/8/31",
+          "no": "3127",
+          "name": "构造相同颜色的正方形",
+          "slug": "make-a-square-with-the-same-color",
+          "difficulty": "简单",
+          "rating": 1337,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
