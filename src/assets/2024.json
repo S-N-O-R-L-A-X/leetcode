@@ -2944,6 +2944,20 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2024/9/1",
+          "no": "1450",
+          "name": "在既定时间做作业的学生人数",
+          "slug": "number-of-students-doing-homework-at-a-given-time",
+          "difficulty": "简单",
+          "rating": 1129,
+          "situation": "自己做出",
+          "method": "模拟/差分/二分",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
