@@ -2957,6 +2957,42 @@
           "method": "模拟/差分/二分",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/2",
+          "no": "2024",
+          "name": "考试的最大困扰度",
+          "slug": "maximize-the-confusion-of-an-exam",
+          "difficulty": "中等",
+          "rating": 1643,
+          "situation": "看思路写出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/3",
+          "no": "2708",
+          "name": "一个小组的最大实力值",
+          "slug": "maximum-strength-of-a-group",
+          "difficulty": "中等",
+          "rating": 1502,
+          "situation": "自己做出",
+          "method": "分类讨论+贪心 / 位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/4",
+          "no": "2860",
+          "name": "让所有学生保持开心的分组方法数",
+          "slug": "happy-students",
+          "difficulty": "中等",
+          "rating": 1625,
+          "situation": "自己做出",
+          "method": "排序+贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
