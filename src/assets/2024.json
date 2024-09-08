@@ -2993,6 +2993,54 @@
           "method": "排序+贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/5",
+          "no": "3174",
+          "name": "清除数字",
+          "slug": "clear-digits",
+          "difficulty": "简单",
+          "rating": 1255,
+          "situation": "自己做出",
+          "method": "栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/6",
+          "no": "3176",
+          "name": "求出最长好子序列 I",
+          "slug": "find-the-maximum-length-of-a-good-subsequence-i",
+          "difficulty": "中等",
+          "rating": 1849,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/7",
+          "no": "3177",
+          "name": "求出最长好子序列 II",
+          "slug": "find-the-maximum-length-of-a-good-subsequence-ii",
+          "difficulty": "困难",
+          "rating": 2364,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/8",
+          "no": "977",
+          "name": "有序数组的平方",
+          "slug": "squares-of-a-sorted-array",
+          "difficulty": "简单",
+          "rating": 1129,
+          "situation": "自己做出",
+          "method": "模拟+排序/双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
