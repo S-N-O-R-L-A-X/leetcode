@@ -3041,6 +3041,42 @@
           "method": "模拟+排序/双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/9",
+          "no": "2181",
+          "name": "合并零之间的节点",
+          "slug": "merge-nodes-in-between-zeros",
+          "difficulty": "中等",
+          "rating": 1333,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/10",
+          "no": "2552",
+          "name": "统计上升四元组",
+          "slug": "count-increasing-quadruplets",
+          "difficulty": "困难",
+          "rating": 2432,
+          "situation": "没看懂答案",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/11",
+          "no": "2555",
+          "name": "两个线段获得的最多奖品",
+          "slug": "maximize-win-from-two-segments",
+          "difficulty": "中等",
+          "rating": 2080,
+          "situation": "没看懂答案",
+          "method": "二分/双指针+dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
