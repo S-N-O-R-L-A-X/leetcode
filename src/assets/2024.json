@@ -3077,6 +3077,54 @@
           "method": "二分/双指针+dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/12",
+          "no": "2576",
+          "name": "求出最多标记下标",
+          "slug": "find-the-maximum-number-of-marked-indices",
+          "difficulty": "中等",
+          "rating": 1843,
+          "situation": "看懂答案",
+          "method": "二分查找/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/13",
+          "no": "2398",
+          "name": "预算内的最多机器人数目",
+          "slug": "maximum-number-of-robots-within-budget",
+          "difficulty": "困难",
+          "rating": 1917,
+          "situation": "看懂答案",
+          "method": "双指针+单调队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/14",
+          "no": "2390",
+          "name": "从字符串中移除星号",
+          "slug": "removing-stars-from-a-string",
+          "difficulty": "中等",
+          "rating": 1347,
+          "situation": "自己做出",
+          "method": "模拟/栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/15",
+          "no": "2848",
+          "name": "与车相交的点",
+          "slug": "points-that-intersect-with-cars",
+          "difficulty": "简单",
+          "rating": 1229,
+          "situation": "自己做出",
+          "method": "模拟/差分数组",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
