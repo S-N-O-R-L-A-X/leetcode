@@ -3125,6 +3125,42 @@
           "method": "模拟/差分数组",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/16",
+          "no": "1184",
+          "name": "公交站间的距离",
+          "slug": "distance-between-bus-stops",
+          "difficulty": "简单",
+          "rating": 1234,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/17",
+          "no": "815",
+          "name": "公交路线",
+          "slug": "bus-routes",
+          "difficulty": "困难",
+          "rating": 1964,
+          "situation": "自己做出",
+          "method": "超图+bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/18",
+          "no": "2332",
+          "name": "坐上公交的最晚时间",
+          "slug": "the-latest-time-to-catch-a-bus",
+          "difficulty": "中等",
+          "rating": 1840,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
