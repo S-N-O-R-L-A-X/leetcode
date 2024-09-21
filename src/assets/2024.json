@@ -3161,6 +3161,54 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/19",
+          "no": "2414",
+          "name": "最长的字母序连续子字符串的长度",
+          "slug": "length-of-the-longest-alphabetical-continuous-substring",
+          "difficulty": "中等",
+          "rating": 1221,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/20",
+          "no": "2376",
+          "name": "统计特殊整数",
+          "slug": "count-special-integers",
+          "difficulty": "困难",
+          "rating": 2120,
+          "situation": "没看懂答案",
+          "method": "数位dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/21",
+          "no": "2374",
+          "name": "边积分最高的节点",
+          "slug": "node-with-highest-edge-score",
+          "difficulty": "中等",
+          "rating": 1418,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/22",
+          "no": "997",
+          "name": "找到小镇的法官",
+          "slug": "find-the-town-judge",
+          "difficulty": "简单",
+          "rating": 1201,
+          "situation": "自己做出",
+          "method": "图论",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
