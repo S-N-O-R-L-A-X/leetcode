@@ -3209,6 +3209,42 @@
           "method": "图论",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/23",
+          "no": "1014",
+          "name": "最佳观光组合",
+          "slug": "best-sightseeing-pair",
+          "difficulty": "中等",
+          "rating": 1730,
+          "situation": "看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/24",
+          "no": "2207",
+          "name": "字符串中最多数目的子序列",
+          "slug": "maximize-number-of-subsequences-in-a-string",
+          "difficulty": "中等",
+          "rating": 1550,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/25",
+          "no": "2306",
+          "name": "公司命名",
+          "slug": "naming-a-company",
+          "difficulty": "困难",
+          "rating": 2305,
+          "situation": "看懂答案",
+          "method": "哈希+数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
