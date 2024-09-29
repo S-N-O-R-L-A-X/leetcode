@@ -3245,6 +3245,54 @@
           "method": "哈希+数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/26",
+          "no": "2535",
+          "name": "数组元素和与数字和的绝对差",
+          "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+          "difficulty": "简单",
+          "rating": 1222,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/27",
+          "no": "2516",
+          "name": "每种字符至少取 K 个",
+          "slug": "take-k-of-each-character-from-left-and-right",
+          "difficulty": "中等",
+          "rating": 1947,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/28",
+          "no": "2286",
+          "name": "以组为单位订音乐会的门票",
+          "slug": "booking-concert-tickets-in-groups",
+          "difficulty": "困难",
+          "rating": 2470,
+          "situation": "没看懂答案",
+          "method": "线段树+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/9/29",
+          "no": "2073",
+          "name": "买票需要的时间",
+          "slug": "time-needed-to-buy-tickets",
+          "difficulty": "简单",
+          "rating": 1325,
+          "situation": "自己做出",
+          "method": "模拟/转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
