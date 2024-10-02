@@ -3293,6 +3293,44 @@
           "method": "模拟/转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/9/30",
+          "no": "1845",
+          "name": "座位预约管理系统",
+          "slug": "seat-reservation-manager",
+          "difficulty": "中等",
+          "rating": 1428,
+          "situation": "自己做出",
+          "method": "优先级队列",
+          "learn": "",
+          "unknown": ""
+        }
+      ],
+      [
+        {
+          "date": "2024/10/1",
+          "no": "983",
+          "name": "最低票价",
+          "slug": "minimum-cost-for-tickets",
+          "difficulty": "中等",
+          "rating": 1786,
+          "situation": "自己做出",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/2",
+          "no": "1870",
+          "name": "准时到达的列车最小时速",
+          "slug": "minimum-speed-to-arrive-on-time",
+          "difficulty": "中等",
+          "rating": 1675,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
