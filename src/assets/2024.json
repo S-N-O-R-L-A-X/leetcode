@@ -3331,6 +3331,54 @@
           "method": "二分",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/3",
+          "no": "1928",
+          "name": "规定时间内到达终点的最小花费",
+          "slug": "minimum-cost-to-reach-destination-in-time",
+          "difficulty": "困难",
+          "rating": 2413,
+          "situation": "没看懂答案",
+          "method": "dp+迪杰斯特拉",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/4",
+          "no": "1227",
+          "name": "飞机座位分配概率",
+          "slug": "airplane-seat-assignment-probability",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/5",
+          "no": "2187",
+          "name": "完成旅途的最少时间",
+          "slug": "minimum-time-to-complete-trips",
+          "difficulty": "中等",
+          "rating": 1640,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/6",
+          "no": "134",
+          "name": "加油站",
+          "slug": "gas-station",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
