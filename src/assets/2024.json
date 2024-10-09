@@ -3379,6 +3379,42 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/7",
+          "no": "871",
+          "name": "最低加油次数",
+          "slug": "minimum-number-of-refueling-stops",
+          "difficulty": "困难",
+          "rating": 2074,
+          "situation": "自己做出",
+          "method": "dp/优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/8",
+          "no": "1436",
+          "name": "旅行终点站",
+          "slug": "destination-city",
+          "difficulty": "简单",
+          "rating": 1192,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/9",
+          "no": "3171",
+          "name": "找到按位或最接近 K 的子数组",
+          "slug": "find-subarray-with-bitwise-or-closest-to-k",
+          "difficulty": "困难",
+          "rating": 2162,
+          "situation": "没看懂答案",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
