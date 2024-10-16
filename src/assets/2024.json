@@ -3463,6 +3463,42 @@
           "method": "dp/数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/14",
+          "no": "887",
+          "name": "鸡蛋掉落",
+          "slug": "super-egg-drop",
+          "difficulty": "困难",
+          "rating": 2376,
+          "situation": "没看懂答案",
+          "method": "dp+二分 / 决策单调性 / 数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/15",
+          "no": "3200",
+          "name": "三角形的最大高度",
+          "slug": "maximum-height-of-a-triangle",
+          "difficulty": "简单",
+          "rating": 1451,
+          "situation": "自己做出",
+          "method": "二分/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/16",
+          "no": "3194",
+          "name": "最小元素和最大元素的最小平均值",
+          "slug": "minimum-average-of-smallest-and-largest-elements",
+          "difficulty": "简单",
+          "rating": 1194,
+          "situation": "自己做出",
+          "method": "排序+双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
