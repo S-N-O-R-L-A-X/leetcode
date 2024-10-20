@@ -3499,6 +3499,54 @@
           "method": "排序+双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/17",
+          "no": "3193",
+          "name": "统计逆序对的数目",
+          "slug": "count-the-number-of-inversions",
+          "difficulty": "困难",
+          "rating": 2266,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/18",
+          "no": "3191",
+          "name": "使二进制数组全部等于 1 的最少操作次数 I",
+          "slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+          "difficulty": "中等",
+          "rating": 1311,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/19",
+          "no": "3192",
+          "name": "使二进制数组全部等于 1 的最少操作次数 II",
+          "slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+          "difficulty": "中等",
+          "rating": 1432,
+          "situation": "自己做出",
+          "method": "贪心/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/20",
+          "no": "908",
+          "name": "最小差值 I",
+          "slug": "smallest-range-i",
+          "difficulty": "简单",
+          "rating": 1298,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
