@@ -3547,6 +3547,42 @@
           "method": "数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/21",
+          "no": "910",
+          "name": "最小差值 II",
+          "slug": "smallest-range-ii",
+          "difficulty": "中等",
+          "rating": 2134,
+          "situation": "看懂答案",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/22",
+          "no": "3184",
+          "name": "构成整天的下标对数目 I",
+          "slug": "count-pairs-that-form-a-complete-day-i",
+          "difficulty": "简单",
+          "rating": 1149,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/23",
+          "no": "3185",
+          "name": "构成整天的下标对数目 II",
+          "slug": "count-pairs-that-form-a-complete-day-ii",
+          "difficulty": "中等",
+          "rating": 1385,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
