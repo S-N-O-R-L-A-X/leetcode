@@ -3583,6 +3583,54 @@
           "method": "哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/24",
+          "no": "3175",
+          "name": "找到连续赢 K 场比赛的第一位玩家",
+          "slug": "find-the-first-player-to-win-k-games-in-a-row",
+          "difficulty": "中等",
+          "rating": 1488,
+          "situation": "自己做出",
+          "method": "双指针/单调栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/25",
+          "no": "3180",
+          "name": "执行操作可获得的最大总奖励 I",
+          "slug": "maximum-total-reward-using-operations-i",
+          "difficulty": "中等",
+          "rating": 1848,
+          "situation": "看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/26",
+          "no": "3181",
+          "name": "执行操作可获得的最大总奖励 II",
+          "slug": "maximum-total-reward-using-operations-ii",
+          "difficulty": "困难",
+          "rating": 2688,
+          "situation": "没看懂答案",
+          "method": "dp+位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/27",
+          "no": "684",
+          "name": "冗余连接",
+          "slug": "redundant-connection",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "并查集/bfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
