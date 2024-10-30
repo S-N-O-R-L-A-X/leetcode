@@ -3631,6 +3631,42 @@
           "method": "并查集/bfs",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/28",
+          "no": "685",
+          "name": "冗余连接 II",
+          "slug": "redundant-connection-ii",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "并查集/dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/10/29",
+          "no": "3211",
+          "name": "生成不含相邻零的二进制字符串",
+          "slug": "generate-binary-strings-without-adjacent-zeros",
+          "difficulty": "中等",
+          "rating": 1352,
+          "situation": "自己做出",
+          "method": "回溯/位运算",
+          "learn": "",
+          "unknown": "位运算"
+        },
+        {
+          "date": "2024/10/30",
+          "no": "3216",
+          "name": "交换后字典序最小的字符串",
+          "slug": "lexicographically-smallest-string-after-a-swap",
+          "difficulty": "简单",
+          "rating": 1242,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
