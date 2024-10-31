@@ -3667,6 +3667,18 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/10/31",
+          "no": "3165",
+          "name": "不包含相邻元素的子序列的最大和",
+          "slug": "maximum-sum-of-subsequence-with-non-adjacent-elements",
+          "difficulty": "困难",
+          "rating": 3165,
+          "situation": "没看懂答案",
+          "method": "线段树",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
