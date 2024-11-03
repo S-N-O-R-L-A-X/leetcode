@@ -3680,6 +3680,44 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2024/11/1",
+          "no": "3259",
+          "name": "超级饮料的最大强化能量",
+          "slug": "maximum-energy-boost-from-two-drinks",
+          "difficulty": "中等",
+          "rating": 1483,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/2",
+          "no": "3226",
+          "name": "使两个整数相等的位更改次数",
+          "slug": "number-of-bit-changes-to-make-two-integers-equal",
+          "difficulty": "简单",
+          "rating": 1247,
+          "situation": "自己做出",
+          "method": "模拟/位运算",
+          "learn": "",
+          "unknown": "位运算"
+        },
+        {
+          "date": "2024/11/3",
+          "no": "638",
+          "name": "大礼包",
+          "slug": "shopping-offers",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
