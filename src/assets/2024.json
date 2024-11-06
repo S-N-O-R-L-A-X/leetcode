@@ -3717,6 +3717,42 @@
           "method": "记忆化搜索",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/4",
+          "no": "633",
+          "name": "平方数之和",
+          "slug": "sum-of-square-numbers",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "双指针/数学",
+          "learn": "",
+          "unknown": "费马平方和定理"
+        },
+        {
+          "date": "2024/11/5",
+          "no": "3222",
+          "name": "求出硬币游戏的赢家",
+          "slug": "find-the-winning-player-in-coin-game",
+          "difficulty": "简单",
+          "rating": 1269,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/6",
+          "no": "3254",
+          "name": "长度为 K 的子数组的能量值 I",
+          "slug": "find-the-power-of-k-size-subarrays-i",
+          "difficulty": "中等",
+          "rating": 1266,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
