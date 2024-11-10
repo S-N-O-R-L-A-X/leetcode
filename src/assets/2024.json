@@ -3753,6 +3753,54 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/7",
+          "no": "3255",
+          "name": "长度为 K 的子数组的能量值 II",
+          "slug": "find-the-power-of-k-size-subarrays-ii",
+          "difficulty": "中等",
+          "rating": 1595,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/8",
+          "no": "3235",
+          "name": "判断矩形的两个角落是否可达",
+          "slug": "check-if-the-rectangle-corner-is-reachable",
+          "difficulty": "困难",
+          "rating": 3773,
+          "situation": "没看懂答案",
+          "method": "数学+dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/9",
+          "no": "3242",
+          "name": "设计相邻元素求和服务",
+          "slug": "design-neighbor-sum-service",
+          "difficulty": "简单",
+          "rating": 1334,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/10",
+          "no": "540",
+          "name": "有序数组中的单一元素",
+          "slug": "single-element-in-a-sorted-array",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "二分",
+          "unknown": ""
         }
       ]
     ]
