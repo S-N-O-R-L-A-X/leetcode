@@ -3801,6 +3801,42 @@
           "method": "二分",
           "learn": "二分",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/11",
+          "no": "1547",
+          "name": "切棍子的最小成本",
+          "slug": "minimum-cost-to-cut-a-stick",
+          "difficulty": "困难",
+          "rating": 2116,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/12",
+          "no": "3258",
+          "name": "统计满足 K 约束的子字符串数量 I",
+          "slug": "count-substrings-that-satisfy-k-constraint-i",
+          "difficulty": "简单",
+          "rating": 1258,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/13",
+          "no": "3261",
+          "name": "统计满足 K 约束的子字符串数量 II",
+          "slug": "count-substrings-that-satisfy-k-constraint-ii",
+          "difficulty": "困难",
+          "rating": 2658,
+          "situation": "没看懂答案",
+          "method": "滑动窗口+前缀和+二分/双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
