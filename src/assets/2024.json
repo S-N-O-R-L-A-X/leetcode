@@ -3837,6 +3837,54 @@
           "method": "滑动窗口+前缀和+二分/双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/14",
+          "no": "3249",
+          "name": "统计好节点的数目",
+          "slug": "count-the-number-of-good-nodes",
+          "difficulty": "中等",
+          "rating": 1565,
+          "situation": "自己做出",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/15",
+          "no": "3239",
+          "name": "最少翻转次数使二进制矩阵回文 I",
+          "slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+          "difficulty": "中等",
+          "rating": 1387,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/16",
+          "no": "3240",
+          "name": "最少翻转次数使二进制矩阵回文 II",
+          "slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+          "difficulty": "中等",
+          "rating": 2080,
+          "situation": "自己做出",
+          "method": "贪心+分类讨论",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/17",
+          "no": "825",
+          "name": "适龄的朋友",
+          "slug": "friends-of-appropriate-ages",
+          "difficulty": "中等",
+          "rating": 1697,
+          "situation": "自己做出",
+          "method": "排序+双指针/ 前缀和",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
