@@ -3885,6 +3885,42 @@
           "method": "排序+双指针/ 前缀和",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/18",
+          "no": "661",
+          "name": "图片平滑器",
+          "slug": "image-smoother",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/19",
+          "no": "3243",
+          "name": "新增道路查询后的最短距离 I",
+          "slug": "shortest-distance-after-road-addition-queries-i",
+          "difficulty": "中等",
+          "rating": 1567,
+          "situation": "自己做出",
+          "method": "bfs/dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/20",
+          "no": "3244",
+          "name": "新增道路查询后的最短距离 II",
+          "slug": "shortest-distance-after-road-addition-queries-ii",
+          "difficulty": "困难",
+          "rating": 2270,
+          "situation": "看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
