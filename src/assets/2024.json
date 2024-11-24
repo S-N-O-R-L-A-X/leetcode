@@ -3921,6 +3921,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/21",
+          "no": "3248",
+          "name": "矩阵中的蛇",
+          "slug": "snake-in-matrix",
+          "difficulty": "简单",
+          "rating": 1171,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/22",
+          "no": "3233",
+          "name": "统计不是特殊数字的数字数量",
+          "slug": "find-the-count-of-numbers-which-are-not-special",
+          "difficulty": "中等",
+          "rating": 1509,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "复习埃氏筛",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/23",
+          "no": "3238",
+          "name": "求出胜利玩家的数目",
+          "slug": "find-the-number-of-winning-players",
+          "difficulty": "简单",
+          "rating": 1285,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/24",
+          "no": "632",
+          "name": "最小区间",
+          "slug": "smallest-range-covering-elements-from-k-lists",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "贪心+优先级队列+多指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
