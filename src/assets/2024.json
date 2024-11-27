@@ -3969,6 +3969,42 @@
           "method": "贪心+优先级队列+多指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/25",
+          "no": "743",
+          "name": "网络延迟时间",
+          "slug": "network-delay-time",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "迪杰斯特拉",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/26",
+          "no": "3206",
+          "name": "交替组 I",
+          "slug": "alternating-groups-i",
+          "difficulty": "简单",
+          "rating": 1223,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/27",
+          "no": "3208",
+          "name": "交替组 II",
+          "slug": "alternating-groups-ii",
+          "difficulty": "中等",
+          "rating": 1721,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
