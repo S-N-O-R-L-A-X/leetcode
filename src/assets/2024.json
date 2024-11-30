@@ -4005,6 +4005,42 @@
           "method": "滑动窗口",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/11/28",
+          "no": "3250",
+          "name": "单调数组对的数目 I",
+          "slug": "find-the-count-of-monotonic-pairs-i",
+          "difficulty": "困难",
+          "rating": 1897,
+          "situation": "看懂答案",
+          "method": "dp/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/29",
+          "no": "3251",
+          "name": "单调数组对的数目 II",
+          "slug": "find-the-count-of-monotonic-pairs-ii",
+          "difficulty": "困难",
+          "rating": 2323,
+          "situation": "看懂答案",
+          "method": "dp/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/11/30",
+          "no": "3232",
+          "name": "判断是否可以赢得数字游戏",
+          "slug": "find-if-digit-game-can-be-won",
+          "difficulty": "简单",
+          "rating": 1163,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
