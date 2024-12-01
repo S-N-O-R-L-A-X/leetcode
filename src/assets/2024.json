@@ -4042,6 +4042,20 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2024/12/1",
+          "no": "51",
+          "name": "N 皇后",
+          "slug": "n-queens",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
