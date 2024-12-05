@@ -4055,6 +4055,54 @@
           "method": "回溯",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/2",
+          "no": "52",
+          "name": "N 皇后 II",
+          "slug": "n-queens-ii",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/3",
+          "no": "3274",
+          "name": "检查棋盘方格颜色是否相同",
+          "slug": "check-if-two-chessboard-squares-have-the-same-color",
+          "difficulty": "简单",
+          "rating": 1162,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/4",
+          "no": "2056",
+          "name": "棋盘上有效移动组合的数目",
+          "slug": "number-of-valid-move-combinations-on-chessboard",
+          "difficulty": "困难",
+          "rating": 2610,
+          "situation": "没看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/5",
+          "no": "3001",
+          "name": "捕获黑皇后需要的最少移动次数",
+          "slug": "minimum-moves-to-capture-the-queen",
+          "difficulty": "中等",
+          "rating": 1796,
+          "situation": "自己做出",
+          "method": "分类讨论",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
