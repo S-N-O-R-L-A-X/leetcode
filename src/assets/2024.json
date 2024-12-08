@@ -4103,6 +4103,42 @@
           "method": "分类讨论",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/6",
+          "no": "999",
+          "name": "可以被一步捕获的棋子数",
+          "slug": "available-captures-for-rook",
+          "difficulty": "简单",
+          "rating": 1317,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/7",
+          "no": "688",
+          "name": "骑士在棋盘上的概率",
+          "slug": "knight-probability-in-chessboard",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/8",
+          "no": "782",
+          "name": "变为棋盘",
+          "slug": "transform-to-chessboard",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "没看懂答案",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
