@@ -4139,6 +4139,42 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/9",
+          "no": "1812",
+          "name": "判断国际象棋棋盘中一个格子的颜色",
+          "slug": "determine-color-of-a-chessboard-square",
+          "difficulty": "简单",
+          "rating": 1328,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/10",
+          "no": "935",
+          "name": "骑士拨号器",
+          "slug": "knight-dialer",
+          "difficulty": "中等",
+          "rating": 1690,
+          "situation": "自己做出",
+          "method": "记忆化搜索/dp（+矩阵快速幂）",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/11",
+          "no": "2717",
+          "name": "半有序排列",
+          "slug": "semi-ordered-permutation",
+          "difficulty": "简单",
+          "rating": 1295,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
