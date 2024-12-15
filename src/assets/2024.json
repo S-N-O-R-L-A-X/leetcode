@@ -4175,6 +4175,54 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/12",
+          "no": "2931",
+          "name": "购买物品的最大开销",
+          "slug": "maximum-spending-after-buying-items",
+          "difficulty": "困难",
+          "rating": 1822,
+          "situation": "自己做出",
+          "method": "转化+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/13",
+          "no": "3264",
+          "name": "K 次乘运算后的最终数组 I",
+          "slug": "final-array-state-after-k-multiplication-operations-i",
+          "difficulty": "简单",
+          "rating": 1177,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/14",
+          "no": "3266",
+          "name": "K 次乘运算后的最终数组 II",
+          "slug": "final-array-state-after-k-multiplication-operations-ii",
+          "difficulty": "困难",
+          "rating": 2508,
+          "situation": "看懂答案",
+          "method": "优先级队列+快速幂",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/15",
+          "no": "1338",
+          "name": "数组大小减半",
+          "slug": "reduce-array-size-to-the-half",
+          "difficulty": "中等",
+          "rating": 1303,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
