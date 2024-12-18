@@ -4223,6 +4223,42 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/16",
+          "no": "1847",
+          "name": "最近的房间",
+          "slug": "closest-room",
+          "difficulty": "困难",
+          "rating": 2081,
+          "situation": "自己做出",
+          "method": "二分 / 有序集合+双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/17",
+          "no": "3291",
+          "name": "形成目标字符串需要的最少字符串数 I",
+          "slug": "minimum-number-of-valid-strings-to-form-target-i",
+          "difficulty": "中等",
+          "rating": 2081,
+          "situation": "没看懂答案",
+          "method": "KMP+dp / 哈希+二分 / AC自动机+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/18",
+          "no": "3292",
+          "name": "形成目标字符串需要的最少字符串数 II",
+          "slug": "minimum-number-of-valid-strings-to-form-target-ii",
+          "difficulty": "困难", 
+          "rating": 2661,
+          "situation": "没看懂答案",
+          "method": "KMP+dp / 哈希+二分 / AC自动机+dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
