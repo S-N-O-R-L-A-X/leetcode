@@ -4307,6 +4307,42 @@
           "method": "模拟/递归",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/23",
+          "no": "855",
+          "name": "考场就座",
+          "slug": "exam-room",
+          "difficulty": "中等",
+          "rating": 2067,
+          "situation": "自己做出",
+          "method": "有序集合+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/24",
+          "no": "1705",
+          "name": "吃苹果的最大数目",
+          "slug": "maximum-number-of-eaten-apples",
+          "difficulty": "中等",
+          "rating": 1929,
+          "situation": "自己做出",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/25",
+          "no": "3218",
+          "name": "切蛋糕的最小总开销 I",
+          "slug": "minimum-cost-for-cutting-cake-i",
+          "difficulty": "中等",
+          "rating": 1654,
+          "situation": "自己做出",
+          "method": "记忆化搜索/贪心+双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
