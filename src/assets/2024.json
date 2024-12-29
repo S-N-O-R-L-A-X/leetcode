@@ -4343,6 +4343,54 @@
           "method": "记忆化搜索/贪心+双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/26",
+          "no": "3083",
+          "name": "字符串及其反转中是否存在同一子字符串",
+          "slug": "existence-of-a-substring-in-a-string-and-its-reverse",
+          "difficulty": "简单",
+          "rating": 1173,
+          "situation": "自己做出",
+          "method": "模拟/哈希+位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/27",
+          "no": "3159",
+          "name": "查询数组中元素的出现位置",
+          "slug": "find-occurrences-of-an-element-in-an-array",
+          "difficulty": "中等",
+          "rating": 1262,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/28",
+          "no": "3046",
+          "name": "分割数组",
+          "slug": "split-the-array",
+          "difficulty": "简单",
+          "rating": 1212,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/29",
+          "no": "1366",
+          "name": "通过投票对团队排名",
+          "slug": "rank-teams-by-votes",
+          "difficulty": "中等",
+          "rating": 1626,
+          "situation": "自己做出",
+          "method": "排序",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
