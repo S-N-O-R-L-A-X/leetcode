@@ -4391,6 +4391,30 @@
           "method": "排序",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2024/12/30",
+          "no": "1367",
+          "name": "二叉树中的链表",
+          "slug": "linked-list-in-binary-tree",
+          "difficulty": "中等",
+          "rating": 1649,
+          "situation": "看懂答案",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2024/12/31",
+          "no": "3219",
+          "name": "切蛋糕的最小总开销 II",
+          "slug": "minimum-cost-for-cutting-cake-ii",
+          "difficulty": "困难",
+          "rating": 1789,
+          "situation": "自己做出",
+          "method": "贪心+双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
