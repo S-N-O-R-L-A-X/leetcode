@@ -1,20 +1,20 @@
 {
-  "daily": {
-    "month": [
-      [
-        {
-          "date": "2025/1/1",
-          "no": "3280",
-          "name": "将日期转换为二进制表示",
-          "slug": "convert-date-to-binary",
-          "difficulty": "简单",
-          "rating": null,
-          "situation": "",
-          "method": "",
-          "learn": "",
-          "unknown": ""
-        }
-      ]
-    ]
-  }
+	"daily": {
+		"month": [
+			[
+				{
+					"date": "2025/1/1",
+					"no": "3280",
+					"name": "将日期转换为二进制表示",
+					"slug": "convert-date-to-binary",
+					"difficulty": "简单",
+					"rating": 1205,
+					"situation": "自己做出",
+					"method": "模拟",
+					"learn": "",
+					"unknown": ""
+				}
+			]
+		]
+	}
 }
