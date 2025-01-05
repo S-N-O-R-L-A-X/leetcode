@@ -1,6 +1,7 @@
 import { DailyProps } from "./constants";
 import DailyTable from "./DailyTable";
 import PieGraph from "./components/PieGraph";
+import data2025 from "./assets/2025.json";
 import data2024 from "./assets/2024.json";
 import data2023 from "./assets/2023.json";
 import data2022 from "./assets/2022.json";
@@ -9,6 +10,7 @@ export default function MonthlyReport(props: DailyProps) {
   const { year, month, pub } = props;
   let jsonData = null;
   switch (year) {
+    case 2025: jsonData = data2025; break;
     case 2024: jsonData = data2024; break;
     case 2023: jsonData = data2023; break;
     case 2022: jsonData = data2022; break;

@@ -7,8 +7,9 @@ import MonthlyReport from './MonthlyReport';
 
 function App() {
   const [pub, setPub] = useState<boolean>(false);
-  const now_month = new Date().getMonth() + 1;
-  const now_year = new Date().getFullYear();
+  const today = new Date()
+  const now_month = today.getMonth() + 1;
+  const now_year = today.getFullYear();
   const [year, setYear] = useState<number | null>(now_year);
   const [month, setMonth] = useState<number | null>(now_month);
   const [content, setContent] = useState<boolean>(true)
@@ -31,10 +32,10 @@ function App() {
 
   return (
     <div className="App">
-      <Header changePub={changePub}/>
+      <Header changePub={changePub} />
 
       <fieldset>
-        <InputNumber className="input-number" size="small" min={2022} max={2024} defaultValue={now_year} onChange={changeYear}></InputNumber>
+        <InputNumber className="input-number" size="small" min={2022} max={now_year} defaultValue={now_year} onChange={changeYear}></InputNumber>
         <span className="input-text">年</span>
         <InputNumber className="input-number" size="small" min={1} max={12} defaultValue={now_month} onChange={changeMonth}></InputNumber>
         <span className="input-text">月</span>
