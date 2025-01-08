@@ -61,6 +61,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/6",
+          "no": "2274",
+          "name": "不含特殊楼层的最大连续楼层数",
+          "slug": "maximum-consecutive-floors-without-special-floors",
+          "difficulty": "中等",
+          "rating": 1332,
+          "situation": "自己做出",
+          "method": "排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/7",
+          "no": "3019",
+          "name": "按键变更的次数",
+          "slug": "number-of-changing-keys",
+          "difficulty": "简单",
+          "rating": 1175,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/8",
+          "no": "2264",
+          "name": "字符串中最大的 3 位相同数字",
+          "slug": "largest-3-same-digit-number-in-string",
+          "difficulty": "简单",
+          "rating": 1308,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
