@@ -97,6 +97,54 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/9",
+          "no": "3297",
+          "name": "统计重新排列后包含另一个字符串的子字符串数目 I",
+          "slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+          "difficulty": "中等",
+          "rating": 1847,
+          "situation": "自己做出",
+          "method": "哈希+二分 / 滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/10",
+          "no": "3298",
+          "name": "统计重新排列后包含另一个字符串的子字符串数目 II",
+          "slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+          "difficulty": "困难",
+          "rating": 1909,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/11",
+          "no": "3270",
+          "name": "求出数字答案",
+          "slug": "find-the-key-of-the-numbers",
+          "difficulty": "简单",
+          "rating": 1205,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/12",
+          "no": "2275",
+          "name": "按位与结果大于零的最长组合",
+          "slug": "largest-combination-with-bitwise-and-greater-than-zero",
+          "difficulty": "中等",
+          "rating": 1642,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
