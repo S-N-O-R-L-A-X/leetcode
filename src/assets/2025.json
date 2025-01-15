@@ -145,6 +145,42 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/13",
+          "no": "2270",
+          "name": "分割数组的方案数",
+          "slug": "number-of-ways-to-split-array",
+          "difficulty": "中等",
+          "rating": 1334,
+          "situation": "自己做出",
+          "method": "前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/14",
+          "no": "3065",
+          "name": "超过阈值的最少操作数 I",
+          "slug": "minimum-operations-to-exceed-threshold-value-i",
+          "difficulty": "简单",
+          "rating": 1149,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/15",
+          "no": "3066",
+          "name": "超过阈值的最少操作数 II",
+          "slug": "minimum-operations-to-exceed-threshold-value-ii",
+          "difficulty": "中等",
+          "rating": 1399,
+          "situation": "自己做出",
+          "method": "优先级队列",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
