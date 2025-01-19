@@ -181,6 +181,54 @@
           "method": "优先级队列",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/16",
+          "no": "3095",
+          "name": "或值至少 K 的最短子数组 I",
+          "slug": "shortest-subarray-with-or-at-least-k-i",
+          "difficulty": "简单",
+          "rating": 1368,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/17",
+          "no": "3097",
+          "name": "或值至少为 K 的最短子数组 II",
+          "slug": "shortest-subarray-with-or-at-least-k-ii",
+          "difficulty": "中等",
+          "rating": 1897,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/18",
+          "no": "3287",
+          "name": "求出数组中最大序列值",
+          "slug": "find-the-maximum-sequence-value-of-array",
+          "difficulty": "困难",
+          "rating": 2545,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/19",
+          "no": "2266",
+          "name": "统计打字方案数",
+          "slug": "count-number-of-texts",
+          "difficulty": "中等",
+          "rating": 1856,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
