@@ -229,6 +229,42 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/20",
+          "no": "2239",
+          "name": "找到最接近 0 的数字",
+          "slug": "find-closest-number-to-zero",
+          "difficulty": "简单",
+          "rating": 1256,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/21",
+          "no": "2218",
+          "name": "从栈中取出 K 个硬币的最大面值和",
+          "slug": "maximum-value-of-k-coins-from-piles",
+          "difficulty": "困难",
+          "rating": 2157,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/22",
+          "no": "1561",
+          "name": "你可以获得的最大硬币数目",
+          "slug": "maximum-number-of-coins-you-can-get",
+          "difficulty": "中等",
+          "rating": 1405,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
