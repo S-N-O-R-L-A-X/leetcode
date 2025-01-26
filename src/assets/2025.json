@@ -265,6 +265,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/23",
+          "no": "2920",
+          "name": "收集所有金币可获得的最大积分",
+          "slug": "maximum-points-after-collecting-coins-from-all-nodes",
+          "difficulty": "困难",
+          "rating": 2350,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/24",
+          "no": "2944",
+          "name": "购买水果需要的最少金币数",
+          "slug": "minimum-number-of-coins-for-fruits",
+          "difficulty": "中等",
+          "rating": 1708,
+          "situation": "看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/25",
+          "no": "2412",
+          "name": "完成所有交易的初始最少钱数",
+          "slug": "minimum-money-required-before-transactions",
+          "difficulty": "困难",
+          "rating": 2092,
+          "situation": "看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/26",
+          "no": "40",
+          "name": "组合总和 II",
+          "slug": "combination-sum-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
