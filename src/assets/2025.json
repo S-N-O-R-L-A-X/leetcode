@@ -313,6 +313,42 @@
           "method": "回溯",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/27",
+          "no": "45",
+          "name": "跳跃游戏 II",
+          "slug": "jump-game-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp/贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/28",
+          "no": "119",
+          "name": "杨辉三角 II",
+          "slug": "pascals-triangle-ii",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "数学/递推",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/29",
+          "no": "219",
+          "name": "存在重复元素 II",
+          "slug": "contains-duplicate-ii",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "哈希/滑动窗口",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
