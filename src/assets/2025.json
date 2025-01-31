@@ -349,6 +349,30 @@
           "method": "哈希/滑动窗口",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/1/30",
+          "no": "350",
+          "name": "两个数组的交集 II",
+          "slug": "intersection-of-two-arrays-ii",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/1/31",
+          "no": "541",
+          "name": "反转字符串 II",
+          "slug": "reverse-string-ii",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]

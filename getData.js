@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 
-const year = new Date().getFullYear(), month = new Date().getMonth();
+const year = new Date().getFullYear(), month = new Date().getMonth() - 1;
 
 fetch("https://leetcode.cn/graphql/", {
 	method: "post",
