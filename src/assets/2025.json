@@ -374,6 +374,32 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2025/2/1",
+          "no": "81",
+          "name": "搜索旋转排序数组 II",
+          "slug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟/二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/2",
+          "no": "598",
+          "name": "区间加法 II",
+          "slug": "range-addition-ii",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
