@@ -399,6 +399,42 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/3",
+          "no": "680",
+          "name": "验证回文串 II",
+          "slug": "valid-palindrome-ii",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "贪心+双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/4",
+          "no": "922",
+          "name": "按奇偶排序数组 II",
+          "slug": "sort-array-by-parity-ii",
+          "difficulty": "简单",
+          "rating": 1173,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/5",
+          "no": "90",
+          "name": "子集 II",
+          "slug": "subsets-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "位运算",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
