@@ -435,6 +435,54 @@
           "method": "位运算",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/6",
+          "no": "47",
+          "name": "全排列 II",
+          "slug": "permutations-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/7",
+          "no": "59",
+          "name": "螺旋矩阵 II",
+          "slug": "spiral-matrix-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/8",
+          "no": "63",
+          "name": "不同路径 II",
+          "slug": "unique-paths-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/9",
+          "no": "80",
+          "name": "删除有序数组中的重复项 II",
+          "slug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
