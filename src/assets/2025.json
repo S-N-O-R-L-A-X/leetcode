@@ -483,6 +483,42 @@
           "method": "双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/10",
+          "no": "913",
+          "name": "猫和老鼠",
+          "slug": "cat-and-mouse",
+          "difficulty": "困难",
+          "rating": 2566,
+          "situation": "没看懂答案",
+          "method": " 拓扑排序+dp+博弈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/11",
+          "no": "1728",
+          "name": "猫和老鼠 II",
+          "slug": "cat-and-mouse-ii",
+          "difficulty": "困难",
+          "rating": 2849,
+          "situation": "没看懂答案",
+          "method": "拓扑排序+博弈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/12",
+          "no": "1760",
+          "name": "袋子里最少数目的球",
+          "slug": "minimum-limit-of-balls-in-a-bag",
+          "difficulty": "中等",
+          "rating": 1939,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
