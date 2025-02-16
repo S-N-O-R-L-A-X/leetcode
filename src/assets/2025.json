@@ -519,6 +519,54 @@
           "method": "二分",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/13",
+          "no": "1742",
+          "name": "盒子中小球的最大数量",
+          "slug": "maximum-number-of-balls-in-a-box",
+          "difficulty": "简单",
+          "rating": 1277,
+          "situation": "自己做出",
+          "method": "哈希/数位dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/14",
+          "no": "1552",
+          "name": "两球之间的磁力",
+          "slug": "magnetic-force-between-two-balls",
+          "difficulty": "中等",
+          "rating": 1919,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/15",
+          "no": "1706",
+          "name": "球会落何处",
+          "slug": "where-will-the-ball-fall",
+          "difficulty": "中等",
+          "rating": 1764,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/16",
+          "no": "1299",
+          "name": "将每个元素替换为右侧最大元素",
+          "slug": "replace-elements-with-greatest-element-on-right-side",
+          "difficulty": "简单",
+          "rating": 1219,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
