@@ -567,6 +567,42 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/17",
+          "no": "1287",
+          "name": "有序数组中出现次数超过25%的元素",
+          "slug": "element-appearing-more-than-25-in-sorted-array",
+          "difficulty": "简单",
+          "rating": 1179,
+          "situation": "自己做出",
+          "method": "转化+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/18",
+          "no": "2080",
+          "name": "区间内查询数字的频率",
+          "slug": "range-frequency-queries",
+          "difficulty": "中等",
+          "rating": 1702,
+          "situation": "自己做出",
+          "method": "哈希+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/19",
+          "no": "624",
+          "name": "数组列表中的最大距离",
+          "slug": "maximum-distance-in-arrays",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
