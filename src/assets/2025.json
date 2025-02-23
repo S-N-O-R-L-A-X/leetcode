@@ -603,6 +603,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/20",
+          "no": "2595",
+          "name": "奇偶位数",
+          "slug": "number-of-even-and-odd-bits",
+          "difficulty": "简单",
+          "rating": 1206,
+          "situation": "自己做出",
+          "method": "位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/21",
+          "no": "2209",
+          "name": "用地毯覆盖后的最少白色砖块",
+          "slug": "minimum-white-tiles-after-covering-with-carpets",
+          "difficulty": "困难",
+          "rating": 2105,
+          "situation": "自己做出",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/22",
+          "no": "2506",
+          "name": "统计相似字符串对的数目",
+          "slug": "count-pairs-of-similar-strings",
+          "difficulty": "简单",
+          "rating": 1335,
+          "situation": "自己做出",
+          "method": "哈希表+状态压缩",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/23",
+          "no": "1206",
+          "name": "设计跳表",
+          "slug": "design-skiplist",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "跳表",
+          "learn": "跳表",
+          "unknown": ""
         }
       ]
     ]
