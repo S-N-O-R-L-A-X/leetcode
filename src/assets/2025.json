@@ -651,6 +651,42 @@
           "method": "跳表",
           "learn": "跳表",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/24",
+          "no": "1656",
+          "name": "设计有序流",
+          "slug": "design-an-ordered-stream",
+          "difficulty": "简单",
+          "rating": 1418,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/25",
+          "no": "2502",
+          "name": "设计内存分配器",
+          "slug": "design-memory-allocator",
+          "difficulty": "中等",
+          "rating": 1745,
+          "situation": "看懂答案",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/26",
+          "no": "1472",
+          "name": "设计浏览器历史记录",
+          "slug": "design-browser-history",
+          "difficulty": "中等",
+          "rating": 1453,
+          "situation": "自己做出",
+          "method": "模拟/栈",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
