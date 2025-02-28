@@ -687,6 +687,30 @@
           "method": "模拟/栈",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/2/27",
+          "no": "2296",
+          "name": "设计一个文本编辑器",
+          "slug": "design-a-text-editor",
+          "difficulty": "困难",
+          "rating": 1911,
+          "situation": "没看懂答案",
+          "method": "栈/双向链表/splay tree",
+          "learn": "Rope",
+          "unknown": ""
+        },
+        {
+          "date": "2025/2/28",
+          "no": "2353",
+          "name": "设计食物评分系统",
+          "slug": "design-a-food-rating-system",
+          "difficulty": "中等",
+          "rating": 1781,
+          "situation": "没看懂答案",
+          "method": "懒删除堆/平衡树",
+          "learn": "懒删除堆",
+          "unknown": ""
         }
       ]
     ]
