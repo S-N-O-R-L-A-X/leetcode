@@ -737,6 +737,42 @@
           "method": "记忆化搜索/dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/3/3",
+          "no": "1278",
+          "name": "分割回文串 III",
+          "slug": "palindrome-partitioning-iii",
+          "difficulty": "困难",
+          "rating": 1979,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/4",
+          "no": "1745",
+          "name": "分割回文串 IV",
+          "slug": "palindrome-partitioning-iv",
+          "difficulty": "困难",
+          "rating": 1924,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/5",
+          "no": "1328",
+          "name": "破坏回文串",
+          "slug": "break-a-palindrome",
+          "difficulty": "中等",
+          "rating": 1473,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
