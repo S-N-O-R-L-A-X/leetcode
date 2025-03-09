@@ -773,6 +773,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/3/6",
+          "no": "2588",
+          "name": "统计美丽子数组数目",
+          "slug": "count-the-number-of-beautiful-subarrays",
+          "difficulty": "中等",
+          "rating": 1696,
+          "situation": "",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/7",
+          "no": "2597",
+          "name": "美丽子集的数目",
+          "slug": "the-number-of-beautiful-subsets",
+          "difficulty": "中等",
+          "rating": 2023,
+          "situation": "自己做出",
+          "method": "回溯/dp/二进制枚举",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/8",
+          "no": "2234",
+          "name": "花园的最大总美丽值",
+          "slug": "maximum-total-beauty-of-the-gardens",
+          "difficulty": "困难",
+          "rating": 2561,
+          "situation": "排序+二分+前缀和",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/9",
+          "no": "2070",
+          "name": "每一个查询的最大美丽值",
+          "slug": "most-beautiful-item-for-each-query",
+          "difficulty": "中等",
+          "rating": 1724,
+          "situation": "自己做出",
+          "method": "排序+二分+前缀和",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
