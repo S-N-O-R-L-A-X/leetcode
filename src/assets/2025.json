@@ -781,8 +781,8 @@
           "slug": "count-the-number-of-beautiful-subarrays",
           "difficulty": "中等",
           "rating": 1696,
-          "situation": "",
-          "method": "",
+          "situation": "自己做出",
+          "method": "前缀和",
           "learn": "",
           "unknown": ""
         },
@@ -805,8 +805,8 @@
           "slug": "maximum-total-beauty-of-the-gardens",
           "difficulty": "困难",
           "rating": 2561,
-          "situation": "排序+二分+前缀和",
-          "method": "",
+          "situation": "自己做出",
+          "method": "排序+二分+前缀和",
           "learn": "",
           "unknown": ""
         },
@@ -819,6 +819,42 @@
           "rating": 1724,
           "situation": "自己做出",
           "method": "排序+二分+前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/10",
+          "no": "2269",
+          "name": "找到一个数字的 K 美丽值",
+          "slug": "find-the-k-beauty-of-a-number",
+          "difficulty": "简单",
+          "rating": 1279,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/11",
+          "no": "2012",
+          "name": "数组美丽值求和",
+          "slug": "sum-of-beauty-in-the-array",
+          "difficulty": "中等",
+          "rating": 1467,
+          "situation": "自己做出",
+          "method": "单调栈/前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/12",
+          "no": "3305",
+          "name": "元音辅音字符串计数 I",
+          "slug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+          "difficulty": "中等",
+          "rating": 1563,
+          "situation": "自己做出",
+          "method": "模拟/滑动窗口",
           "learn": "",
           "unknown": ""
         }
