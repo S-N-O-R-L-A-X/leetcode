@@ -857,6 +857,54 @@
           "method": "模拟/滑动窗口",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/3/13",
+          "no": "3306",
+          "name": "元音辅音字符串计数 II",
+          "slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+          "difficulty": "中等",
+          "rating": 2200,
+          "situation": "看懂答案",
+          "method": "转化+滑动窗口",
+          "learn": "恰好K个=最多K个-最多K-1个=最少K个-最少K+1个",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/14",
+          "no": "3340",
+          "name": "检查平衡字符串",
+          "slug": "check-balanced-string",
+          "difficulty": "简单",
+          "rating": 1190,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/15",
+          "no": "3110",
+          "name": "字符串的分数",
+          "slug": "score-of-a-string",
+          "difficulty": "简单",
+          "rating": 1152,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/16",
+          "no": "2272",
+          "name": "最大波动的子字符串",
+          "slug": "substring-with-largest-variance",
+          "difficulty": "困难",
+          "rating": 2515,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
