@@ -905,6 +905,42 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/3/17",
+          "no": "1963",
+          "name": "使字符串平衡的最小交换次数",
+          "slug": "minimum-number-of-swaps-to-make-the-string-balanced",
+          "difficulty": "中等",
+          "rating": 1688,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/18",
+          "no": "2614",
+          "name": "对角线上的质数",
+          "slug": "prime-in-diagonal",
+          "difficulty": "简单",
+          "rating": 1375,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/19",
+          "no": "2610",
+          "name": "转换二维数组",
+          "slug": "convert-an-array-into-a-2d-array-with-conditions",
+          "difficulty": "中等",
+          "rating": 1373,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
