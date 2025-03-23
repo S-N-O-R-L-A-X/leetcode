@@ -941,6 +941,54 @@
           "method": "哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/3/20",
+          "no": "2612",
+          "name": "最少翻转操作数",
+          "slug": "minimum-reverse-operations",
+          "difficulty": "困难",
+          "rating": 2824,
+          "situation": "没看懂答案",
+          "method": "bfs+平衡树/有序集合",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/21",
+          "no": "2680",
+          "name": "最大或值",
+          "slug": "maximum-or",
+          "difficulty": "中等",
+          "rating": 1912,
+          "situation": "看懂答案",
+          "method": "贪心+前缀和 / 位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/22",
+          "no": "2643",
+          "name": "一最多的行",
+          "slug": "row-with-maximum-ones",
+          "difficulty": "简单",
+          "rating": 1174,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/23",
+          "no": "2116",
+          "name": "判断一个括号字符串是否有效",
+          "slug": "check-if-a-parentheses-string-can-be-valid",
+          "difficulty": "中等",
+          "rating": 2037,
+          "situation": "没看懂答案",
+          "method": "转化+数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
