@@ -989,6 +989,42 @@
           "method": "转化+数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/3/24",
+          "no": "2255",
+          "name": "统计是给定字符串前缀的字符串数目",
+          "slug": "count-prefixes-of-a-given-string",
+          "difficulty": "简单",
+          "rating": 1260,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/25",
+          "no": "2711",
+          "name": "对角线上不同值的数量差",
+          "slug": "difference-of-number-of-distinct-values-on-diagonals",
+          "difficulty": "中等",
+          "rating": 1428,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/26",
+          "no": "2829",
+          "name": "k-avoiding 数组的最小总和",
+          "slug": "determine-the-minimum-sum-of-a-k-avoiding-array",
+          "difficulty": "中等",
+          "rating": 1347,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
