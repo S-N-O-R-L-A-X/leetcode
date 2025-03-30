@@ -998,7 +998,7 @@
           "difficulty": "简单",
           "rating": 1260,
           "situation": "自己做出",
-          "method": "",
+          "method": "模拟",
           "learn": "",
           "unknown": ""
         },
@@ -1023,6 +1023,54 @@
           "rating": 1347,
           "situation": "自己做出",
           "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/27",
+          "no": "2712",
+          "name": "使所有字符相等的最小成本",
+          "slug": "minimum-cost-to-make-all-characters-equal",
+          "difficulty": "中等",
+          "rating": 1791,
+          "situation": "看懂答案",
+          "method": "dp/转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/28",
+          "no": "2716",
+          "name": "最小化字符串长度",
+          "slug": "minimize-string-length",
+          "difficulty": "简单",
+          "rating": 1242,
+          "situation": "自己做出",
+          "method": "哈希/位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/29",
+          "no": "2360",
+          "name": "图中的最长环",
+          "slug": "longest-cycle-in-a-graph",
+          "difficulty": "困难",
+          "rating": 1897,
+          "situation": "自己做出",
+          "method": "拓扑排序+哈希表/并查集",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/3/30",
+          "no": "2109",
+          "name": "向字符串添加空格",
+          "slug": "adding-spaces-to-a-string",
+          "difficulty": "中等",
+          "rating": 1315,
+          "situation": "自己做出",
+          "method": "模拟/双指针",
           "learn": "",
           "unknown": ""
         }
