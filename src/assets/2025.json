@@ -1073,6 +1073,18 @@
           "method": "模拟/双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/3/31",
+          "no": "2278",
+          "name": "字母在字符串中的百分比",
+          "slug": "percentage-of-letter-in-string",
+          "difficulty": "简单",
+          "rating": 1161,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
