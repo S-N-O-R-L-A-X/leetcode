@@ -1159,6 +1159,42 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/4/7",
+          "no": "416",
+          "name": "分割等和子集",
+          "slug": "partition-equal-subset-sum",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/8",
+          "no": "3396",
+          "name": "使数组元素互不相同所需的最少操作次数",
+          "slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+          "difficulty": "简单",
+          "rating": 1299,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/9",
+          "no": "3375",
+          "name": "使数组的值全部为 K 的最少操作次数",
+          "slug": "minimum-operations-to-make-array-values-equal-to-k",
+          "difficulty": "简单",
+          "rating": 1382,
+          "situation": "自己做出",
+          "method": "转化+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
