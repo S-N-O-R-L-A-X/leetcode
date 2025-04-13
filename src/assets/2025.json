@@ -1195,6 +1195,54 @@
           "method": "转化+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/4/10",
+          "no": "2999",
+          "name": "统计强大整数的数目",
+          "slug": "count-the-number-of-powerful-integers",
+          "difficulty": "困难",
+          "rating": 2351,
+          "situation": "没看懂答案",
+          "method": "数位dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/11",
+          "no": "2843",
+          "name": "统计对称整数的数目",
+          "slug": "count-symmetric-integers",
+          "difficulty": "简单",
+          "rating": 1269,
+          "situation": "自己做出",
+          "method": "模拟/数位dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/12",
+          "no": "3272",
+          "name": "统计好整数的数目",
+          "slug": "find-the-count-of-good-integers",
+          "difficulty": "困难",
+          "rating": 2382,
+          "situation": "没看懂答案",
+          "method": "数位dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/13",
+          "no": "1922",
+          "name": "统计好数字的数目",
+          "slug": "count-good-numbers",
+          "difficulty": "中等",
+          "rating": 1674,
+          "situation": "自己做出",
+          "method": "数学+快速幂",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
