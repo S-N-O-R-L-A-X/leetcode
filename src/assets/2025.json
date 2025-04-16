@@ -1243,6 +1243,42 @@
           "method": "数学+快速幂",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/4/14",
+          "no": "1534",
+          "name": "统计好三元组",
+          "slug": "count-good-triplets",
+          "difficulty": "简单",
+          "rating": 1279,
+          "situation": "自己做出",
+          "method": "模拟/前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/15",
+          "no": "2179",
+          "name": "统计数组中好三元组数目",
+          "slug": "count-good-triplets-in-an-array",
+          "difficulty": "困难",
+          "rating": 2272,
+          "situation": "没看懂答案",
+          "method": "树状数组",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/16",
+          "no": "2537",
+          "name": "统计好子数组的数目",
+          "slug": "count-the-number-of-good-subarrays",
+          "difficulty": "中等",
+          "rating": 1891,
+          "situation": "自己做出",
+          "method": "双指针+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
