@@ -1279,6 +1279,54 @@
           "method": "双指针+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/4/17",
+          "no": "2176",
+          "name": "统计数组中相等且可以被整除的数对",
+          "slug": "count-equal-and-divisible-pairs-in-an-array",
+          "difficulty": "简单",
+          "rating": 1215,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/18",
+          "no": "2364",
+          "name": "统计坏数对的数目",
+          "slug": "count-number-of-bad-pairs",
+          "difficulty": "中等",
+          "rating": 1622,
+          "situation": "看思路写出",
+          "method": "转化+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/19",
+          "no": "2563",
+          "name": "统计公平数对的数目",
+          "slug": "count-the-number-of-fair-pairs",
+          "difficulty": "中等",
+          "rating": 1720,
+          "situation": "看思路写出",
+          "method": "转化+排序+二分查找",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/20",
+          "no": "781",
+          "name": "森林中的兔子",
+          "slug": "rabbits-in-forest",
+          "difficulty": "中等",
+          "rating": 1453,
+          "situation": "自己做出",
+          "method": "转化+贪心+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
