@@ -1327,6 +1327,42 @@
           "method": "转化+贪心+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/4/21",
+          "no": "2145",
+          "name": "统计隐藏数组数目",
+          "slug": "count-the-hidden-sequences",
+          "difficulty": "中等",
+          "rating": 1614,
+          "situation": "看懂答案",
+          "method": "差分+数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/22",
+          "no": "2338",
+          "name": "统计理想数组的数目",
+          "slug": "count-the-number-of-ideal-arrays",
+          "difficulty": "困难",
+          "rating": 2615,
+          "situation": "没看懂答案",
+          "method": "数学+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/23",
+          "no": "1399",
+          "name": "统计最大组的数目",
+          "slug": "count-largest-group",
+          "difficulty": "简单",
+          "rating": 1341,
+          "situation": "自己做出",
+          "method": "模拟+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
