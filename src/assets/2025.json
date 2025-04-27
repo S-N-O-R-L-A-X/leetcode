@@ -1363,6 +1363,54 @@
           "method": "模拟+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/4/24",
+          "no": "2799",
+          "name": "统计完全子数组的数目",
+          "slug": "count-complete-subarrays-in-an-array",
+          "difficulty": "中等",
+          "rating": 1399,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/25",
+          "no": "2845",
+          "name": "统计趣味子数组的数目",
+          "slug": "count-of-interesting-subarrays",
+          "difficulty": "中等",
+          "rating": 2073,
+          "situation": "自己做出",
+          "method": "哈希表+前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/26",
+          "no": "2444",
+          "name": "统计定界子数组的数目",
+          "slug": "count-subarrays-with-fixed-bounds",
+          "difficulty": "困难",
+          "rating": 2092,
+          "situation": "看思路写出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/27",
+          "no": "3392",
+          "name": "统计符合条件长度为 3 的子数组数目",
+          "slug": "count-subarrays-of-length-three-with-a-condition",
+          "difficulty": "简单",
+          "rating": 1200,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
