@@ -1411,6 +1411,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/4/28",
+          "no": "2302",
+          "name": "统计得分小于 K 的子数组数目",
+          "slug": "count-subarrays-with-score-less-than-k",
+          "difficulty": "困难",
+          "rating": 1808,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/29",
+          "no": "2962",
+          "name": "统计最大元素出现至少 K 次的子数组",
+          "slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+          "difficulty": "中等",
+          "rating": 1700,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/4/30",
+          "no": "1295",
+          "name": "统计位数为偶数的数字",
+          "slug": "find-numbers-with-even-number-of-digits",
+          "difficulty": "简单",
+          "rating": 1139,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
