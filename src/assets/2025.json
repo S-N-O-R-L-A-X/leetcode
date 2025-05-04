@@ -1448,6 +1448,56 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2025/5/1",
+          "no": "2071",
+          "name": "你可以安排的最多任务数目",
+          "slug": "maximum-number-of-tasks-you-can-assign",
+          "difficulty": "困难",
+          "rating": 2648,
+          "situation": "没看懂答案",
+          "method": "贪心+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/2",
+          "no": "838",
+          "name": "推多米诺",
+          "slug": "push-dominoes",
+          "difficulty": "中等",
+          "rating": 1638,
+          "situation": "自己做出",
+          "method": "bfs/模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/3",
+          "no": "1007",
+          "name": "行相等的最少多米诺旋转",
+          "slug": "minimum-domino-rotations-for-equal-row",
+          "difficulty": "中等",
+          "rating": 1541,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/4",
+          "no": "1128",
+          "name": "等价多米诺骨牌对的数量",
+          "slug": "number-of-equivalent-domino-pairs",
+          "difficulty": "简单",
+          "rating": 1332,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
