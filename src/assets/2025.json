@@ -1533,6 +1533,54 @@
           "method": "迪杰斯特拉",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/5/8",
+          "no": "3342",
+          "name": "到达最后一个房间的最少时间 II",
+          "slug": "find-minimum-time-to-reach-last-room-ii",
+          "difficulty": "中等",
+          "rating": 1861,
+          "situation": "没看懂答案",
+          "method": "迪杰斯特拉",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/9",
+          "no": "3343",
+          "name": "统计平衡排列的数目",
+          "slug": "count-number-of-balanced-permutations",
+          "difficulty": "困难",
+          "rating": 2614,
+          "situation": "记忆化搜索/dp + 数学",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/10",
+          "no": "2918",
+          "name": "数组的最小相等和",
+          "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+          "difficulty": "中等",
+          "rating": 1526,
+          "situation": "自己做出",
+          "method": "分类讨论",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/11",
+          "no": "1550",
+          "name": "存在连续三个奇数的数组",
+          "slug": "three-consecutive-odds",
+          "difficulty": "简单",
+          "rating": 1221,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
