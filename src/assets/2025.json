@@ -1581,6 +1581,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/5/12",
+          "no": "2094",
+          "name": "找出 3 位偶数",
+          "slug": "finding-3-digit-even-numbers",
+          "difficulty": "简单",
+          "rating": 1454,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/13",
+          "no": "3335",
+          "name": "字符串转换后的长度 I",
+          "slug": "total-characters-in-string-after-transformations-i",
+          "difficulty": "中等",
+          "rating": 1806,
+          "situation": "自己做出",
+          "method": "dp（+快速幂）",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/14",
+          "no": "3337",
+          "name": "字符串转换后的长度 II",
+          "slug": "total-characters-in-string-after-transformations-ii",
+          "difficulty": "困难",
+          "rating": 2411,
+          "situation": "没看懂答案",
+          "method": "dp+快速幂",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
