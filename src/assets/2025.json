@@ -1665,6 +1665,42 @@
           "method": "dp/记忆化搜索 + 状态压缩",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/5/19",
+          "no": "3024",
+          "name": "三角形类型",
+          "slug": "type-of-triangle",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/20",
+          "no": "3355",
+          "name": "零数组变换 I",
+          "slug": "zero-array-transformation-i",
+          "difficulty": "中等",
+          "rating": 1591,
+          "situation": "自己做出",
+          "method": "差分/线段树",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/21",
+          "no": "3356",
+          "name": "零数组变换 II",
+          "slug": "zero-array-transformation-ii",
+          "difficulty": "中等",
+          "rating": 1913,
+          "situation": "看懂答案",
+          "method": "差分+二分 / 线段树",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
