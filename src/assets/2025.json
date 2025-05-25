@@ -1701,6 +1701,54 @@
           "method": "差分+二分 / 线段树",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/5/22",
+          "no": "3362",
+          "name": "零数组变换 III",
+          "slug": "zero-array-transformation-iii",
+          "difficulty": "中等",
+          "rating": 2423,
+          "situation": "没看懂答案",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/23",
+          "no": "3068",
+          "name": "最大节点价值之和",
+          "slug": "find-the-maximum-sum-of-node-values",
+          "difficulty": "困难",
+          "rating": 2267,
+          "situation": "没看懂答案",
+          "method": "贪心/树形dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/24",
+          "no": "2942",
+          "name": "查找包含给定字符的单词",
+          "slug": "find-words-containing-character",
+          "difficulty": "简单",
+          "rating": 1182,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/25",
+          "no": "2131",
+          "name": "连接两字母单词得到的最长回文串",
+          "slug": "longest-palindrome-by-concatenating-two-letter-words",
+          "difficulty": "中等",
+          "rating": 1556,
+          "situation": "自己做出",
+          "method": "贪心+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
