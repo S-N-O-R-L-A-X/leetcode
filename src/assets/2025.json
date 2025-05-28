@@ -1749,6 +1749,42 @@
           "method": "贪心+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/5/26",
+          "no": "1857",
+          "name": "有向图中最大颜色值",
+          "slug": "largest-color-value-in-a-directed-graph",
+          "difficulty": "困难",
+          "rating": 2312,
+          "situation": "没看懂答案",
+          "method": "拓扑排序+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/27",
+          "no": "2894",
+          "name": "分类求和并作差",
+          "slug": "divisible-and-non-divisible-sums-difference",
+          "difficulty": "简单",
+          "rating": 1140,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/28",
+          "no": "3372",
+          "name": "连接两棵树后最大目标节点数目 I",
+          "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+          "difficulty": "中等",
+          "rating": 1926,
+          "situation": "没看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
