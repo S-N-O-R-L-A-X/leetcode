@@ -1785,6 +1785,42 @@
           "method": "dfs",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/5/29",
+          "no": "3373",
+          "name": "连接两棵树后最大目标节点数目 II",
+          "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+          "difficulty": "困难",
+          "rating": 2161,
+          "situation": "没看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/30",
+          "no": "2359",
+          "name": "找到离给定两个节点最近的节点",
+          "slug": "find-closest-node-to-given-two-nodes",
+          "difficulty": "中等",
+          "rating": 1714,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/5/31",
+          "no": "909",
+          "name": "蛇梯棋",
+          "slug": "snakes-and-ladders",
+          "difficulty": "中等",
+          "rating": 2019,
+          "situation": "自己做出",
+          "method": "bfs+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
