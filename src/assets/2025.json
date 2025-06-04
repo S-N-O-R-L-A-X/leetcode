@@ -1835,6 +1835,42 @@
           "method": "数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/2",
+          "no": "135",
+          "name": "分发糖果",
+          "slug": "candy",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "转化/拓扑排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/3",
+          "no": "1298",
+          "name": "你能从盒子里获得的最大糖果数",
+          "slug": "maximum-candies-you-can-get-from-boxes",
+          "difficulty": "困难",
+          "rating": 1824,
+          "situation": "自己做出",
+          "method": "bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/4",
+          "no": "3403",
+          "name": "从盒子中找出字典序最大的字符串 I",
+          "slug": "find-the-lexicographically-largest-string-from-the-box-i",
+          "difficulty": "中等",
+          "rating": 1761,
+          "situation": "自己做出",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
