@@ -1871,6 +1871,54 @@
           "method": "双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/5",
+          "no": "1061",
+          "name": "按字典序排列最小的等效字符串",
+          "slug": "lexicographically-smallest-equivalent-string",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "并查集",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/6",
+          "no": "2434",
+          "name": "使用机器人打印字典序最小的字符串",
+          "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+          "difficulty": "中等",
+          "rating": 1953,
+          "situation": "看懂答案",
+          "method": "贪心+栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/7",
+          "no": "3170",
+          "name": "删除星号以后字典序最小的字符串",
+          "slug": "lexicographically-minimum-string-after-removing-stars",
+          "difficulty": "中等",
+          "rating": 1772,
+          "situation": "自己做出",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/8",
+          "no": "386",
+          "name": "字典序排数",
+          "slug": "lexicographical-numbers",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
