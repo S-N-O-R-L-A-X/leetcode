@@ -1919,6 +1919,42 @@
           "method": "dfs",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/9",
+          "no": "440",
+          "name": "字典序的第K小数字",
+          "slug": "k-th-smallest-in-lexicographical-order",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/10",
+          "no": "3442",
+          "name": "奇偶频次间的最大差值 I",
+          "slug": "maximum-difference-between-even-and-odd-frequency-i",
+          "difficulty": "简单",
+          "rating": 1220,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/11",
+          "no": "3445",
+          "name": "奇偶频次间的最大差值 II",
+          "slug": "maximum-difference-between-even-and-odd-frequency-ii",
+          "difficulty": "困难",
+          "rating": 2693,
+          "situation": "没看懂答案",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
