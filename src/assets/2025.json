@@ -1955,6 +1955,54 @@
           "method": "双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/12",
+          "no": "3423",
+          "name": "循环数组中相邻元素的最大差值",
+          "slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+          "difficulty": "简单",
+          "rating": 1184,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/13",
+          "no": "2616",
+          "name": "最小化数对的最大差值",
+          "slug": "minimize-the-maximum-difference-of-pairs",
+          "difficulty": "中等",
+          "rating": 2155,
+          "situation": "自己做出",
+          "method": "二分+贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/14",
+          "no": "2566",
+          "name": "替换一个数字后的最大差值",
+          "slug": "maximum-difference-by-remapping-a-digit",
+          "difficulty": "简单",
+          "rating": 1396,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/15",
+          "no": "1432",
+          "name": "改变一个整数能得到的最大差值",
+          "slug": "max-difference-you-can-get-from-changing-an-integer",
+          "difficulty": "中等",
+          "rating": 1426,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
