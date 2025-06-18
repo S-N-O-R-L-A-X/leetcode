@@ -2003,6 +2003,42 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/16",
+          "no": "2016",
+          "name": "增量元素之间的最大差值",
+          "slug": "maximum-difference-between-increasing-elements",
+          "difficulty": "简单",
+          "rating": 1246,
+          "situation": "自己做出",
+          "method": "模拟/前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/17",
+          "no": "3405",
+          "name": "统计恰好有 K 个相等相邻元素的数组数目",
+          "slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+          "difficulty": "困难",
+          "rating": 2309,
+          "situation": "没看懂答案",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/18",
+          "no": "2966",
+          "name": "划分数组并满足最大差限制",
+          "slug": "divide-array-into-arrays-with-max-difference",
+          "difficulty": "中等",
+          "rating": 1395,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
