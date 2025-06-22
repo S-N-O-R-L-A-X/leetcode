@@ -2039,6 +2039,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/19",
+          "no": "2294",
+          "name": "划分数组使最大差为 K",
+          "slug": "partition-array-such-that-maximum-difference-is-k",
+          "difficulty": "中等",
+          "rating": 1416,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/20",
+          "no": "3443",
+          "name": "K 次修改后的最大曼哈顿距离",
+          "slug": "maximum-manhattan-distance-after-k-changes",
+          "difficulty": "中等",
+          "rating": 1855,
+          "situation": "看思路写出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/21",
+          "no": "3085",
+          "name": "成为 K 特殊字符串需要删除的最少字符数",
+          "slug": "minimum-deletions-to-make-string-k-special",
+          "difficulty": "中等",
+          "rating": 1764,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/22",
+          "no": "2138",
+          "name": "将字符串拆分为若干长度为 k 的组",
+          "slug": "divide-a-string-into-groups-of-size-k",
+          "difficulty": "简单",
+          "rating": 1273,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
