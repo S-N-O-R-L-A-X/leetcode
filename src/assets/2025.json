@@ -2087,6 +2087,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/23",
+          "no": "2081",
+          "name": "k 镜像数字的和",
+          "slug": "sum-of-k-mirror-numbers",
+          "difficulty": "困难",
+          "rating": 2209,
+          "situation": "没看懂答案",
+          "method": "枚举回文数",
+          "learn": "枚举回文数",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/24",
+          "no": "2200",
+          "name": "找出数组中的所有 K 近邻下标",
+          "slug": "find-all-k-distant-indices-in-an-array",
+          "difficulty": "简单",
+          "rating": 1266,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/25",
+          "no": "2040",
+          "name": "两个有序数组的第 K 小乘积",
+          "slug": "kth-smallest-product-of-two-sorted-arrays",
+          "difficulty": "困难",
+          "rating": 2517,
+          "situation": "没看懂答案",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
