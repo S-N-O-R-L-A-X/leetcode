@@ -2123,6 +2123,54 @@
           "method": "二分",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/26",
+          "no": "2311",
+          "name": "小于等于 K 的最长二进制子序列",
+          "slug": "longest-binary-subsequence-less-than-or-equal-to-k",
+          "difficulty": "中等",
+          "rating": 1839,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/27",
+          "no": "2014",
+          "name": "重复 K 次的最长子序列",
+          "slug": "longest-subsequence-repeated-k-times",
+          "difficulty": "困难",
+          "rating": 2558,
+          "situation": "没看懂答案",
+          "method": "回溯/自动机",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/28",
+          "no": "2099",
+          "name": "找到和最大的长度为 K 的子序列",
+          "slug": "find-subsequence-of-length-k-with-the-largest-sum",
+          "difficulty": "简单",
+          "rating": 1447,
+          "situation": "自己做出",
+          "method": "排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/6/29",
+          "no": "1498",
+          "name": "满足条件的子序列数目",
+          "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+          "difficulty": "中等",
+          "rating": 2276,
+          "situation": "自己做出",
+          "method": "排序+双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
