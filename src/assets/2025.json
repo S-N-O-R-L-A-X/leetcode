@@ -2171,6 +2171,18 @@
           "method": "排序+双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/6/30",
+          "no": "594",
+          "name": "最长和谐子序列",
+          "slug": "longest-harmonious-subsequence",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
