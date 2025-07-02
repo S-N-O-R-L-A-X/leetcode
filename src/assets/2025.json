@@ -2179,8 +2179,34 @@
           "slug": "longest-harmonious-subsequence",
           "difficulty": "简单",
           "rating": null,
-          "situation": "",
-          "method": "",
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        }
+      ],
+      [
+        {
+          "date": "2025/7/1",
+          "no": "3330",
+          "name": "找到初始输入字符串 I",
+          "slug": "find-the-original-typed-string-i",
+          "difficulty": "简单",
+          "rating": 1338,
+          "situation": "自己做出",
+          "method": "模拟/转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/2",
+          "no": "3333",
+          "name": "找到初始输入字符串 II",
+          "slug": "find-the-original-typed-string-ii",
+          "difficulty": "困难",
+          "rating": 2628,
+          "situation": "没看懂答案",
+          "method": "dp+前缀和",
           "learn": "",
           "unknown": ""
         }
