@@ -2209,6 +2209,54 @@
           "method": "dp+前缀和",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/3",
+          "no": "3304",
+          "name": "找出第 K 个字符 I",
+          "slug": "find-the-k-th-character-in-string-game-i",
+          "difficulty": "简单",
+          "rating": 1288,
+          "situation": "自己做出",
+          "method": "模拟/递归/转化+位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/4",
+          "no": "3307",
+          "name": "找出第 K 个字符 II",
+          "slug": "find-the-k-th-character-in-string-game-ii",
+          "difficulty": "困难",
+          "rating": 2232,
+          "situation": "看懂答案",
+          "method": "转化+位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/5",
+          "no": "1394",
+          "name": "找出数组中的幸运数",
+          "slug": "find-lucky-integer-in-an-array",
+          "difficulty": "简单",
+          "rating": 1118,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/6",
+          "no": "1865",
+          "name": "找出和为指定值的下标对",
+          "slug": "finding-pairs-with-a-certain-sum",
+          "difficulty": "中等",
+          "rating": 1680,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
