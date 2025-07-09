@@ -2257,6 +2257,42 @@
           "method": "哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/7",
+          "no": "1353",
+          "name": "最多可以参加的会议数目",
+          "slug": "maximum-number-of-events-that-can-be-attended",
+          "difficulty": "中等",
+          "rating": 2015,
+          "situation": "看懂答案",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/8",
+          "no": "1751",
+          "name": "最多可以参加的会议数目 II",
+          "slug": "maximum-number-of-events-that-can-be-attended-ii",
+          "difficulty": "困难",
+          "rating": 2040,
+          "situation": "没看懂答案",
+          "method": "dp+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/9",
+          "no": "3439",
+          "name": "重新安排会议得到最多空余时间 I",
+          "slug": "reschedule-meetings-for-maximum-free-time-i",
+          "difficulty": "中等",
+          "rating": 1728,
+          "situation": "看懂答案",
+          "method": "贪心+前缀和/滑动窗口",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
