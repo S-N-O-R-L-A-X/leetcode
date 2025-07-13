@@ -2293,6 +2293,54 @@
           "method": "贪心+前缀和/滑动窗口",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/10",
+          "no": "3440",
+          "name": "重新安排会议得到最多空余时间 II",
+          "slug": "reschedule-meetings-for-maximum-free-time-ii",
+          "difficulty": "中等",
+          "rating": 1997,
+          "situation": "没看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/11",
+          "no": "3169",
+          "name": "无需开会的工作日",
+          "slug": "count-days-without-meetings",
+          "difficulty": "中等",
+          "rating": 1483,
+          "situation": "自己做出",
+          "method": "区间合并",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/12",
+          "no": "1900",
+          "name": "最佳运动员的比拼回合",
+          "slug": "the-earliest-and-latest-rounds-where-players-compete",
+          "difficulty": "困难",
+          "rating": 2454,
+          "situation": "没看懂答案",
+          "method": "dp/记忆化搜索/贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/13",
+          "no": "2410",
+          "name": "运动员和训练师的最大匹配数",
+          "slug": "maximum-matching-of-players-with-trainers",
+          "difficulty": "中等",
+          "rating": 1381,
+          "situation": "自己做出",
+          "method": "排序+双指针",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
