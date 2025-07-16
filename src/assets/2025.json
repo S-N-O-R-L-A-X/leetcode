@@ -2341,6 +2341,42 @@
           "method": "排序+双指针",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/14",
+          "no": "1290",
+          "name": "二进制链表转整数",
+          "slug": "convert-binary-number-in-a-linked-list-to-integer",
+          "difficulty": "简单",
+          "rating": 1151,
+          "situation": "自己做出",
+          "method": "链表",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/15",
+          "no": "3136",
+          "name": "有效单词",
+          "slug": "valid-word",
+          "difficulty": "简单",
+          "rating": 1249,
+          "situation": "自己做出",
+          "method": "模拟/正则",
+          "learn": "正则匹配",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/16",
+          "no": "3201",
+          "name": "找出有效子序列的最大长度 I",
+          "slug": "find-the-maximum-length-of-valid-subsequence-i",
+          "difficulty": "中等",
+          "rating": 1663,
+          "situation": "自己做出",
+          "method": "dp/贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
