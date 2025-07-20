@@ -2377,6 +2377,54 @@
           "method": "dp/贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/17",
+          "no": "3202",
+          "name": "找出有效子序列的最大长度 II",
+          "slug": "find-the-maximum-length-of-valid-subsequence-ii",
+          "difficulty": "中等",
+          "rating": 1973,
+          "situation": "看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/18",
+          "no": "2163",
+          "name": "删除元素后和的最小差值",
+          "slug": "minimum-difference-in-sums-after-removal-of-elements",
+          "difficulty": "困难",
+          "rating": 2225,
+          "situation": "没看懂答案",
+          "method": "优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/19",
+          "no": "1233",
+          "name": "删除子文件夹",
+          "slug": "remove-sub-folders-from-the-filesystem",
+          "difficulty": "中等",
+          "rating": 1544,
+          "situation": "看懂答案",
+          "method": "贪心/字典树",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/20",
+          "no": "1948",
+          "name": "删除系统中的重复文件夹",
+          "slug": "delete-duplicate-folders-in-system",
+          "difficulty": "困难",
+          "rating": 2533,
+          "situation": "没看懂答案",
+          "method": "字典树",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
