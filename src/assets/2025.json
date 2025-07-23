@@ -2425,6 +2425,42 @@
           "method": "字典树",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/21",
+          "no": "1957",
+          "name": "删除字符使字符串变好",
+          "slug": "delete-characters-to-make-fancy-string",
+          "difficulty": "简单",
+          "rating": 1357,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/22",
+          "no": "1695",
+          "name": "删除子数组的最大得分",
+          "slug": "maximum-erasure-value",
+          "difficulty": "中等",
+          "rating": 1528,
+          "situation": "自己做出",
+          "method": "哈希表+前缀和/滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/23",
+          "no": "1717",
+          "name": "删除子字符串的最大得分",
+          "slug": "maximum-score-from-removing-substrings",
+          "difficulty": "中等",
+          "rating": 1867,
+          "situation": "自己做出",
+          "method": "贪心+栈",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
