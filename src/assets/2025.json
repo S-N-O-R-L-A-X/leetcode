@@ -2461,6 +2461,54 @@
           "method": "贪心+栈",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/24",
+          "no": "2322",
+          "name": "从树中删除边的最小分数",
+          "slug": "minimum-score-after-removals-on-a-tree",
+          "difficulty": "困难",
+          "rating": 2391,
+          "situation": "没看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/25",
+          "no": "3487",
+          "name": "删除后的最大子数组元素和",
+          "slug": "maximum-unique-subarray-sum-after-deletion",
+          "difficulty": "简单",
+          "rating": 1399,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/26",
+          "no": "3480",
+          "name": "删除一个冲突对后最大子数组数目",
+          "slug": "maximize-subarrays-after-removing-one-conflicting-pair",
+          "difficulty": "困难",
+          "rating": 2763,
+          "situation": "没看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/27",
+          "no": "2210",
+          "name": "统计数组中峰和谷的数量",
+          "slug": "count-hills-and-valleys-in-an-array",
+          "difficulty": "简单",
+          "rating": 1354,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
