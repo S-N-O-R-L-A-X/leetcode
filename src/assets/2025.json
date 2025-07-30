@@ -2509,6 +2509,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/28",
+          "no": "2044",
+          "name": "统计按位或能得到最大值的子集数目",
+          "slug": "count-number-of-maximum-bitwise-or-subsets",
+          "difficulty": "中等",
+          "rating": 1567,
+          "situation": "自己做出",
+          "method": "位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/29",
+          "no": "2411",
+          "name": "按位或最大的最小子数组长度",
+          "slug": "smallest-subarrays-with-maximum-bitwise-or",
+          "difficulty": "中等",
+          "rating": 1938,
+          "situation": "自己做出",
+          "method": "位运算+滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/7/30",
+          "no": "2419",
+          "name": "按位与最大的最长子数组",
+          "slug": "longest-subarray-with-maximum-bitwise-and",
+          "difficulty": "中等",
+          "rating": 1495,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
