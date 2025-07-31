@@ -2545,6 +2545,18 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/7/31",
+          "no": "2683",
+          "name": "相邻值的按位异或",
+          "slug": "neighboring-bitwise-xor",
+          "difficulty": "中等",
+          "rating": 1517,
+          "situation": "自己做出",
+          "method": "位运算",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
