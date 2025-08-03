@@ -2558,6 +2558,44 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2025/8/1",
+          "no": "118",
+          "name": "杨辉三角",
+          "slug": "pascals-triangle",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/2",
+          "no": "2561",
+          "name": "重排水果",
+          "slug": "rearranging-fruits",
+          "difficulty": "困难",
+          "rating": 2222,
+          "situation": "自己做出",
+          "method": "转化+贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/3",
+          "no": "2106",
+          "name": "摘水果",
+          "slug": "maximum-fruits-harvested-after-at-most-k-steps",
+          "difficulty": "困难",
+          "rating": 2062,
+          "situation": "自己做出",
+          "method": "前缀和+滑动窗口/二分查找",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
