@@ -2595,6 +2595,42 @@
           "method": "前缀和+滑动窗口/二分查找",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/8/4",
+          "no": "904",
+          "name": "水果成篮",
+          "slug": "fruit-into-baskets",
+          "difficulty": "中等",
+          "rating": 1516,
+          "situation": "自己做出",
+          "method": "滑动窗口+哈希表",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/5",
+          "no": "3477",
+          "name": "水果成篮 II",
+          "slug": "fruits-into-baskets-ii",
+          "difficulty": "简单",
+          "rating": 1296,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/6",
+          "no": "3479",
+          "name": "水果成篮 III",
+          "slug": "fruits-into-baskets-iii",
+          "difficulty": "中等",
+          "rating": 2178,
+          "situation": "没看懂答案",
+          "method": "分块/ 线段树+二分",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
