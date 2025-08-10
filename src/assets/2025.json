@@ -2631,6 +2631,54 @@
           "method": "分块/ 线段树+二分",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/8/7",
+          "no": "3363",
+          "name": "最多可收集的水果数目",
+          "slug": "find-the-maximum-number-of-fruits-collected",
+          "difficulty": "困难",
+          "rating": 2404,
+          "situation": "自己做出",
+          "method": "转化+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/8",
+          "no": "808",
+          "name": "分汤",
+          "slug": "soup-servings",
+          "difficulty": "中等",
+          "rating": 2397,
+          "situation": "看懂答案",
+          "method": "数学+dp/记忆化搜索",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/9",
+          "no": "231",
+          "name": "2 的幂",
+          "slug": "power-of-two",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "数学/位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/10",
+          "no": "869",
+          "name": "重新排序得到 2 的幂",
+          "slug": "reordered-power-of-2",
+          "difficulty": "中等",
+          "rating": 1505,
+          "situation": "自己做出",
+          "method": "位运算+dfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
