@@ -2679,6 +2679,42 @@
           "method": "位运算+dfs",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/8/11",
+          "no": "2438",
+          "name": "二的幂数组中查询范围内的乘积",
+          "slug": "range-product-queries-of-powers",
+          "difficulty": "中等",
+          "rating": 1610,
+          "situation": "自己做出",
+          "method": "数学+前缀和（+快速幂）",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/12",
+          "no": "2787",
+          "name": "将一个数字表示成幂的和的方案数",
+          "slug": "ways-to-express-an-integer-as-sum-of-powers",
+          "difficulty": "中等",
+          "rating": 1818,
+          "situation": "看懂答案",
+          "method": "dp",
+          "learn": "01背包",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/13",
+          "no": "326",
+          "name": "3 的幂",
+          "slug": "power-of-three",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
