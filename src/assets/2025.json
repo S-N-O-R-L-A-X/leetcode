@@ -2715,6 +2715,54 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/8/14",
+          "no": "1780",
+          "name": "判断一个数字是否可以表示成三的幂的和",
+          "slug": "check-if-number-is-a-sum-of-powers-of-three",
+          "difficulty": "中等",
+          "rating": 1506,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/15",
+          "no": "342",
+          "name": "4的幂",
+          "slug": "power-of-four",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "数学/位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/16",
+          "no": "1323",
+          "name": "6 和 9 组成的最大数字",
+          "slug": "maximum-69-number",
+          "difficulty": "简单",
+          "rating": 1194,
+          "situation": "贪心",
+          "method": "自己做出",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/17",
+          "no": "837",
+          "name": "新 21 点",
+          "slug": "new-21-game",
+          "difficulty": "中等",
+          "rating": 2350,
+          "situation": "看懂答案",
+          "method": "dp+前缀和",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
