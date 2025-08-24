@@ -2763,6 +2763,90 @@
           "method": "dp+前缀和",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/8/18",
+          "no": "679",
+          "name": "24 点游戏",
+          "slug": "24-game",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "没看懂答案",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/19",
+          "no": "2348",
+          "name": "全 0 子数组的数目",
+          "slug": "number-of-zero-filled-subarrays",
+          "difficulty": "中等",
+          "rating": 1316,
+          "situation": "自己做出",
+          "method": "滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/20",
+          "no": "1277",
+          "name": "统计全为 1 的正方形子矩阵",
+          "slug": "count-square-submatrices-with-all-ones",
+          "difficulty": "中等",
+          "rating": 1633,
+          "situation": "没看懂答案",
+          "method": "dp/单调栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/21",
+          "no": "1504",
+          "name": "统计全 1 子矩形",
+          "slug": "count-submatrices-with-all-ones",
+          "difficulty": "中等",
+          "rating": 1845,
+          "situation": "没看懂答案",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/22",
+          "no": "3195",
+          "name": "包含所有 1 的最小矩形面积 I",
+          "slug": "find-the-minimum-area-to-cover-all-ones-i",
+          "difficulty": "中等",
+          "rating": 1348,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/23",
+          "no": "3197",
+          "name": "包含所有 1 的最小矩形面积 II",
+          "slug": "find-the-minimum-area-to-cover-all-ones-ii",
+          "difficulty": "困难",
+          "rating": 2541,
+          "situation": "没看懂答案",
+          "method": "转化+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/24",
+          "no": "1493",
+          "name": "删掉一个元素以后全为 1 的最长子数组",
+          "slug": "longest-subarray-of-1s-after-deleting-one-element",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
