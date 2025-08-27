@@ -2842,9 +2842,45 @@
           "name": "删掉一个元素以后全为 1 的最长子数组",
           "slug": "longest-subarray-of-1s-after-deleting-one-element",
           "difficulty": "中等",
+          "rating": 1423,
+          "situation": "自己做出",
+          "method": "递推/滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/25",
+          "no": "498",
+          "name": "对角线遍历",
+          "slug": "diagonal-traverse",
+          "difficulty": "中等",
           "rating": null,
-          "situation": "",
-          "method": "",
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/26",
+          "no": "3000",
+          "name": "对角线最长的矩形的面积",
+          "slug": "maximum-area-of-longest-diagonal-rectangle",
+          "difficulty": "简单",
+          "rating": 1250,
+          "situation": "自己做出",
+          "method": "模拟+数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/27",
+          "no": "3459",
+          "name": "最长 V 形对角线段的长度",
+          "slug": "length-of-longest-v-shaped-diagonal-segment",
+          "difficulty": "困难",
+          "rating": 2531,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索",
           "learn": "",
           "unknown": ""
         }
