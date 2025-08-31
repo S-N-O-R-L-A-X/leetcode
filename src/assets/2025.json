@@ -2883,6 +2883,54 @@
           "method": "记忆化搜索",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/8/28",
+          "no": "3446",
+          "name": "按对角线进行矩阵排序",
+          "slug": "sort-matrix-by-diagonals",
+          "difficulty": "中等",
+          "rating": 1373,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/29",
+          "no": "3021",
+          "name": "Alice 和 Bob 玩鲜花游戏",
+          "slug": "alice-and-bob-playing-flower-game",
+          "difficulty": "中等",
+          "rating": 1581,
+          "situation": "自己做出",
+          "method": "转化+数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/30",
+          "no": "36",
+          "name": "有效的数独",
+          "slug": "valid-sudoku",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/8/31",
+          "no": "37",
+          "name": "解数独",
+          "slug": "sudoku-solver",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "没看懂答案",
+          "method": "回溯",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
