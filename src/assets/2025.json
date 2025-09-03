@@ -2932,6 +2932,44 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2025/9/1",
+          "no": "1792",
+          "name": "最大平均通过率",
+          "slug": "maximum-average-pass-ratio",
+          "difficulty": "中等",
+          "rating": 1818,
+          "situation": "自己做出",
+          "method": "贪心+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/2",
+          "no": "3025",
+          "name": "人员站位的方案数 I",
+          "slug": "find-the-number-of-ways-to-place-people-i",
+          "difficulty": "中等",
+          "rating": 1707,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/3",
+          "no": "3027",
+          "name": "人员站位的方案数 II",
+          "slug": "find-the-number-of-ways-to-place-people-ii",
+          "difficulty": "困难",
+          "rating": 2020,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
