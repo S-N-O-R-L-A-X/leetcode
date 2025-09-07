@@ -2969,6 +2969,54 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/9/4",
+          "no": "3516",
+          "name": "找到最近的人",
+          "slug": "find-closest-person",
+          "difficulty": "简单",
+          "rating": 1164,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/5",
+          "no": "2749",
+          "name": "得到整数零需要执行的最少操作数",
+          "slug": "minimum-operations-to-make-the-integer-zero",
+          "difficulty": "中等",
+          "rating": 2132,
+          "situation": "没看懂答案",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/6",
+          "no": "3495",
+          "name": "使数组元素都变为零的最少操作次数",
+          "slug": "minimum-operations-to-make-array-elements-zero",
+          "difficulty": "困难",
+          "rating": 2206,
+          "situation": "看懂答案",
+          "method": "位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/7",
+          "no": "1304",
+          "name": "和为零的 N 个不同整数",
+          "slug": "find-n-unique-integers-sum-up-to-zero",
+          "difficulty": "简单",
+          "rating": 1167,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
