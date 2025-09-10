@@ -3017,6 +3017,42 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/9/8",
+          "no": "1317",
+          "name": "将整数转换为两个无零整数的和",
+          "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+          "difficulty": "简单",
+          "rating": 1278,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/9",
+          "no": "2327",
+          "name": "知道秘密的人数",
+          "slug": "number-of-people-aware-of-a-secret",
+          "difficulty": "中等",
+          "rating": 1894,
+          "situation": "自己做出",
+          "method": "双端队列/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/10",
+          "no": "1733",
+          "name": "需要教语言的最少人数",
+          "slug": "minimum-number-of-people-to-teach",
+          "difficulty": "中等",
+          "rating": 1984,
+          "situation": "没看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
