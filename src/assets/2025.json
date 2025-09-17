@@ -3101,6 +3101,42 @@
           "method": "哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/9/15",
+          "no": "1935",
+          "name": "可以输入的最大单词数",
+          "slug": "maximum-number-of-words-you-can-type",
+          "difficulty": "简单",
+          "rating": 1227,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/16",
+          "no": "2197",
+          "name": "替换数组中的非互质数",
+          "slug": "replace-non-coprime-numbers-in-array",
+          "difficulty": "困难",
+          "rating": 2057,
+          "situation": "看懂答案",
+          "method": "模拟+栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/17",
+          "no": "2349",
+          "name": "设计数字容器系统",
+          "slug": "design-a-number-container-system",
+          "difficulty": "中等",
+          "rating": 1540,
+          "situation": "看懂答案",
+          "method": "优先级队列/有序集合",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
