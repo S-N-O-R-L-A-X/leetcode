@@ -3137,6 +3137,66 @@
           "method": "优先级队列/有序集合",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/9/18",
+          "no": "3408",
+          "name": "设计任务管理器",
+          "slug": "design-task-manager",
+          "difficulty": "中等",
+          "rating": 1807,
+          "situation": "自己做出",
+          "method": "优先级队列+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/19",
+          "no": "3484",
+          "name": "设计电子表格",
+          "slug": "design-spreadsheet",
+          "difficulty": "中等",
+          "rating": 1524,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/20",
+          "no": "3508",
+          "name": "设计路由器",
+          "slug": "implement-router",
+          "difficulty": "中等",
+          "rating": 1851,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/21",
+          "no": "1912",
+          "name": "设计电影租借系统",
+          "slug": "design-movie-rental-system",
+          "difficulty": "困难",
+          "rating": 2182,
+          "situation": "没看懂答案",
+          "method": "哈希+有序集合",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/22",
+          "no": "3005",
+          "name": "最大频率元素计数",
+          "slug": "count-elements-with-maximum-frequency",
+          "difficulty": "简单",
+          "rating": 1217,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
