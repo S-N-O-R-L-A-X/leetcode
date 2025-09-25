@@ -3197,6 +3197,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/9/23",
+          "no": "165",
+          "name": "比较版本号",
+          "slug": "compare-version-numbers",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/24",
+          "no": "166",
+          "name": "分数到小数",
+          "slug": "fraction-to-recurring-decimal",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/9/25",
+          "no": "120",
+          "name": "三角形最小路径和",
+          "slug": "triangle",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
