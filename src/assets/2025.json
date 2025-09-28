@@ -3233,6 +3233,42 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/9/26",
+          "no": "611",
+          "name": "有效三角形的个数",
+          "slug": "valid-triangle-number",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "排序+双指针/二分",
+          "learn": "",
+          "unknown": "值域卷积"
+        },
+        {
+          "date": "2025/9/27",
+          "no": "812",
+          "name": "最大三角形面积",
+          "slug": "largest-triangle-area",
+          "difficulty": "简单",
+          "rating": 1543,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "向量叉积",
+          "unknown": "凸包"
+        },
+        {
+          "date": "2025/9/28",
+          "no": "976",
+          "name": "三角形的最大周长",
+          "slug": "largest-perimeter-triangle",
+          "difficulty": "简单",
+          "rating": 1341,
+          "situation": "自己做出",
+          "method": "排序+贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
