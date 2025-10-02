@@ -3294,6 +3294,32 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2025/10/1",
+          "no": "1518",
+          "name": "换水问题",
+          "slug": "water-bottles",
+          "difficulty": "简单",
+          "rating": 1245,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/2",
+          "no": "3100",
+          "name": "换水问题 II",
+          "slug": "water-bottles-ii",
+          "difficulty": "中等",
+          "rating": 1366,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
