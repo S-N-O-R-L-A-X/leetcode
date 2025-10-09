@@ -3319,6 +3319,90 @@
           "method": "模拟/数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/10/3",
+          "no": "407",
+          "name": "接雨水 II",
+          "slug": "trapping-rain-water-ii",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "优先级队列/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/4",
+          "no": "11",
+          "name": "盛最多水的容器",
+          "slug": "container-with-most-water",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "看懂答案",
+          "method": "双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/5",
+          "no": "417",
+          "name": "太平洋大西洋水流问题",
+          "slug": "pacific-atlantic-water-flow",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/6",
+          "no": "778",
+          "name": "水位上升的泳池中游泳",
+          "slug": "swim-in-rising-water",
+          "difficulty": "困难",
+          "rating": 2097,
+          "situation": "自己做出",
+          "method": "迪杰斯特拉 / 二分+bfs/dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/7",
+          "no": "1488",
+          "name": "避免洪水泛滥",
+          "slug": "avoid-flood-in-the-city",
+          "difficulty": "中等",
+          "rating": 1974,
+          "situation": "看思路写出",
+          "method": "有序集合+二分",
+          "learn": "js有序集合",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/8",
+          "no": "2300",
+          "name": "咒语和药水的成功对数",
+          "slug": "successful-pairs-of-spells-and-potions",
+          "difficulty": "中等",
+          "rating": 1477,
+          "situation": "自己做出",
+          "method": "二分/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/9",
+          "no": "3494",
+          "name": "酿造药水需要的最少总时间",
+          "slug": "find-the-minimum-amount-of-time-to-brew-potions",
+          "difficulty": "中等",
+          "rating": 2042,
+          "situation": "看懂答案",
+          "method": "dp/贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
