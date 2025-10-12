@@ -3403,6 +3403,42 @@
           "method": "dp/贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/10/10",
+          "no": "3147",
+          "name": "从魔法师身上吸取的最大能量",
+          "slug": "taking-maximum-energy-from-the-mystic-dungeon",
+          "difficulty": "中等",
+          "rating": 1460,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/11",
+          "no": "3186",
+          "name": "施咒的最大总伤害",
+          "slug": "maximum-total-damage-with-spell-casting",
+          "difficulty": "中等",
+          "rating": 1841,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/12",
+          "no": "3539",
+          "name": "魔法序列的数组乘积之和",
+          "slug": "find-sum-of-array-product-of-magical-sequences",
+          "difficulty": "困难",
+          "rating": 2694,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
