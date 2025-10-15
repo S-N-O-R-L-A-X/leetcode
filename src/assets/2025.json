@@ -3439,6 +3439,42 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/10/13",
+          "no": "2273",
+          "name": "移除字母异位词后的结果数组",
+          "slug": "find-resultant-array-after-removing-anagrams",
+          "difficulty": "简单",
+          "rating": 1295,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/14",
+          "no": "3349",
+          "name": "检测相邻递增子数组 I",
+          "slug": "adjacent-increasing-subarrays-detection-i",
+          "difficulty": "简单",
+          "rating": 1299,
+          "situation": "自己做出",
+          "method": "双指针/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/15",
+          "no": "3350",
+          "name": "检测相邻递增子数组 II",
+          "slug": "adjacent-increasing-subarrays-detection-ii",
+          "difficulty": "中等",
+          "rating": 1600,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
