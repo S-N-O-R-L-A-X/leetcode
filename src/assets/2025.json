@@ -3475,6 +3475,66 @@
           "method": "",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/10/16",
+          "no": "2598",
+          "name": "执行操作后的最大 MEX",
+          "slug": "smallest-missing-non-negative-integer-after-operations",
+          "difficulty": "中等",
+          "rating": 1846,
+          "situation": "自己做出",
+          "method": "转化+贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/17",
+          "no": "3003",
+          "name": "执行操作后的最大分割数量",
+          "slug": "maximize-the-number-of-partitions-after-operations",
+          "difficulty": "困难",
+          "rating": 3039,
+          "situation": "没看懂答案",
+          "method": "位运算 + 记忆化搜索/前后缀分解",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/18",
+          "no": "3397",
+          "name": "执行操作后不同元素的最大数量",
+          "slug": "maximum-number-of-distinct-elements-after-operations",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/19",
+          "no": "1625",
+          "name": "执行操作后字典序最小的字符串",
+          "slug": "lexicographically-smallest-string-after-applying-operations",
+          "difficulty": "中等",
+          "rating": 1992,
+          "situation": "自己做出",
+          "method": "dfs+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/20",
+          "no": "2011",
+          "name": "执行操作后的变量值",
+          "slug": "final-value-of-variable-after-performing-operations",
+          "difficulty": "简单",
+          "rating": 1165,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
