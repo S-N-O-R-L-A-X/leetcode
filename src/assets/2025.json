@@ -3535,6 +3535,78 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/10/21",
+          "no": "3346",
+          "name": "执行操作后元素的最高频率 I",
+          "slug": "maximum-frequency-of-an-element-after-performing-operations-i",
+          "difficulty": "中等",
+          "rating": 1865,
+          "situation": "自己做出",
+          "method": "前缀和/差分/二分/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/22",
+          "no": "3347",
+          "name": "执行操作后元素的最高频率 II",
+          "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+          "difficulty": "困难",
+          "rating": 2156,
+          "situation": "没看懂答案",
+          "method": "差分/二分/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/23",
+          "no": "3461",
+          "name": "判断操作后字符串中的数字是否相等 I",
+          "slug": "check-if-digits-are-equal-in-string-after-operations-i",
+          "difficulty": "简单",
+          "rating": 1189,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/24",
+          "no": "2048",
+          "name": "下一个更大的数值平衡数",
+          "slug": "next-greater-numerically-balanced-number",
+          "difficulty": "中等",
+          "rating": 1734,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/25",
+          "no": "1716",
+          "name": "计算力扣银行的钱",
+          "slug": "calculate-money-in-leetcode-bank",
+          "difficulty": "简单",
+          "rating": 1295,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/26",
+          "no": "2043",
+          "name": "简易银行系统",
+          "slug": "simple-bank-system",
+          "difficulty": "中等",
+          "rating": 1356,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
