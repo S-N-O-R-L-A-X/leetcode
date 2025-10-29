@@ -3607,6 +3607,42 @@
           "method": "模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/10/27",
+          "no": "2125",
+          "name": "银行中的激光束数量",
+          "slug": "number-of-laser-beams-in-a-bank",
+          "difficulty": "中等",
+          "rating": 1280,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/28",
+          "no": "3354",
+          "name": "使数组元素等于零",
+          "slug": "make-array-elements-equal-to-zero",
+          "difficulty": "简单",
+          "rating": 1397,
+          "situation": "自己做出",
+          "method": "模拟/前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/10/29",
+          "no": "3370",
+          "name": "仅含置位位的最小整数",
+          "slug": "smallest-number-with-all-set-bits",
+          "difficulty": "简单",
+          "rating": 1199,
+          "situation": "自己做出",
+          "method": "位运算",
+          "learn": "Math.clz32",
+          "unknown": ""
         }
       ]
     ]
