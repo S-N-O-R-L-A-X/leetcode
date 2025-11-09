@@ -3729,6 +3729,54 @@
           "method": "滑动窗口+有序集合",
           "learn": "AVL树",
           "unknown": ""
+        },
+        {
+          "date": "2025/11/6",
+          "no": "3607",
+          "name": "电网维护",
+          "slug": "power-grid-maintenance",
+          "difficulty": "中等",
+          "rating": 1700,
+          "situation": "看懂答案",
+          "method": "并查集/懒删除堆",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/7",
+          "no": "2528",
+          "name": "最大化城市的最小电量",
+          "slug": "maximize-the-minimum-powered-city",
+          "difficulty": "困难",
+          "rating": 2236,
+          "situation": "没看懂答案",
+          "method": "二分+差分+前缀和+贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/8",
+          "no": "1611",
+          "name": "使整数变为 0 的最少操作次数",
+          "slug": "minimum-one-bit-operations-to-make-integers-zero",
+          "difficulty": "困难",
+          "rating": 2345,
+          "situation": "没看懂答案",
+          "method": "转化+数学/格雷码",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/9",
+          "no": "2169",
+          "name": "得到 0 的操作数",
+          "slug": "count-operations-to-obtain-zero",
+          "difficulty": "简单",
+          "rating": 1200,
+          "situation": "自己做出",
+          "method": "模拟/数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
