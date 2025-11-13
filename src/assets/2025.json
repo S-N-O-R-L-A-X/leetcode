@@ -3777,6 +3777,54 @@
           "method": "模拟/数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/11/10",
+          "no": "3542",
+          "name": "将所有元素变为 0 的最少操作次数",
+          "slug": "minimum-operations-to-convert-all-elements-to-zero",
+          "difficulty": "中等",
+          "rating": 1890,
+          "situation": "看懂答案",
+          "method": "单调栈",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/11",
+          "no": "474",
+          "name": "一和零",
+          "slug": "ones-and-zeroes",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/12",
+          "no": "2654",
+          "name": "使数组所有元素变成 1 的最少操作次数",
+          "slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+          "difficulty": "中等",
+          "rating": 1929,
+          "situation": "没看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/13",
+          "no": "3228",
+          "name": "将 1 移动到末尾的最大操作次数",
+          "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+          "difficulty": "中等",
+          "rating": 1593,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
