@@ -3897,6 +3897,54 @@
           "method": "排序/哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/11/20",
+          "no": "757",
+          "name": "设置交集大小至少为2",
+          "slug": "set-intersection-size-at-least-two",
+          "difficulty": "困难",
+          "rating": 2379,
+          "situation": "贪心",
+          "method": "贪心/ 栈+二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/21",
+          "no": "1930",
+          "name": "长度为 3 的不同回文子序列",
+          "slug": "unique-length-3-palindromic-subsequences",
+          "difficulty": "中等",
+          "rating": 1533,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/22",
+          "no": "3190",
+          "name": "使所有元素都可以被 3 整除的最少操作数",
+          "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+          "difficulty": "简单",
+          "rating": 1140,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/23",
+          "no": "1262",
+          "name": "可被三整除的最大和",
+          "slug": "greatest-sum-divisible-by-three",
+          "difficulty": "中等",
+          "rating": 1762,
+          "situation": "自己做出",
+          "method": "贪心/dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
