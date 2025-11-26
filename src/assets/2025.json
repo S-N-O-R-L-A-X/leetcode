@@ -3945,6 +3945,42 @@
           "method": "贪心/dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/11/24",
+          "no": "1018",
+          "name": "可被 5 整除的二进制前缀",
+          "slug": "binary-prefix-divisible-by-5",
+          "difficulty": "简单",
+          "rating": 1376,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/25",
+          "no": "1015",
+          "name": "可被 K 整除的最小整数",
+          "slug": "smallest-integer-divisible-by-k",
+          "difficulty": "中等",
+          "rating": 1875,
+          "situation": "中等",
+          "method": "看懂答案",
+          "learn": "数学",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/26",
+          "no": "2435",
+          "name": "矩阵中和能被 K 整除的路径",
+          "slug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+          "difficulty": "困难",
+          "rating": 1952,
+          "situation": "自己做出",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
