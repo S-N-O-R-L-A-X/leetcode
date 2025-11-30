@@ -3981,6 +3981,54 @@
           "method": "dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/11/27",
+          "no": "3381",
+          "name": "长度可被 K 整除的子数组的最大元素和",
+          "slug": "maximum-subarray-sum-with-length-divisible-by-k",
+          "difficulty": "中等",
+          "rating": 1943,
+          "situation": "看懂答案",
+          "method": "前缀和",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/28",
+          "no": "2872",
+          "name": "可以被 K 整除连通块的最大数目",
+          "slug": "maximum-number-of-k-divisible-components",
+          "difficulty": "困难",
+          "rating": 1968,
+          "situation": "没看懂答案",
+          "method": "贪心+dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/29",
+          "no": "3512",
+          "name": "使数组和能被 K 整除的最少操作次数",
+          "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+          "difficulty": "简单",
+          "rating": 1228,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/11/30",
+          "no": "1590",
+          "name": "使数组和能被 P 整除",
+          "slug": "make-sum-divisible-by-p",
+          "difficulty": "中等",
+          "rating": 2039,
+          "situation": "看懂答案",
+          "method": "前缀和+哈希",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
