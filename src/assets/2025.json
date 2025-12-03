@@ -4030,6 +4030,44 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2025/12/1",
+          "no": "2141",
+          "name": "同时运行 N 台电脑的最长时间",
+          "slug": "maximum-running-time-of-n-computers",
+          "difficulty": "困难",
+          "rating": 2265,
+          "situation": "看思路写出",
+          "method": "二分/ 排序+贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/2",
+          "no": "3623",
+          "name": "统计梯形的数目 I",
+          "slug": "count-number-of-trapezoids-i",
+          "difficulty": "中等",
+          "rating": 1580,
+          "situation": "自己做出",
+          "method": "数学+哈希（+前缀和）",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/3",
+          "no": "3625",
+          "name": "统计梯形的数目 II",
+          "slug": "count-number-of-trapezoids-ii",
+          "difficulty": "困难",
+          "rating": 2643,
+          "situation": "看懂答案",
+          "method": "数学+哈希",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
