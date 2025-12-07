@@ -4067,6 +4067,54 @@
           "method": "数学+哈希",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/4",
+          "no": "2211",
+          "name": "统计道路上的碰撞次数",
+          "slug": "count-collisions-on-a-road",
+          "difficulty": "中等",
+          "rating": 1581,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/5",
+          "no": "3432",
+          "name": "统计元素和差值为偶数的分区方案",
+          "slug": "count-partitions-with-even-sum-difference",
+          "difficulty": "简单",
+          "rating": 1200,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/6",
+          "no": "3578",
+          "name": "统计极差最大为 K 的分割方式数",
+          "slug": "count-partitions-with-max-min-difference-at-most-k",
+          "difficulty": "中等",
+          "rating": 2033,
+          "situation": "没看懂答案",
+          "method": "滑动窗口+dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/7",
+          "no": "1523",
+          "name": "在区间范围内统计奇数数目",
+          "slug": "count-odd-numbers-in-an-interval-range",
+          "difficulty": "简单",
+          "rating": 1209,
+          "situation": "自己做出",
+          "method": "数学/模拟",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
