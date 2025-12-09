@@ -1553,8 +1553,8 @@
           "slug": "count-number-of-balanced-permutations",
           "difficulty": "困难",
           "rating": 2614,
-          "situation": "记忆化搜索/dp + 数学",
-          "method": "",
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/dp + 数学",
           "learn": "",
           "unknown": ""
         },
@@ -2747,8 +2747,8 @@
           "slug": "maximum-69-number",
           "difficulty": "简单",
           "rating": 1194,
-          "situation": "贪心",
-          "method": "自己做出",
+          "situation": "自己做出",
+          "method": "贪心",
           "learn": "",
           "unknown": ""
         },
@@ -3905,7 +3905,7 @@
           "slug": "set-intersection-size-at-least-two",
           "difficulty": "困难",
           "rating": 2379,
-          "situation": "贪心",
+          "situation": "没看懂答案",
           "method": "贪心/ 栈+二分",
           "learn": "",
           "unknown": ""
@@ -3965,9 +3965,9 @@
           "slug": "smallest-integer-divisible-by-k",
           "difficulty": "中等",
           "rating": 1875,
-          "situation": "中等",
-          "method": "看懂答案",
-          "learn": "数学",
+          "situation": "看懂答案",
+          "method": "数学",
+          "learn": "",
           "unknown": ""
         },
         {
