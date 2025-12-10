@@ -4115,6 +4115,42 @@
           "method": "数学/模拟",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/8",
+          "no": "1925",
+          "name": "统计平方和三元组的数目",
+          "slug": "count-square-sum-triples",
+          "difficulty": "简单",
+          "rating": 1324,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/9",
+          "no": "3583",
+          "name": "统计特殊三元组",
+          "slug": "count-special-triplets",
+          "difficulty": "中等",
+          "rating": 1510,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/10",
+          "no": "3577",
+          "name": "统计计算机解锁顺序排列数",
+          "slug": "count-the-number-of-computer-unlocking-permutations",
+          "difficulty": "中等",
+          "rating": 1750,
+          "situation": "自己做出",
+          "method": "转化",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
