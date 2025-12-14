@@ -4151,6 +4151,54 @@
           "method": "转化",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/11",
+          "no": "3531",
+          "name": "统计被覆盖的建筑",
+          "slug": "count-covered-buildings",
+          "difficulty": "中等",
+          "rating": 1519,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/12",
+          "no": "3433",
+          "name": "统计用户被提及情况",
+          "slug": "count-mentions-per-user",
+          "difficulty": "中等",
+          "rating": 1745,
+          "situation": "没看懂答案",
+          "method": "排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/13",
+          "no": "3606",
+          "name": "优惠券校验器",
+          "slug": "coupon-code-validator",
+          "difficulty": "简单",
+          "rating": 1312,
+          "situation": "自己做出",
+          "method": "排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/14",
+          "no": "2147",
+          "name": "分隔长廊的方案数",
+          "slug": "number-of-ways-to-divide-a-long-corridor",
+          "difficulty": "困难",
+          "rating": 1915,
+          "situation": "没看懂答案",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
