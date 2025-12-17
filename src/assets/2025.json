@@ -4199,6 +4199,42 @@
           "method": "数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/15",
+          "no": "2110",
+          "name": "股票平滑下跌阶段的数目",
+          "slug": "number-of-smooth-descent-periods-of-a-stock",
+          "difficulty": "中等",
+          "rating": 1408,
+          "situation": "自己做出",
+          "method": "dp/双指针",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/16",
+          "no": "3562",
+          "name": "折扣价交易股票的最大利润",
+          "slug": "maximum-profit-from-trading-stocks-with-discounts",
+          "difficulty": "困难",
+          "rating": 2458,
+          "situation": "没看懂答案",
+          "method": "树形dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/17",
+          "no": "3573",
+          "name": "买卖股票的最佳时机 V",
+          "slug": "best-time-to-buy-and-sell-stock-v",
+          "difficulty": "中等",
+          "rating": 1777,
+          "situation": "看懂答案",
+          "method": "记忆化搜索/dp",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
