@@ -4235,6 +4235,54 @@
           "method": "记忆化搜索/dp",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/18",
+          "no": "3652",
+          "name": "按策略买卖股票的最佳时机",
+          "slug": "best-time-to-buy-and-sell-stock-using-strategy",
+          "difficulty": "中等",
+          "rating": 1557,
+          "situation": "自己做出",
+          "method": "前缀和/滑动窗口",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/19",
+          "no": "2092",
+          "name": "找出知晓秘密的所有专家",
+          "slug": "find-all-people-with-secret",
+          "difficulty": "困难",
+          "rating": 2004,
+          "situation": "没看懂答案",
+          "method": "bfs/dfs/并查集",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/20",
+          "no": "944",
+          "name": "删列造序",
+          "slug": "delete-columns-to-make-sorted",
+          "difficulty": "简单",
+          "rating": 1396,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/21",
+          "no": "955",
+          "name": "删列造序 II",
+          "slug": "delete-columns-to-make-sorted-ii",
+          "difficulty": "中等",
+          "rating": 1876,
+          "situation": "没看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
