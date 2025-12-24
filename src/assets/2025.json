@@ -4283,6 +4283,42 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/22",
+          "no": "960",
+          "name": "删列造序 III",
+          "slug": "delete-columns-to-make-sorted-iii",
+          "difficulty": "困难",
+          "rating": 2247,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/23",
+          "no": "2054",
+          "name": "两个最好的不重叠活动",
+          "slug": "two-best-non-overlapping-events",
+          "difficulty": "中等",
+          "rating": 1883,
+          "situation": "看懂答案",
+          "method": "排序（+单调栈） / dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/24",
+          "no": "3074",
+          "name": "重新分装苹果",
+          "slug": "apple-redistribution-into-boxes",
+          "difficulty": "简单",
+          "rating": 1198,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
