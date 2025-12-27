@@ -4319,6 +4319,54 @@
           "method": "贪心",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/25",
+          "no": "3075",
+          "name": "幸福值最大化的选择方案",
+          "slug": "maximize-happiness-of-selected-children",
+          "difficulty": "中等",
+          "rating": 1326,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/26",
+          "no": "2483",
+          "name": "商店的最少代价",
+          "slug": "minimum-penalty-for-a-shop",
+          "difficulty": "中等",
+          "rating": 1495,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/27",
+          "no": "2402",
+          "name": "会议室 III",
+          "slug": "meeting-rooms-iii",
+          "difficulty": "困难",
+          "rating": 2093,
+          "situation": "自己做出",
+          "method": "模拟+优先级队列",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/28",
+          "no": "1351",
+          "name": "统计有序矩阵中的负数",
+          "slug": "count-negative-numbers-in-a-sorted-matrix",
+          "difficulty": "简单",
+          "rating": 1139,
+          "situation": "自己做出",
+          "method": "模拟/二分",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
