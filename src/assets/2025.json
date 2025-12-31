@@ -4367,6 +4367,42 @@
           "method": "模拟/二分",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2025/12/29",
+          "no": "756",
+          "name": "金字塔转换矩阵",
+          "slug": "pyramid-transition-matrix",
+          "difficulty": "中等",
+          "rating": 1990,
+          "situation": "没看懂答案",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/30",
+          "no": "840",
+          "name": "矩阵中的幻方",
+          "slug": "magic-squares-in-grid",
+          "difficulty": "中等",
+          "rating": 1426,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2025/12/31",
+          "no": "1970",
+          "name": "你能穿过矩阵的最后一天",
+          "slug": "last-day-where-you-can-still-cross",
+          "difficulty": "困难",
+          "rating": 2124,
+          "situation": "自己做出",
+          "method": "二分+bfs/dfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
