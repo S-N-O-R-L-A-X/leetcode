@@ -1,0 +1,56 @@
+{
+  "daily": {
+    "month": [
+      [
+        {
+          "date": "2026/1/1",
+          "no": "66",
+          "name": "加一",
+          "slug": "plus-one",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/2",
+          "no": "961",
+          "name": "在长度 2N 的数组中找出重复 N 次的元素",
+          "slug": "n-repeated-element-in-size-2n-array",
+          "difficulty": "简单",
+          "rating": 1162,
+          "situation": "自己做出",
+          "method": "哈希/摩尔投票",
+          "learn": "复习摩尔投票",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/3",
+          "no": "1411",
+          "name": "给 N x 3 网格图涂色的方案数",
+          "slug": "number-of-ways-to-paint-n-3-grid",
+          "difficulty": "困难",
+          "rating": 1845,
+          "situation": "没看懂答案",
+          "method": "记忆化搜索/递推",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/4",
+          "no": "1390",
+          "name": "四因数",
+          "slug": "four-divisors",
+          "difficulty": "中等",
+          "rating": 1478,
+          "situation": "自己做出",
+          "method": "数学",
+          "learn": "",
+          "unknown": ""
+        }
+      ]
+    ]
+  }
+}
