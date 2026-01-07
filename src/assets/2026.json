@@ -49,6 +49,42 @@
           "method": "数学",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/5",
+          "no": "1975",
+          "name": "最大方阵和",
+          "slug": "maximum-matrix-sum",
+          "difficulty": "中等",
+          "rating": 1648,
+          "situation": "自己做出",
+          "method": "转化+贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/6",
+          "no": "1161",
+          "name": "最大层内元素和",
+          "slug": "maximum-level-sum-of-a-binary-tree",
+          "difficulty": "中等",
+          "rating": 1250,
+          "situation": "自己做出",
+          "method": "dfs/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/7",
+          "no": "1339",
+          "name": "分裂二叉树的最大乘积",
+          "slug": "maximum-product-of-splitted-binary-tree",
+          "difficulty": "中等",
+          "rating": 1675,
+          "situation": "自己做出",
+          "method": "dfs",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
