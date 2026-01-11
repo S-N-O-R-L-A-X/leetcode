@@ -85,6 +85,54 @@
           "method": "dfs",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/8",
+          "no": "1458",
+          "name": "两个子序列的最大点积",
+          "slug": "max-dot-product-of-two-subsequences",
+          "difficulty": "困难",
+          "rating": 1824,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/9",
+          "no": "865",
+          "name": "具有所有最深节点的最小子树",
+          "slug": "smallest-subtree-with-all-the-deepest-nodes",
+          "difficulty": "中等",
+          "rating": 1534,
+          "situation": "看懂答案",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/10",
+          "no": "712",
+          "name": "两个字符串的最小ASCII删除和",
+          "slug": "minimum-ascii-delete-sum-for-two-strings",
+          "difficulty": "中等",
+          "rating": null,
+          "situation": "没看懂答案",
+          "method": "dp",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/11",
+          "no": "85",
+          "name": "最大矩形",
+          "slug": "maximal-rectangle",
+          "difficulty": "困难",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "前缀和/单调栈",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
