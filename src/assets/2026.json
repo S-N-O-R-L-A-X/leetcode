@@ -133,6 +133,42 @@
           "method": "前缀和/单调栈",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/12",
+          "no": "1266",
+          "name": "访问所有点的最小时间",
+          "slug": "minimum-time-visiting-all-points",
+          "difficulty": "简单",
+          "rating": 1303,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/13",
+          "no": "3453",
+          "name": "分割正方形 I",
+          "slug": "separate-squares-i",
+          "difficulty": "中等",
+          "rating": 1735,
+          "situation": "自己做出",
+          "method": "二分/扫描线",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/14",
+          "no": "3454",
+          "name": "分割正方形 II",
+          "slug": "separate-squares-ii",
+          "difficulty": "困难",
+          "rating": 2671,
+          "situation": "没看懂答案",
+          "method": "扫描线+线段树",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
