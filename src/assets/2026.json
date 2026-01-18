@@ -169,6 +169,54 @@
           "method": "扫描线+线段树",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/15",
+          "no": "2943",
+          "name": "最大化网格图中正方形空洞的面积",
+          "slug": "maximize-area-of-square-hole-in-grid",
+          "difficulty": "中等",
+          "rating": 1677,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/16",
+          "no": "2975",
+          "name": "移除栅栏得到的正方形田地的最大面积",
+          "slug": "maximum-square-area-by-removing-fences-from-a-field",
+          "difficulty": "中等",
+          "rating": 1873,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/17",
+          "no": "3047",
+          "name": "求交集区域内的最大正方形面积",
+          "slug": "find-the-largest-area-of-square-inside-two-rectangles",
+          "difficulty": "中等",
+          "rating": 1602,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/18",
+          "no": "1895",
+          "name": "最大的幻方",
+          "slug": "largest-magic-square",
+          "difficulty": "中等",
+          "rating": 1781,
+          "situation": "自己做出",
+          "method": "前缀和",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
