@@ -217,6 +217,42 @@
           "method": "前缀和",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/19",
+          "no": "1292",
+          "name": "元素和小于等于阈值的正方形的最大边长",
+          "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+          "difficulty": "中等",
+          "rating": 1735,
+          "situation": "自己做出",
+          "method": "前缀和（+二分）",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/20",
+          "no": "3314",
+          "name": "构造最小位运算数组 I",
+          "slug": "construct-the-minimum-bitwise-array-i",
+          "difficulty": "简单",
+          "rating": 1379,
+          "situation": "自己做出",
+          "method": "位运算",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/21",
+          "no": "3315",
+          "name": "构造最小位运算数组 II",
+          "slug": "construct-the-minimum-bitwise-array-ii",
+          "difficulty": "中等",
+          "rating": 1715,
+          "situation": "看懂答案",
+          "method": "位运算",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
