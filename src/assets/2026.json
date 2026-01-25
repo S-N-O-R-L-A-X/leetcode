@@ -253,6 +253,54 @@
           "method": "位运算",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/22",
+          "no": "3507",
+          "name": "移除最小数对使数组有序 I",
+          "slug": "minimum-pair-removal-to-sort-array-i",
+          "difficulty": "简单",
+          "rating": 1349,
+          "situation": "自己做出",
+          "method": "模拟/懒删除堆",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/23",
+          "no": "3510",
+          "name": "移除最小数对使数组有序 II",
+          "slug": "minimum-pair-removal-to-sort-array-ii",
+          "difficulty": "困难",
+          "rating": 2608,
+          "situation": "没看懂答案",
+          "method": "懒删除堆",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/24",
+          "no": "1877",
+          "name": "数组中最大数对和的最小值",
+          "slug": "minimize-maximum-pair-sum-in-array",
+          "difficulty": "中等",
+          "rating": 1301,
+          "situation": "自己做出",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/25",
+          "no": "1984",
+          "name": "学生分数的最小差值",
+          "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+          "difficulty": "简单",
+          "rating": 1306,
+          "situation": "自己做出",
+          "method": "排序+滑动窗口",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
