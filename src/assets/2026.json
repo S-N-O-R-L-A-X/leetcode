@@ -301,6 +301,42 @@
           "method": "排序+滑动窗口",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/26",
+          "no": "1200",
+          "name": "最小绝对差",
+          "slug": "minimum-absolute-difference",
+          "difficulty": "简单",
+          "rating": 1199,
+          "situation": "自己做出",
+          "method": "排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/27",
+          "no": "3650",
+          "name": "边反转的最小路径总成本",
+          "slug": "minimum-cost-path-with-edge-reversals",
+          "difficulty": "中等",
+          "rating": 1854,
+          "situation": "自己做出",
+          "method": "迪杰斯特拉/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/28",
+          "no": "3651",
+          "name": "带传送的最小路径成本",
+          "slug": "minimum-cost-path-with-teleportations",
+          "difficulty": "困难",
+          "rating": 2411,
+          "situation": "dp",
+          "method": "没看懂答案",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
