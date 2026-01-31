@@ -337,6 +337,42 @@
           "method": "没看懂答案",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/1/29",
+          "no": "2976",
+          "name": "转换字符串的最小成本 I",
+          "slug": "minimum-cost-to-convert-string-i",
+          "difficulty": "中等",
+          "rating": 1882,
+          "situation": "自己做出",
+          "method": "floyd",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/30",
+          "no": "2977",
+          "name": "转换字符串的最小成本 II",
+          "slug": "minimum-cost-to-convert-string-ii",
+          "difficulty": "困难",
+          "rating": 2696,
+          "situation": "没看懂答案",
+          "method": "floyd+dp+字典树",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/1/31",
+          "no": "744",
+          "name": "寻找比目标字母大的最小字母",
+          "slug": "find-smallest-letter-greater-than-target",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "二分",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
