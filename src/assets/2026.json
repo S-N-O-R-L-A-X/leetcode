@@ -374,6 +374,56 @@
           "learn": "",
           "unknown": ""
         }
+      ],
+      [
+        {
+          "date": "2026/2/1",
+          "no": "3010",
+          "name": "将数组分成最小总代价的子数组 I",
+          "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+          "difficulty": "简单",
+          "rating": 1292,
+          "situation": "自己做出",
+          "method": "转化+排序",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/2",
+          "no": "3013",
+          "name": "将数组分成最小总代价的子数组 II",
+          "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+          "difficulty": "困难",
+          "rating": 2540,
+          "situation": "有序集合",
+          "method": "没看懂答案",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/3",
+          "no": "3637",
+          "name": "三段式数组 I",
+          "slug": "trionic-array-i",
+          "difficulty": "简单",
+          "rating": 1264,
+          "situation": "自己做出",
+          "method": "分组循环",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/4",
+          "no": "3640",
+          "name": "三段式数组 II",
+          "slug": "trionic-array-ii",
+          "difficulty": "困难",
+          "rating": 2278,
+          "situation": "没看懂答案",
+          "method": "分组循环",
+          "learn": "",
+          "unknown": ""
+        }
       ]
     ]
   }
