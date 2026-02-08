@@ -423,6 +423,54 @@
           "method": "分组循环",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/2/5",
+          "no": "3379",
+          "name": "转换数组",
+          "slug": "transformed-array",
+          "difficulty": "简单",
+          "rating": 1257,
+          "situation": "自己做出",
+          "method": "",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/6",
+          "no": "3634",
+          "name": "使数组平衡的最少移除数目",
+          "slug": "minimum-removals-to-balance-array",
+          "difficulty": "中等",
+          "rating": 1453,
+          "situation": "自己做出",
+          "method": "排序+双指针/二分",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/7",
+          "no": "1653",
+          "name": "使字符串平衡的最少删除次数",
+          "slug": "minimum-deletions-to-make-string-balanced",
+          "difficulty": "中等",
+          "rating": 1794,
+          "situation": "自己做出",
+          "method": "前后缀",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/8",
+          "no": "110",
+          "name": "平衡二叉树",
+          "slug": "balanced-binary-tree",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "递归",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
