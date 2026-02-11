@@ -471,6 +471,42 @@
           "method": "递归",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/2/9",
+          "no": "1382",
+          "name": "将二叉搜索树变平衡",
+          "slug": "balance-a-binary-search-tree",
+          "difficulty": "中等",
+          "rating": 1541,
+          "situation": "没看懂答案",
+          "method": "贪心",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/10",
+          "no": "3719",
+          "name": "最长平衡子数组 I",
+          "slug": "longest-balanced-subarray-i",
+          "difficulty": "中等",
+          "rating": 1467,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/11",
+          "no": "3721",
+          "name": "最长平衡子数组 II",
+          "slug": "longest-balanced-subarray-ii",
+          "difficulty": "困难",
+          "rating": 2724,
+          "situation": "没看懂答案",
+          "method": "线段树",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
