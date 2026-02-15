@@ -507,6 +507,54 @@
           "method": "线段树",
           "learn": "",
           "unknown": ""
+        },
+        {
+          "date": "2026/2/12",
+          "no": "3713",
+          "name": "最长的平衡子串 I",
+          "slug": "longest-balanced-substring-i",
+          "difficulty": "中等",
+          "rating": 1490,
+          "situation": "自己做出",
+          "method": "哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/13",
+          "no": "3714",
+          "name": "最长的平衡子串 II",
+          "slug": "longest-balanced-substring-ii",
+          "difficulty": "中等",
+          "rating": 2202,
+          "situation": "没看懂答案",
+          "method": "前缀和+哈希",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/14",
+          "no": "799",
+          "name": "香槟塔",
+          "slug": "champagne-tower",
+          "difficulty": "中等",
+          "rating": 1856,
+          "situation": "自己做出",
+          "method": "模拟/bfs",
+          "learn": "",
+          "unknown": ""
+        },
+        {
+          "date": "2026/2/15",
+          "no": "67",
+          "name": "二进制求和",
+          "slug": "add-binary",
+          "difficulty": "简单",
+          "rating": null,
+          "situation": "自己做出",
+          "method": "模拟/位运算",
+          "learn": "",
+          "unknown": ""
         }
       ]
     ]
